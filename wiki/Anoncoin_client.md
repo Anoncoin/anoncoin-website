@@ -8,7 +8,7 @@ permalink: /Anoncoin_client/
 External Links
 --------------
 
--   [Download the Anoncoin-Qt Wallet](https://anoncoin.net/index.php/downloads)
+-   [Download the Anoncoin-Qt Wallet](/downloads)
 -   [The Anoncoin source code](https://github.com/Anoncoin/anoncoin)
 
 [Category:Anoncoin](/Category:Anoncoin "wikilink")
