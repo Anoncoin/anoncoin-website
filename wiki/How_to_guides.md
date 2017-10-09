@@ -1,4 +1,5 @@
 ---
+layout: page
 title: How to guides
 permalink: /How_to_guides/
 ---
