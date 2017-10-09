@@ -5,7 +5,13 @@ permalink: /Donate/
 
 **Help support Anoncoin by donating ANC to the following address:**
 
-`Acoin7tkEib9d8BfomQYUK66z5fhwN3DgV`
+{% highlight shell %}
+
+Acoin7tkEib9d8BfomQYUK66z5fhwN3DgV
+
+{% endhighlight %}
+
+
 
 Most of your donations will be used for [bounties](/Bounties "wikilink"), including public relations work, web site development, and specific code-related tasks. You can check the balance of the ANC donation address [here](http://ancblockchain.com/address/Acoin7tkEib9d8BfomQYUK66z5fhwN3DgV).
 
