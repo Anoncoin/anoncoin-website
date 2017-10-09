@@ -1,10 +1,4 @@
 ---
-layout: page
-title: About
-permalink: /about/
----
-
----
 title: About Anoncoin
 permalink: /About_Anoncoin/
 ---
