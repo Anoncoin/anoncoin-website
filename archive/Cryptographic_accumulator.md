@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Cryptographic accumulator
 permalink: /Cryptographic_accumulator/
 ---

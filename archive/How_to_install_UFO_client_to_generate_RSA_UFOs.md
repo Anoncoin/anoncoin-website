@@ -1,4 +1,5 @@
 ---
+layout: page
 title: How to install UFO client to generate RSA UFOs
 permalink: /How_to_install_UFO_client_to_generate_RSA_UFOs/
 ---

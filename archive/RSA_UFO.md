@@ -1,4 +1,5 @@
 ---
+layout: page
 title: RSA UFO
 permalink: /RSA_UFO/
 ---

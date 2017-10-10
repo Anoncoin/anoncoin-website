@@ -1,4 +1,5 @@
 ---
+layout: page
 title: GroundRod PID main ver1
 permalink: /GroundRod_PID_main_ver1/
 ---

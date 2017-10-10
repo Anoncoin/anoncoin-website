@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Zero-knowledge proof
 permalink: /Zero-knowledge_proof/
 ---

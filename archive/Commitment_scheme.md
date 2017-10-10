@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Commitment scheme
 permalink: /Commitment_scheme/
 ---
