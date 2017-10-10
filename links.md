@@ -5,7 +5,6 @@ permalink: /links/
 ---
 
 ## About
-
 *   [About Anoncoin](/About_Anoncoin "About Anoncoin")
 *   [Anoncoin in the news](/Anoncoin_in_the_news "Anoncoin in the news")
 *   [Anoncoin development team](/Anoncoin_development_team "Anoncoin development team")
@@ -46,7 +45,6 @@ permalink: /links/
     * [Secure your wallet](/Securing_your_wallet "Securing your wallet")
 
 ## Services 
-
 *   [Block chain explorers](/Block_chain_explorers "Block chain explorers")
 *   [Exchanges](/Exchanges "Exchanges")
 *   [Internet resources](/Internet_resources "Internet resources")
@@ -54,7 +52,6 @@ permalink: /links/
 *   [Places that accept Anoncoin](/Places_that_accept_Anoncoin "Places that accept Anoncoin")
 
 ## Community 
-
 *   [Block chain explorers](/Block_chain_explorers "Block chain explorers")
 *   [Exchanges](/Exchanges "Exchanges")
 *   [Internet resources](/Internet_resources "Internet resources")
