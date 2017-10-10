@@ -13,14 +13,14 @@ permalink: /links/
 
 
 
-## Downloads / wallet
+## Downloads
 * [Mac](/Download#mac-os-x "MacOS")
 * [Windows](/Download#windows "Windows")
 * [Linux](/Download#linux "Linux")
 * [Mobile](/Download#mobile "Mobile")
 
 
-## Resources:
+## Resources
 * [Blog](/Blog "Blog")
 * [FAQ](/FAQ "FAQ")
 * [Wiki](/h "Articles")
@@ -64,6 +64,7 @@ permalink: /links/
 *   [Places that accept Anoncoin](/Places_that_accept_Anoncoin "Places that accept Anoncoin")
 
 ## Community 
+*   [Forum](https://forum.anoncoin.net "Forum")
 *   [Bitcointalk](https://bitcointalk.org/index.php?topic=227287.0 "Bitcointalk")
 *   [Anoncoin Reddit](https://www.reddit.com/r/Anoncoin/ "Anoncoin Reddit")
 *   [IRC](List of irc channels "Anoncoin IRC")
