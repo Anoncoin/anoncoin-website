@@ -14,11 +14,10 @@ permalink: /links/
 
 
 ## Downloads / wallet
-* [Download](/Download "Download")
-* [Mac](/About_Anoncoin "A")
-* [Windows](/Anoncoin_and_Zerocoin_in_the_news "B")
-* [Linux](/Anoncoin_development_team "C")
-* [Mobile](/Anonymity_of_cryptocurrencies "D")
+* [Mac](/Download#mac-os-x "MacOS")
+* [Windows](/Download#windows "Windows")
+* [Linux](/Download#linux "Linux")
+* [Mobile](/Download#mobile "Mobile")
 
 
 ## Resources:

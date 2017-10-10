@@ -15,9 +15,41 @@ Download the Anoncoin client
 
 Choose one of the the following options below.
 
-### MS Windows
+### Windows
 
 You can choose execute the setup.exe from the [extractable zip file](https://anoncoin.net/downloads/0.9.6.11/) to be run from the directory, or just run the included [anoncoind daemon](https://anoncoin.net/downloads/0.9.6.11/) if you won't be using the QT graphic user interface.
+
+See also
+--------
+
+-   [How to build Anoncoin](/How_to_build_Anoncoin "wikilink")
+-   [How to use a bootstrap file to speed up initial synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization "wikilink")
+
+[Category:Anoncoin](/Category:Anoncoin "wikilink")
+
+See also
+--------
+
+-   [How to build Anoncoin](/How_to_build_Anoncoin "wikilink")
+-   [How to use a bootstrap file to speed up initial synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization "wikilink")
+
+[Category:Anoncoin](/Category:Anoncoin "wikilink")
+
+See also
+--------
+
+-   [How to build Anoncoin](/How_to_build_Anoncoin "wikilink")
+-   [How to use a bootstrap file to speed up initial synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization "wikilink")
+
+[Category:Anoncoin](/Category:Anoncoin "wikilink")
+
+See also
+--------
+
+-   [How to build Anoncoin](/How_to_build_Anoncoin "wikilink")
+-   [How to use a bootstrap file to speed up initial synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization "wikilink")
+
+[Category:Anoncoin](/Category:Anoncoin "wikilink")
 
 ### Mac OS X
 
@@ -32,6 +64,46 @@ Clone the master from [the git repository](https://github.com/Anoncoin/anoncoin)
 Obtain the Anoncoin source code by [cloning the git repository](https://github.com/Anoncoin/anoncoin).
 
 Anonymous download of these files is possible using the [Anoncoin I2P git repository](http://git.repo.i2p/w/anoncoin.git).
+
+See also
+--------
+
+-   [How to build Anoncoin](/How_to_build_Anoncoin "wikilink")
+-   [How to use a bootstrap file to speed up initial synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization "wikilink")
+
+[Category:Anoncoin](/Category:Anoncoin "wikilink")
+
+See also
+--------
+
+-   [How to build Anoncoin](/How_to_build_Anoncoin "wikilink")
+-   [How to use a bootstrap file to speed up initial synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization "wikilink")
+
+[Category:Anoncoin](/Category:Anoncoin "wikilink")
+
+See also
+--------
+
+-   [How to build Anoncoin](/How_to_build_Anoncoin "wikilink")
+-   [How to use a bootstrap file to speed up initial synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization "wikilink")
+
+[Category:Anoncoin](/Category:Anoncoin "wikilink")
+
+See also
+--------
+
+-   [How to build Anoncoin](/How_to_build_Anoncoin "wikilink")
+-   [How to use a bootstrap file to speed up initial synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization "wikilink")
+
+[Category:Anoncoin](/Category:Anoncoin "wikilink")
+
+See also
+--------
+
+-   [How to build Anoncoin](/How_to_build_Anoncoin "wikilink")
+-   [How to use a bootstrap file to speed up initial synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization "wikilink")
+
+[Category:Anoncoin](/Category:Anoncoin "wikilink")
 
 See also
 --------
