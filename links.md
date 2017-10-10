@@ -23,7 +23,7 @@ permalink: /links/
 ## Resources
 * [Blog](/Blog "Blog")
 * [FAQ](/FAQ "FAQ")
-* [Wiki](/h "Articles")
+* [Wiki](/Wiki/ "Wiki")
     * [Anoncoin address](/Anoncoin_address/ "Anoncoin address")
     * [Anoncoin-cli commands](/Anoncoin-cli_commands/ "Anoncoin-cli commands")
     * [Anoncoin client](/Anoncoin_client/ "Anoncoin client")
