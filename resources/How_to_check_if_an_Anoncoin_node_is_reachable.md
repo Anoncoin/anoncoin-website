@@ -1,4 +1,5 @@
 ---
+layout: page
 title: How to check if an Anoncoin node is reachable
 permalink: /How_to_check_if_an_Anoncoin_node_is_reachable/
 ---

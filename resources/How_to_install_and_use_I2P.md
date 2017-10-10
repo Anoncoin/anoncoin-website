@@ -1,4 +1,5 @@
 ---
+layout: page
 title: How to install and use I2P
 permalink: /How_to_install_and_use_I2P/
 ---

@@ -1,4 +1,5 @@
 ---
+layout: page
 title: How to mine Anoncoin
 permalink: /How_to_mine_Anoncoin/
 ---

@@ -1,4 +1,5 @@
 ---
+layout: page
 title: How to rebroadcast transaction
 permalink: /How_to_rebroadcast_transaction/
 ---

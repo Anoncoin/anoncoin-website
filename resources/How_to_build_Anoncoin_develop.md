@@ -1,4 +1,5 @@
 ---
+layout: page
 title: How to build Anoncoin develop
 permalink: /How_to_build_Anoncoin_develop/
 ---

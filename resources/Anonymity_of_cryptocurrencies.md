@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Anonymity of cryptocurrencies
 permalink: /Anonymity_of_cryptocurrencies/
 ---

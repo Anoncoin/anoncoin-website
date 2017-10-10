@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Coin control
 permalink: /Coin_control/
 ---

@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Anoncoin development team
 permalink: /Anoncoin_development_team/
 ---

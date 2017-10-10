@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Creating themes
 permalink: /Creating_themes/
 ---

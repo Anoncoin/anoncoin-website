@@ -1,4 +1,5 @@
 ---
+layout: page
 title: I2P
 permalink: /I2P/
 ---

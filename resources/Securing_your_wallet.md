@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Securing your wallet
 permalink: /Securing_your_wallet/
 ---

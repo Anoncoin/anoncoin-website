@@ -1,4 +1,5 @@
 ---
+layout: page
 title: How to setup your Anoncoin wallet
 permalink: /How_to_setup_your_Anoncoin_wallet/
 ---

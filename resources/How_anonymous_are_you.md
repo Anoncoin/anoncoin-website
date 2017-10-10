@@ -1,4 +1,5 @@
 ---
+layout: page
 title: How anonymous are you
 permalink: /How_anonymous_are_you/
 ---

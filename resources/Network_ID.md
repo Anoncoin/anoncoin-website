@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Network ID
 permalink: /Network_ID/
 ---

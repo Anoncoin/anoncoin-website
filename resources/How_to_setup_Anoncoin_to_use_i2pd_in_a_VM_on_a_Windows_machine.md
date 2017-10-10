@@ -1,4 +1,5 @@
 ---
+layout: page
 title: How to setup Anoncoin to use i2pd in a VM on a Windows machine
 permalink: /How_to_setup_Anoncoin_to_use_i2pd_in_a_VM_on_a_Windows_machine/
 ---

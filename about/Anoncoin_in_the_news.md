@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Anoncoin in the news
 permalink: /Anoncoin_in_the_news/
 ---

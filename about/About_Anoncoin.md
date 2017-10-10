@@ -1,4 +1,5 @@
 ---
+layout: page
 title: About Anoncoin
 permalink: /About_Anoncoin/
 ---

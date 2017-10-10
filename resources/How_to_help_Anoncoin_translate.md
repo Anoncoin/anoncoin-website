@@ -1,4 +1,5 @@
 ---
+layout: page
 title: How to help Anoncoin translate
 permalink: /How_to_help_Anoncoin_translate/
 ---

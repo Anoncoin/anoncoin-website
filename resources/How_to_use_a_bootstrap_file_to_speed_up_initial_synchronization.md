@@ -1,4 +1,5 @@
 ---
+layout: page
 title: How to use a bootstrap file to speed up initial synchronization
 permalink: /How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization/
 ---

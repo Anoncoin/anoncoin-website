@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Private key
 permalink: /Private_key/
 ---

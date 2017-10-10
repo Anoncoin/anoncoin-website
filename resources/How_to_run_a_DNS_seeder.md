@@ -1,4 +1,5 @@
 ---
+layout: page
 title: How to run a DNS seeder
 permalink: /How_to_run_a_DNS_seeder/
 ---

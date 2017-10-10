@@ -6,7 +6,7 @@ permalink: /Anoncoin-cli_commands/
 
 The following commands are to be typed in the Help -&gt; debug -&gt; console in anoncoin-qtc or else at the command line to anoncoin-cli, after having started anoncoind
 
-{% highlight shell %}
+{% highlight bash %}
 
 ./anoncoind
 Anoncoin server starting
@@ -18,7 +18,7 @@ Anoncoin server starting
 
 This is the list of all commands:
 
-{% highlight shell %}
+{% highlight bash %}
 
 == Blockchain ==
 getbestblockhash

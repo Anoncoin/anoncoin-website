@@ -1,4 +1,5 @@
 ---
+layout: page
 title: How to generate an Anoncoin paper wallet
 permalink: /How_to_generate_an_Anoncoin_paper_wallet/
 ---

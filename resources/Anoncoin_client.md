@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Anoncoin client
 permalink: /Anoncoin_client/
 ---

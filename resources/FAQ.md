@@ -1,7 +1,7 @@
 ---
+layout: page
 title: FAQ
 permalink: /FAQ/
-menus: links
 ---
 
 Is Anoncoin related to the Anonymous collective?

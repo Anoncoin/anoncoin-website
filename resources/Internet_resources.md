@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Internet resources
 permalink: /Internet_resources/
 ---

@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Places that accept Anoncoin
 permalink: /Places_that_accept_Anoncoin/
 ---

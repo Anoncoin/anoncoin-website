@@ -1,4 +1,5 @@
 ---
+layout: page
 title: How to import and export private keys from the Anoncoin client
 permalink: /How_to_import_and_export_private_keys_from_the_Anoncoin_client/
 ---

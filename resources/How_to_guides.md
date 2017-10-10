@@ -2,7 +2,6 @@
 layout: page
 title: How to guides
 permalink: /How_to_guides/
-menus: header
 ---
 ## How to:
 * [Build Anoncoin from source](/How_to_build_Anoncoin_from_source "How to build Anoncoin")

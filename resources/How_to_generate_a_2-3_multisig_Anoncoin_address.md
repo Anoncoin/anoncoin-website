@@ -1,4 +1,5 @@
 ---
+layout: page
 title: How to generate a 2-3 multisig Anoncoin address
 permalink: /How_to_generate_a_2-3_multisig_Anoncoin_address/
 ---

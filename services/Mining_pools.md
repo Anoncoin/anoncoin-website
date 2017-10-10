@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Mining pools
 permalink: /Mining_pools/
 ---

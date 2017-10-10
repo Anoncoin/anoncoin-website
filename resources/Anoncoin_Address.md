@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Anoncoin address
 permalink: /Anoncoin_address/
 ---

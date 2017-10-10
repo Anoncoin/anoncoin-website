@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Development schedule
 permalink: /Development_schedule/
 ---
