@@ -22,20 +22,41 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary:  0e0e0e
+  primary-rgb: "128,128,128" #"128,179,255"
+  secondary: 808080 #FD6E8A
+  secondary-dark: 535353 #A2122F
+
+# Footer settings
+footer:
+  copyright: Anoncoin
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com
+  - title: bitbucket
+    url: http://bitbucket.org
+  - title: github
+    url: http://github.com
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Somewhere
+  - line: Beverly Hills, CA 90210
+
+# Credits content
+credits: 'Anoncoin'
+
 # Build settings
 markdown: kramdown
-# theme: minima
-plugins:
-  - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+permalink: pretty

@@ -1,18 +1,62 @@
 - title: About
-  url: /about.html
-- title: Team
-  url: /team.html
-- title: Contact
-  url: /contact.html
-- title: Store
-  url: /store.html
-- title: Support
-  url: /support.html
+  url: /About_Anoncoin
   sublinks:
-    - title: FAQ
-      url: /faq.html
-    - title: Documentation
-      url: /documentation.html
-    - title: separator
-    - title: Customer Support
-      url: /customer-support.html
+  - title: About Anoncoin
+    url: /About_Anoncoin
+  - title: Anoncoin in the news
+    url: /Anoncoin_in_the_news
+  - title: Anoncoin development team
+    url: /Anoncoin_development_team
+  - title: Development schedule
+    url: /Development_schedule
+  - title: Donate
+    url: /Donate
+- title: Downloads
+  url: /Download
+  sublinks:
+  - title: Mac
+    url: /Download#mac-os-x
+  - title: Windows
+    url: /Download#windows
+  - title: Linux
+    url: /Download#linux
+  - title: Mobile
+    url: /Download#mobile 
+- title: Resources
+  url: /Resources
+  sublinks:
+  - title: Blog
+    url: /Blog
+  - title: FAQ
+    url: /FAQ
+  - title: Wiki
+    url: /Wiki/
+  - title: How to guides
+    url: /How_to_guides
+- title: Services
+  url: /Services
+  sublinks:
+  - title: Block chain explorers
+    url: /Block_chain_explorers
+  - title: Exchanges
+    url: /Exchanges
+  - title: Mining pools
+    url: /Mining_pools
+  - title: separator
+  - title: Places that accept Anoncoin
+    url: /Places_that_accept_Anoncoin
+- title: Community
+  url: /Community
+  sublinks:
+  - title: Forum
+    url: https://forum.anoncoin.net
+  - title: Bitcointalk
+    url: https://bitcointalk.org/index.php?topic=227287.0
+  - title: Anoncoin Reddit
+    url: https://www.reddit.com/r/Anoncoin/
+  - title: IRC
+    url: /IRC_channels
+  - title: Official Twitter
+    url: https://twitter.com/anoncoinproject?lang=en
+  - title: Facebook group
+    url: https://www.facebook.com/groups/Anoncoin/
