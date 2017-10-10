@@ -60,7 +60,6 @@ permalink: /links/
 ## Services 
 *   [Block chain explorers](/Block_chain_explorers "Block chain explorers")
 *   [Exchanges](/Exchanges "Exchanges")
-*   [Internet resources](/Internet_resources "Internet resources")
 *   [Mining pools](/Mining_pools "Mining pools")
 *   [Places that accept Anoncoin](/Places_that_accept_Anoncoin "Places that accept Anoncoin")
 
@@ -76,7 +75,6 @@ permalink: /links/
 *   [Cryptographic accumulator](/Cryptographic_accumulator "Cryptographic accumulator")
 *   [RSA UFO](/RSA_UFO "RSA UFO")
 *   [Zero-knowledge proof](/Zero-knowledge_proof "Zero-knowledge proof")
-*   [Zerocoin](/Zerocoin "Zerocoin")
 *   [GroundRod_PID](/GroundRod_PID "GroundRod PID")
 *   [GroundRod_PID main ver1](/GroundRod_PID_main_ver1/ "GroundRod PID 1")
 *   [GroundRod_PID mian ver2](/GroundRod_PID_main_ver2/ "GroundRod PID 2")
