@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Links
+menus: header
 permalink: /links/
 ---
 
