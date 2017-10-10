@@ -21,6 +21,7 @@ permalink: /links/
 
 
 ## Resources:
+* [Blog](/Blog "Blog")
 * [FAQ](/FAQ "FAQ")
 * [Wiki](/h "Articles")
     * [Anoncoin address](/Anoncoin_address/ "Anoncoin address")
@@ -64,11 +65,11 @@ permalink: /links/
 *   [Places that accept Anoncoin](/Places_that_accept_Anoncoin "Places that accept Anoncoin")
 
 ## Community 
-*   [Block chain explorers](/Block_chain_explorers "Block chain explorers")
-*   [Exchanges](/Exchanges "Exchanges")
-*   [Internet resources](/Internet_resources "Internet resources")
-*   [Mining pools](/Mining_pools "Mining pools")
-*   [Places that accept Anoncoin](/Places_that_accept_Anoncoin "Places that accept Anoncoin")
+*   [Bitcointalk](https://bitcointalk.org/index.php?topic=227287.0 "Bitcointalk")
+*   [Anoncoin Reddit](https://www.reddit.com/r/Anoncoin/ "Anoncoin Reddit")
+*   [IRC](List of irc channels "Anoncoin IRC")
+*   [Official Twitter](https://twitter.com/anoncoinproject?lang=en "Anoncoin Twitter")
+*   [Facebook group](https://www.facebook.com/groups/Anoncoin/ "Anoncoin Facebook")
 
 ## Archive - hidden
 *   [Commitment scheme](/Commitment_scheme "Commitment scheme")
