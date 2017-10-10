@@ -1,6 +1,6 @@
 ---
-title: Anoncoin and Zerocoin in the news
-permalink: /Anoncoin_and_Zerocoin_in_the_news/
+title: Anoncoin in the news
+permalink: /Anoncoin_in_the_news/
 ---
 
 2014
