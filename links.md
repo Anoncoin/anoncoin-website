@@ -9,23 +9,35 @@ permalink: /links/
 *   [Anoncoin in the news](/Anoncoin_in_the_news "Anoncoin in the news")
 *   [Anoncoin development team](/Anoncoin_development_team "Anoncoin development team")
 *   [Development schedule](/Development_schedule "Development schedule")
+*   [Donate](/Donate "Donate")
 
 
 
 ## Downloads / wallet
-*   [Mac](/About_Anoncoin "A")
-*   [Windows](/Anoncoin_and_Zerocoin_in_the_news "B")
-*   [Linux](/Anoncoin_development_team "C")
-*   [Mobile](/Anonymity_of_cryptocurrencies "D")
+* [Download](/Download "Download")
+* [Mac](/About_Anoncoin "A")
+* [Windows](/Anoncoin_and_Zerocoin_in_the_news "B")
+* [Linux](/Anoncoin_development_team "C")
+* [Mobile](/Anonymity_of_cryptocurrencies "D")
 
 
 ## Resources:
 * [FAQ](/FAQ "FAQ")
-* [Articles/wiki](/h "Articles")
-    * [I2P](/I2P "I2P")
+* [Wiki](/h "Articles")
+    * [Anoncoin address](/Anoncoin_address/ "Anoncoin address")
+    * [Anoncoin-cli commands](/Anoncoin-cli_commands/ "Anoncoin-cli commands")
+    * [Anoncoin client](/Anoncoin_client/ "Anoncoin client")
+    * [Anoncoin related resources](/Internet_resources/ "Internet resources")
     * [Anonymity of cryptocurrencies](/Anonymity_of_cryptocurrencies "Anonymity of cryptocurrencies")
+    * [Coin control](/Coin_control/ "Coin control")
+    * [How anonymous are you](/How_anonymous_are_you/ "How anonymous are you")
+    * [I2P](/I2P "I2P")
+    * [Network ID](/Network_ID/ "Network id")
+    * [Private key](/Private_key/ "Private key")
+    * [Scrypt](/Scrypt/ "Scrypt")
 * [How to guides](/how_to_guides/ "How to guides")
     * [Build Anoncoin from source](/How_to_build_Anoncoin_from_source "How to build Anoncoin")
+    * [Build Anoncoin development](/How_to_build_Anoncoin_develop/ "Build Anoncoin development")
     * [Install and use I2P](/How_to_install_and_use_I2P "How to install and use I2P")
     * [Setup your Anoncoin wallet](/How_to_setup_your_Anoncoin_wallet "How to setup your Anoncoin wallet")
     * [Use a bootstrap file to speed up initial synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization "How to use a bootstrap file to speed up initial synchronization")
@@ -34,6 +46,7 @@ permalink: /links/
     * [Mine Anoncoin](/How_to_mine_Anoncoin "How to mine Anoncoin")
     * [Setup Anoncoin to use Tor](/How_to_setup_Anoncoin_to_use_Tor "How to setup Anoncoin to use Tor")
     * [Check if an Anoncoin node is reachable](/How_to_check_if_an_Anoncoin_node_is_reachable "How to check if an Anoncoin node is reachable")
+    * [How to install Anoncoin on Windows](/How_to_install_Anoncoin/ "How to install Anoncoin on Windows")
     * [Run a DNS seeder](/How_to_run_a_DNS_seeder "How to run a DNS seeder")
     * [Setup Anoncoin to use i2pd in a VM on a Windows machine](/How_to_setup_Anoncoin_to_use_i2pd_in_a_VM_on_a_Windows_machine "How to setup Anoncoin to use i2pd in a VM on a Windows machine")
     * [Generate an Anoncoin paper wallet](/How_to_generate_an_Anoncoin_paper_wallet "How to generate an Anoncoin paper wallet")
@@ -65,3 +78,8 @@ permalink: /links/
 *   [Zero-knowledge proof](/Zero-knowledge_proof "Zero-knowledge proof")
 *   [Zerocoin](/Zerocoin "Zerocoin")
 *   [GroundRod_PID](/GroundRod_PID "GroundRod PID")
+*   [GroundRod_PID main ver1](/GroundRod_PID_main_ver1/ "GroundRod PID 1")
+*   [GroundRod_PID mian ver2](/GroundRod_PID_main_ver2/ "GroundRod PID 2")
+*   [Anci2pd_batch](/Anci2pd_batch/ )
+*   [/How_to_install_UFO_client_to_generate_RSA_UFOs/](/How_to_install_UFO_client_to_generate_RSA_UFOs/ )
+

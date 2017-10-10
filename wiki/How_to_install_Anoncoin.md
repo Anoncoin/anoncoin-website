@@ -1,5 +1,5 @@
 ---
-title: How to install Anoncoin
+title: How to install Anoncoin on Windows
 permalink: /How_to_install_Anoncoin/
 ---
 
