@@ -46,7 +46,7 @@ Then copy/paste the sample `anoncoin.conf` for the 9.6.12 version in your data d
 
 and go at <http://127.0.0.1:7657/configclients>, activate SAM application bridge and make it run at startup, save the configuration.
 
-[<File:Configi2p.PNG>](/File:Configi2p.PNG "wikilink")
+![Image](/img/Configi2p.PNG)
 
 Then after 5 min, allowing time for the SAM application bridge to launch, start Anoncoin-qtc 9.6.12 with the following command (or run the “Generate I2P static privatekey” shortcut on windows):
 
@@ -60,7 +60,7 @@ The I2P address generated above will be used unless another one is specified in 
 
 You can also alternativelly go in the menu `settings-options-I2P-generate_I2P_address` and copy this key to anoncoin.conf.
 
-[<File:I2pdetail.png>](/File:I2pdetail.png "wikilink")
+![Image](/img/I2pdetail.png)
 
 Click on `copy `“`mydestination`”` parameter to the clipboard`, edit the `anoncoin.conf` in your data dir and paste the string in the `anoncoin.conf` at the following location:
 

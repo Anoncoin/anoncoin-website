@@ -10,11 +10,11 @@ This guide is made for the user to show if exchanges using these shady technique
 
 The user shall provide it to them whenever the exchanges do not want to rebroadcast a transaction or provide a TXID. Sometimes these exchanges (**Cryptsy**, **BTC38**) use pictures to show the transaction was done by them but **the user shall never forget that if a transaction is not taken up by the blockchain and is not confirmed it is not valid**.
 
-[800 px](/File:1458972596x3738746559.png "wikilink")
+![Image](/img/1458972596x3738746559.png)
 
 Such a picture only show that the exchange did a transaction but going into an explorer <https://coinplorer.com/ANC/Transactions/69c9369368c9dc2dbca8361c3297c2089dd26e99b07dac40bd1bb7eabd41cf67> we see it was not accepted by the blockchain:
 
-[800 px](/File:Capture_3.PNG "wikilink")
+![Image](/img/Capture_3.PNG)
 
 To know if the exchange is honest (**Cryptsy is definitely NOT honest**!) or if the exchange is faking withdrawal error to steal your anoncoin, the user shall ask the helpdesk to do the following. If the exchange is honest, they shall do like shown below to help the user.
 

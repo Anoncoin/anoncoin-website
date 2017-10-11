@@ -4,7 +4,11 @@ title: I2P
 permalink: /I2P/
 ---
 
-[right|450 px](/File:imgres.jpg "wikilink") **I2P** (an acronym for the Invisible Internet Project) is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs. I2P is used by many people who care about their privacy: activists, oppressed people, journalists and whistleblowers, as well as the average person. No network can be “perfectly anonymous”. The continued goal of I2P is to make attacks more and more difficult to mount. Its anonymity will get stronger as the size of the network increases and with ongoing academic review.
+<div class='pull-right' markdown="1">
+![Image](/img/imgres.jpg)
+</div>
+
+ **I2P** (an acronym for the Invisible Internet Project) is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs. I2P is used by many people who care about their privacy: activists, oppressed people, journalists and whistleblowers, as well as the average person. No network can be “perfectly anonymous”. The continued goal of I2P is to make attacks more and more difficult to mount. Its anonymity will get stronger as the size of the network increases and with ongoing academic review.
 
 How does it work?
 -----------------
