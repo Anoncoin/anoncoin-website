@@ -11,7 +11,7 @@ In digital networks, anonymity is the lack of evidence that can reveal the true 
 
 ### The block chain is a public ledger
 
-[600px](/File:Ip.bitcointalk-5.jpg "wikilink")
+![Ledger](/img/Ip.bitcointalk-5.jpg)
 
 Bitcoin transactions are all stored, by design, in a public ledger (the block chain) that is accessible to everyone. These transactions provide privacy through pseudonymity, in that while each transaction is associated with the public address of the sender and receiver, the real-life names of the owners of these addresses are at no time made known to the network. To increase privacy, each person could create as many public addresses as they like, making it difficult to link transactions to the same person.
 
@@ -37,7 +37,7 @@ For an explanation of the differences between Tor and I2P, see this link: <https
 
 ### Mixing
 
-[600px](/File:Ip.bitcointalk-1.jpg "wikilink")
+![Mixing](/img/Ip.bitcointalk-1.jpg)
 
 It is possible to launder coins through a trusted third party, where the input coins are mixed in a large pool and output to a new address [1](http://www.coindesk.com/how-anonymous-is-bitcoin/). This is not a strong anonymity method given that you need to trust the service where you send the coins. A similar possibility would be to use an exchange where you could convert one cryptocurrency into another one. By doing so, you would get some coins from which the original source is very difficult to guess, but not impossible either. You would need to trust the exchanges, and it is possible that the exchange could provide their logs if asked by law enforcement.
 
@@ -45,7 +45,7 @@ It is possible to launder coins through a trusted third party, where the input c
 
 In conclusion, the public nature of the block chain is, paradoxically, a great tool and a big concern, because there are now special offices that provide block chain investigation services. That's why there must exist a strong way of anonymizing transactions when needed.
 
-[600px](/file:Ip.bitcointalk-2.jpg "wikilink")
+![Conclusion](/img/Ip.bitcointalk-2.jpg)
 
 Privacy-centric cryptocurrencies: methods and issues
 ====================================================
