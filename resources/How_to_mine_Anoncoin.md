@@ -34,5 +34,3 @@ See also
 --------
 
 -   [Mining pools](/Mining_pools "wikilink")
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink") [Category:Guides](/Category:Guides "wikilink")

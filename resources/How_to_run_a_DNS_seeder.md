@@ -68,5 +68,3 @@ git, screen, gcc, g++, libcrypto++-dev, make, bash, libboost?-dev, libssl-dev
 ### Running
 
 Just execute the startscript that you set up in the preceding section.
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink") [Category:Guides](/Category:Guides "wikilink")

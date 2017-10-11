@@ -15,5 +15,3 @@ External Links
 
 -   [Download the Anoncoin-Qt Wallet](/download)
 -   [The Anoncoin source code](https://github.com/Anoncoin/anoncoin)
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink")

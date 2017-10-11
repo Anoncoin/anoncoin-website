@@ -133,5 +133,3 @@ See also
 -   [How to setup Anoncoin to use Tor](/How_to_setup_Anoncoin_to_use_Tor "wikilink")
 -   [Securing your wallet](/Securing_your_wallet "wikilink")
 -   [How to use a bootstrap file to speed up initial synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization "wikilink")
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink") [Category:Guides](/Category:Guides "wikilink")

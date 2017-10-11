@@ -21,5 +21,3 @@ Scrypt Hashing
 --------------
 
 The source code in C++ for the scrypt hashing function can be found here: [scrypt.cpp](https://github.com/Anoncoin/anoncoin/blob/master/src/scrypt.cpp)
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink")

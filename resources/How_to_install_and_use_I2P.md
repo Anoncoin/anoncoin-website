@@ -115,5 +115,3 @@ See also
 --------
 
 -   [I2P](/I2P)
-
-[Category:Anoncoin](/Category:Anoncoin) [Category:Guides](/Category:Guides)

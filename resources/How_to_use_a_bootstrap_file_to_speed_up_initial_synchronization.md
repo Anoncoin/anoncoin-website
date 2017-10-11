@@ -47,5 +47,3 @@ Is this safe?
 -------------
 
 Yes, the above method is safe. The download contains only the raw blockchain data and the client verifies this when it is imported. Do not download the blockchain from unofficial sources.
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink") [Category:Guides](/Category:Guides "wikilink")

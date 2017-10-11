@@ -68,5 +68,3 @@ There is one special substitution that is available in the style sheet for easil
 `QComboBox::down-arrow:disabled {`
 `        image: url(_themesdir/down-arrow-disabled.png);`
 `}`
-
-[Category: Anoncoin](/Category:_Anoncoin "wikilink") [Category:Guides](/Category:Guides "wikilink")

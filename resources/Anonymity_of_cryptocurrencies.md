@@ -230,5 +230,3 @@ See also
 --------
 
 -   [How anonymous are you](/How_anonymous_are_you "wikilink")
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink")

@@ -95,5 +95,3 @@ In that directory, edit anoncoin.conf (for version 0.9.4) and change those lines
 Run anoncoin-qt
 
 Wait until it open and then get connected (check the peers in debug windows, it can take from 5 min to 20 min)
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink") [Category:Guides](/Category:Guides "wikilink")

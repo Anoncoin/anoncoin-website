@@ -43,5 +43,3 @@ If the language doesn't exist, an easy starting point is to use the translation 
 2.  Click on the language, and then *download for use*.
 3.  Open the file in an editor and replace all instances of “Bitcoin” and “bitcoin” with “Anoncoin” and “anoncoin”.
 4.  Go back to the [Anoncoin dashboard](https://www.transifex.com/organization/anoncoin-1/dashboard), click on the language to translate, the anoncoin project, and the resource *qt-translation-v9*, and then *upload file*.
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink") [Category:Guides](/Category:Guides "wikilink")

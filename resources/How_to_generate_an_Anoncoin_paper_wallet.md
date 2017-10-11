@@ -19,5 +19,3 @@ To generate an Anoncoin paper wallet, you have four choices (it is best practice
 <!-- -->
 
 -   Download the zip at <https://github.com/MichaelMure/WalletGenerator.net>, unzip and execute the html file from your hard drive while being disconnected from the internet, selecting Anoncoin currency
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink") [Category:Guides](/Category:Guides "wikilink")

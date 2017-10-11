@@ -46,5 +46,3 @@ See also
 
 -   [Tor](/Tor "wikilink")
 -   [How to install and use I2P](/How_to_install_and_use_I2P "wikilink")
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink")

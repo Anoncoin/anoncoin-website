@@ -49,5 +49,3 @@ Internet security and anonymity
 -------------------------------
 
 -   [**Jolly Roger's security guide for beginners (DeepDotWeb.com)**](http://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/) - A good site that has many articles describing how to remain anonymous on the web.
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink")

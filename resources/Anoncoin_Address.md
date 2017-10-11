@@ -44,5 +44,3 @@ See also
 
 -   [Anoncoin](/Anoncoin "wikilink")
 -   [How to generate an Anoncoin vanity address](/How_to_generate_an_Anoncoin_vanity_address "wikilink")
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink")

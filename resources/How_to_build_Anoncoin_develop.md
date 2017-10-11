@@ -224,5 +224,3 @@ What to do next?
 Place the `bootstrap.dat` file in the appropriate Anoncoin data directory: [How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization "wikilink")
 
 Create the `anoncoin.conf` file in the appropriate Anoncoin data directory: [Sample_anoncoin.conf](/Sample_anoncoin.conf "wikilink")
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink") [Category:Guides](/Category:Guides "wikilink")

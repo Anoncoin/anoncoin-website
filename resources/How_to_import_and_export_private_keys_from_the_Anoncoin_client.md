@@ -39,5 +39,3 @@ Exporting a private key follows the same steps as above for importing a private 
 `dumpprivkey MyAnoncoinPublicAddress`
 
 Please store your private key in a secure location: If anyone obtained it, they would be able to steal all of your coins.
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink") [Category:Guides](/Category:Guides "wikilink")

@@ -11,5 +11,3 @@ To check if an Anoncoin i2p node is reachable, use the following command from th
 To check if a Tor onion node is reachable, use
 
 `nc -z -v -X 5 -x 127.0.0.1:9050 kjwhbac5hwwdimq7.onion 9377`
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink") [Category:Guides](/Category:Guides "wikilink")

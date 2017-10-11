@@ -31,5 +31,3 @@ External links
 --------------
 
 -   [vanitygen - <https://github.com/samr7/vanitygen>](https://github.com/samr7/vanitygen)
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink") [Category:Guides](/Category:Guides "wikilink")

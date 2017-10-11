@@ -230,5 +230,3 @@ The status would be “`complete`”` : false` if the private keys entered are l
 This is the TXID of the spent transaction from the address `3Q29ysL3DNsnyybhy8ErfeqfPTDhvgUN62`. The user owning `AdevgrKr8CnxqywbwTCC2So4WgKwb9jNEE` will receive 2.5 ANC.
 
 **WARNING:** Using this method, always spend all the fund from the multisig address in one transaction only, otherwise the excess fund will be donated back to the miners!
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink") [Category:Guides](/Category:Guides "wikilink")
