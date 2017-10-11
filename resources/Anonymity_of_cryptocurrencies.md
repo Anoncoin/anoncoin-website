@@ -205,7 +205,7 @@ More complex cryptographic approaches
 
 -   Transactions sizes are not increased substantially in the blockchain, because most information is stored in a secondary database that is periodically deleted.
 
-[<File:Ip.bitcointalk-4.jpg>](/File:Ip.bitcointalk-4.jpg "wikilink")
+![Mixing](/img/Ip.bitcointalk-4.jpg)
 
 ### Zerocash
 

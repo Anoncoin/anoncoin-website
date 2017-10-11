@@ -11,7 +11,9 @@ Each style is in its own directory along with any graphics it uses. The themes s
 Layout
 ------
 
-The layout of each screen is defined in the \*.ui files of the source code, which can be found in src/qt/forms. Each is slightly different but all contain common Qt layout items. It is handy to look at these files when designing complicated styles that affect specific named elements. The layout is much like CSS's box model. For example, here is a diagram of how the Overview screen was laid out in a recent version. [<File:anoncoin_layout.png>](/File:anoncoin_layout.png "wikilink")
+The layout of each screen is defined in the \*.ui files of the source code, which can be found in src/qt/forms. Each is slightly different but all contain common Qt layout items. It is handy to look at these files when designing complicated styles that affect specific named elements. The layout is much like CSS's box model. For example, here is a diagram of how the Overview screen was laid out in a recent version. 
+
+![Layout](/img/anoncoin_layout.png)
 
 As an example, we can tell it the style sheet that we want all QLabels to be black except for the Immature balance which we want to be grey. This would be done by defining first the normal color for QLabels, and then the specific color for labelImmature:
 

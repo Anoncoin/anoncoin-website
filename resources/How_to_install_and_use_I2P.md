@@ -9,53 +9,55 @@ Graphical guide to install I2P on windows and configure the SAM bridge
 
 [Get I2P](https://geti2p.net/en/download) for windows and download.
 
-[center|450 px](/File:I2P1.PNG "wikilink")
+
+
+![Image](/img/I2P1.PNG "wikilink")
 
 Start the installation. You may also need to install the latest Java.
 
-[center|450 px](/File:I2P2.PNG "wikilink")
+![Image](/img/I2P2.PNG "wikilink")
 
 Choosing all default values, finish the installation.
 
-[center|450 px](/File:I2P3.PNG "wikilink")
+![Image](/img/I2P3.PNG "wikilink")
 
 Launch I2P from the Start menu with the “Start I2P (no window)” link
 
-[center|250 px](/File:I2P4.PNG "wikilink")
+![Image](/img/I2P4.PNG "wikilink")
 
 After a few seconds the “I2P router console” shall open in your browser. If not, open your browser to <http://127.0.0.1:7657/home>
 
-[center|450 px](/File:I2P5.PNG "wikilink")
+![Image](/img/I2P5.PNG "wikilink")
 
 Click on the Top left I2P logo then on “I2P Services” to open the “I2P client configuration”. Alternatively, open your browser to <http://127.0.0.1:7657/configclients>
 
-[center|1250 px](/File:I2P6.PNG "wikilink")
+![Image](/img/I2P6.PNG "wikilink")
 
 Start “SAM application bridge”, check “run on startup” and click on “Save client configuration”.
 
-[center|1250 px](/File:I2P7.png "wikilink")
+![Image](/img/I2P7.png "wikilink")
 
 When you see “Shared Client” in green, it means the I2P router is ready!
 
-[center|250 px](/File:I2P8.png "wikilink")
+![Image](/img/I2P8.png "wikilink")
 
 Go in the Anoncoin folder ([How_to_install_Anoncoin](/How_to_install_Anoncoin "wikilink")) in the Start menu and click on “Generate I2P static privatekey”. Alternatively, execute `anoncoin-qtc -i2p.options.enabled=1 -onlynet=i2p -generatei2pdestination`
 
-[center|250 px](/File:I2P9.png "wikilink")
+![Image](/img/I2P9.png "wikilink")
 
 Anoncoin will launch and try to connect to the I2P router via SAM bridge with default parameters. If the router is ready it will eventually connect.
 
-[center|450 px](/File:I2P10.png "wikilink")
+![Image](/img/I2P10.png "wikilink")
 
 When the “Anoncoin - Generated I2P Destination” box has opened, it means the Anoncoin client has created a new static I2P destination (in file `I2Pkey.dat`).
 
-[center|550 px](/File:I2P11.png "wikilink")
+![Image](/img/I2P11.png "wikilink")
 
 Abort will close the client, Apply will launch it and open the “Private I2P Destination Details” windows. Any choice done will keep the previously generated I2P destination.
 
 On next launch using the “Anoncoin Core (64-bit) I2P-only” link, it will automatically use the same previously generated I2P destination in a static manner. Alternatively, execute `anoncoin-qtc -i2p.options.enabled=1 -onlynet=i2p` You can also set this as a permanent setting via `anoncoin.conf` (see [How_to_install_Anoncoin](/How_to_install_Anoncoin "wikilink") and [Anoncoin-0.9.6.12.conf](/Anoncoin-0.9.6.12.conf "wikilink")).
 
-[center|250 px](/File:Install8.png "wikilink")
+![Image](/img/Install8.png "wikilink")
 
 Another possibility is to set the I2P destination in the anoncoin.conf file, as detailed elsewhere, which will take precedence on the I2P destination stored in `I2Pkey.dat`.
 
@@ -105,7 +107,7 @@ Setup your browser to use I2P via a proxy
 
 In Firefox go to *preferences* or *options &gt; advanced &gt; network*. Click on proxy settings and in the http field type 127.0.0.1 and 4444 for the port.
 
-[<File:Firefox_proxyports.jpg>](/File:Firefox_proxyports.jpg "wikilink")
+![Image](/img/Firefox_proxyports.jpg "wikilink")
 
 Note that all http addresses will be sent through this proxy, and you will no longer be able to access normal clearnet web pages. By using the Firefox and Chome plugin called FoxyProxy, it is possible to configure your browser to use this proxy only for urls that end with .i2p. If you use FoxyProxy, be sure to also disable cross site scripting using the NoScript plugin.
 
