@@ -31,7 +31,11 @@ The only two protocols that provide 100% provable anonymity are [Zerocoin](/Zero
 Coin details
 ------------
 
-[right|550 px](/File:ANCminedtime.PNG "wikilink") The defining features of the Anoncoin cryptocurrency are:
+<div class='pull-right' markdown="1">
+![Logo](/img/ANCminedtime.PNG)
+</div>
+
+The defining features of the Anoncoin cryptocurrency are:
 
 -   **Launch date:** June 6, 2013.
 -   **Type:** Proof of work with Scrypt hashing algorithm.
