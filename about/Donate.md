@@ -37,5 +37,3 @@ The above public address is owned by the lead developer, Meeh. This can be verif
     -----END PGP SIGNATURE-----
 
 Signed with his (new) key; 0xB431B67770E4AA38. (Key confirmation at <https://sigterm.no/pages/1/>)
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink") [Category:Bounties](/Category:Bounties "wikilink")

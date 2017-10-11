@@ -43,5 +43,3 @@ permalink: /Anoncoin_in_the_news/
     Cryptography Engineering (blog)- April 11, 2013
 -   [**Bitcoin add-on makes your virtual purchases private**](http://www.newscientist.com/blogs/onepercent/2013/03/bitcoin-zerocoin.html)
     NewScientist - March 13, 2013
-
-[Category: Anoncoin](/Category:_Anoncoin "wikilink") [Category: Zerocoin](/Category:_Zerocoin "wikilink") [Category:Press](/Category:Press "wikilink")

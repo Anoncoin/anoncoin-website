@@ -126,5 +126,3 @@ To-do list
 -   Implement [Hierarchical Deterministic Wallets](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)
 -   Port [PyWallet](https://github.com/jackjack-jj/pywallet) to Anoncoin?
 -   Add multisig support to the Qt client.
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink")

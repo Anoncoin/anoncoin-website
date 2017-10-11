@@ -4,14 +4,18 @@ title: About Anoncoin
 permalink: /About_Anoncoin/
 ---
 
-[right|200 px](/File:Ip.bitcointalk.png "wikilink") **Anoncoin** (trading symbol ANC) is a digital cryptocurrency that focuses on privacy and anonymity for its users. Created in June 2013, it is the first (and currently only) coin that provides built in support for the [I2P](/I2P "wikilink") darknet that makes it impossible to determine the IP address of the user. Anoncoin also has built in support of [Tor](/Tor "wikilink"), which can help conceal your location and keep your internet traffic private. A long-term goal of Anoncoin is to implement [Zerocoin](/Zerocoin "wikilink"), which will allow users to make transactions that can not be linked in the block chain. With I2P and Zerocoin, Anoncoin will be the first truly anonymous cryptocurrency.
+<div class='pull-right' markdown="1">
+![Logo](/img/Ip.bitcointalk.png)
+</div>
+
+**Anoncoin** (trading symbol ANC) is a digital cryptocurrency that focuses on privacy and anonymity for its users. Created in June 2013, it is the first (and currently only) coin that provides built in support for the [I2P](/I2P "wikilink") darknet that makes it impossible to determine the IP address of the user. Anoncoin also has built in support of [Tor](/Tor "wikilink"), which can help conceal your location and keep your internet traffic private. A long-term goal of Anoncoin is to implement [Zerocoin](/Zerocoin "wikilink"), which will allow users to make transactions that can not be linked in the block chain. With I2P and Zerocoin, Anoncoin will be the first truly anonymous cryptocurrency.
 
 The Anoncoin network is maintained by decentralized miners who process transactions into blocks that are added to the public block chain. With the creation of each block, a specific amount of anoncoin is created that is rewarded to the miner. There can be only about 3.1 million coins created, which is approximately 7 times less than the Bitcoin cryptocurrency. The difficulty of the scrypt proof-of-work algorithm is adjusted to ensure that a block is created about every 3 minutes.
 
 Why was Anoncoin created?
 -------------------------
 
-Anoncoin was created not only for the purpose of strong user privacy (which is lacking in Bitcoin and all other cryptocurrencies), but also to provide a cryptocurrency that could support an eventual crackdown from hostile governments and central banks. As opposed to many alternative cryptocurrencies that serve only to enrich financially the developers, Anoncoin was released in an entirely transparent manner and with a fair initial coin distribution. Though there was a small [pre-mine](/Premine "wikilink") of 4200 ANC for technical reasons, these coins were returned to the community by a public faucet, bounties, and give-a-ways. The coin is being actively developed, and full anonymity will be provided by the implementation of [Zerocoin](/Zerocoin "wikilink"), with an expected release date at the end of 2015. The developers have a long history of working on internet privacy issues, as is attested by the recent creation of the non-profit organization [Privacy Solutions](http://privacysolutions.no/) and their work with [I2P](/I2P "wikilink").
+Anoncoin was created not only for the purpose of strong user privacy (which is lacking in Bitcoin and all other cryptocurrencies), but also to provide a cryptocurrency that could support an eventual crackdown from hostile governments and central banks. As opposed to many alternative cryptocurrencies that serve only to enrich financially the developers, Anoncoin was released in an entirely transparent manner and with a fair initial coin distribution. Though there was a small pre-mine of 4200 ANC for technical reasons, these coins were returned to the community by a public faucet, bounties, and give-a-ways. The coin is being actively developed, and full anonymity will be provided by the implementation of Zerocoin, with an expected release date at the end of 2015. The developers have a long history of working on internet privacy issues, as is attested by the recent creation of the non-profit organization [Privacy Solutions](http://privacysolutions.no/) and their work with [I2P](/I2P "wikilink").
 
 But aren't other crytocurrencies anonymous?
 -------------------------------------------
@@ -50,7 +54,3 @@ See also
 -   [Anonymity of cryptocurrencies](/Anonymity_of_cryptocurrencies "wikilink")
 -   [How to setup Anoncoin to use Tor](/How_to_setup_Anoncoin_to_use_Tor "wikilink")
 -   [I2P](/I2P "wikilink")
--   [Tor](/Tor "wikilink")
--   [Zerocoin](/Zerocoin "wikilink")
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink") [Category:Zerocoin](/Category:Zerocoin "wikilink")
