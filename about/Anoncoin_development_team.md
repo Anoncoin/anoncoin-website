@@ -4,7 +4,7 @@ title: Anoncoin development team
 permalink: /Anoncoin_development_team/
 ---
 
-[right](/File:anonymous2.png "wikilink") The [Anoncoin](/Anoncoin "wikilink") team is composed of a set of core developers and active community members. We are always looking for new members, and we encourage all people who are concerned about anonymity and online privacy to get involved. Anoncoin will only be as good as the community that is supporting it.
+The [Anoncoin](/Anoncoin "wikilink") team is composed of a set of core developers and active community members. We are always looking for new members, and we encourage all people who are concerned about anonymity and online privacy to get involved. Anoncoin will only be as good as the community that is supporting it.
 
 For the sake of transparency we are also showing here a monthly updated list of the active and inactive Anoncoin developers and what they are currently doing. If the developers are inactive it means we have not heard of them at all in the last month (no news, no mail, no chat in IRC, no Github or Gitlab commit). Warning: some of our inactive devs may be dead or may have quit the project without telling the others members (MIA).
 
@@ -81,5 +81,3 @@ Geekz is the web designer who is in charge of [Ancblockchain](http://ancblockcha
 ### N00n
 
 N00n is the graphic designer responsible for the Anoncoin brand identity.
-
-[category:Anoncoin](/category:Anoncoin "wikilink")
