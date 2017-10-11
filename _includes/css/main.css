@@ -8,7 +8,7 @@ body {
     overflow-x: hidden;
 }
 
-p {
+p,li,ul {
     font-size: 20px;
     color: #{{ site.color.primary }};
 }
