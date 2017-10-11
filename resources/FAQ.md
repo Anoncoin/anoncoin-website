@@ -52,5 +52,3 @@ Where can I find a good ANC mining pool?
 ----------------------------------------
 
 See the page [Mining pools](/Mining_pools "wikilink").
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink")
