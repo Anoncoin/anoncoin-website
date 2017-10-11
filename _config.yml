@@ -24,10 +24,10 @@ github_username:  jekyll
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary:  0e0e0e
-  primary-rgb: "128,128,128" #"128,179,255"
-  secondary: 808080 #FD6E8A
-  secondary-dark: 535353 #A2122F
+  primary:  173232
+  secondary: 548c8c #FD6E8A
+  secondary-dark: 173232 #A2122F
+  thirdly: 427878
 
 # Footer settings
 footer:
