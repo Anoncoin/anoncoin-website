@@ -17,54 +17,57 @@ The layout of each screen is defined in the \*.ui files of the source code, whic
 
 As an example, we can tell it the style sheet that we want all QLabels to be black except for the Immature balance which we want to be grey. This would be done by defining first the normal color for QLabels, and then the specific color for labelImmature:
 
-`QLabel {`
-`        color: black;`
-`}`
-`QLabel#labelImmature {`
-`        color: grey;`
-`}`
+```
+QLabel {
+        color: black;
+}
+QLabel#labelImmature {
+        color: grey;
+}
+```
 
 Like CSS, you can style different states of an element, e.g.
+```
+QTextEdit {
+        padding: 4px;
+        background-color: transparent;
+        color: $text-color;
+        border: none;
+}
 
-`QTextEdit {`
-`        padding: 4px;`
-`        background-color: transparent;`
-`        color: $text-color;`
-`        border: none;`
-`}`
-``
-`QTextEdit:disabled {`
-`        color: $disabled-text-color;`
-`}`
-
+QTextEdit:disabled {
+        color: $disabled-text-color;
+}
+```
 Reusing Colors
 --------------
 
 With any stylesheet we often must specify the same color in many places. If we want to later tweak the color we would have to edit each of those places. A short-cut has been created for this in Anoncoin. At the beginning of the styles.qss file we can define a commented labeled section where we list variable names starting with “$” and the values they hold. For example, if we know we are going to be using brown and yellow a lot for gradient shading but the text will be black, we could set the file up like this.
+```
+/** [VARS]
+        $maintext    = #000
+        $border_1    = #3f3f00
+        $dark-grad   = #5f5f00
+        $light-grad  = #ffff00
+[/VARS] */
 
-`/** [VARS]`
-`        $maintext    = #000`
-`        $border_1    = #3f3f00`
-`        $dark-grad   = #5f5f00`
-`        $light-grad  = #ffff00`
-`[/VARS] */`
-``
-`QLabel {`
-`        color: $maintext;`
-`}`
-`QComboBox`
-`{`
-`        border: 1px solid $border_1;`
-`        background: qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 $dark-grad, stop:1 $light-grad);`
-`        color: $maintext;`
-`        padding: 1px 18px 1px 13px;`
-`}`
-
+QLabel {
+        color: $maintext;
+}
+QComboBox
+{
+        border: 1px solid $border_1;
+        background: qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 $dark-grad, stop:1 $light-grad);
+        color: $maintext;
+        padding: 1px 18px 1px 13px;
+}
+```
 Including Graphics
 ------------------
 
 There is one special substitution that is available in the style sheet for easily finding any special graphics files, such as arrows or icons. If you place these files in the same directory as the styles.qss you can refer to that directory as “_themesdir”:
-
-`QComboBox::down-arrow:disabled {`
-`        image: url(_themesdir/down-arrow-disabled.png);`
-`}`
+```
+QComboBox::down-arrow:disabled {
+        image: url(_themesdir/down-arrow-disabled.png);
+}
+```

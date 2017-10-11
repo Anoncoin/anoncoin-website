@@ -24,19 +24,27 @@ Next, locate the file `wallet.dat` on your computer, which should be located in 
 
 ### Windows XP
 
-`C:\Documents and Settings\YourUserName\Application data\anoncoin`
-
+```
+C:\Documents and Settings\YourUserName\Application data\anoncoin
+```
+ 
 ### Windows Vista, Windows 7 and Windows 8
 
-`C:\Users\YourUserName\Appdata\Roaming\anoncoin`
+```
+C:\Users\YourUserName\Appdata\Roaming\anoncoin
+```  
 
 ### Mac OS X
 
-`~/Library/Application Support/Anoncoin/`
+```
+~/Library/Application Support/Anoncoin/
+```
 
 ### Linux
 
-`~/.anoncoin/`
+```
+~/.anoncoin/
+```
 
 Finally, copy the file `wallet.dat` to an external hard disk. That's it!
 

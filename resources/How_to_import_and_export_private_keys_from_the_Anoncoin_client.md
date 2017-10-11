@@ -19,7 +19,9 @@ If your Anoncoin wallet is not encrypted (which is highly unadvised, please encr
 
 To unlock your wallet you need to type the following in the RPC console:
 
-`walletpassphrase MyPassword 60`
+```
+walletpassphrase MyPassword 60
+```
 
 Change `MyPassword` to your wallet passphrase and change `60` to the number of seconds that you want the wallet to be unlocked. After that time the wallet will be locked automatically. Make sure to unlock the wallet long enough to do the next and final step.
 
@@ -27,7 +29,9 @@ Change `MyPassword` to your wallet passphrase and change `60` to the number 
 
 Type into the RPC console:
 
-`importprivkey MyPrivateKey Label`
+```
+importprivkey MyPrivateKey Label
+```
 
 Change `MyPrivateKey` to your private key (which starts with `64`, `65` or `66`) and for `Label` you can enter a name/description/label for the key (optional). The importing takes a few minutes depending on your CPU power. The import is done when an empty line appears in the console. You should now be able to see the corresponding address to the imported key in the *Addresses* section of the client.
 
@@ -36,6 +40,8 @@ How to export a private key
 
 Exporting a private key follows the same steps as above for importing a private key. For step three, instead type
 
-`dumpprivkey MyAnoncoinPublicAddress`
+```
+dumpprivkey MyAnoncoinPublicAddress
+```
 
 Please store your private key in a secure location: If anyone obtained it, they would be able to steal all of your coins.

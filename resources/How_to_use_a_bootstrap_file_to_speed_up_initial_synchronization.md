@@ -23,20 +23,25 @@ Place the `bootstrap.dat` file into the Anoncoin data folder. The location of th
 ### For Windows users
 
 Open explorer, and type into the address bar:
-
-`%APPDATA%\Anoncoin`
+```
+%APPDATA%\Anoncoin
+```
 
 ### For OSX users
 
 Open the Finder by pressing \[shift\] + \[cmd\] + \[g\] and then enter:
 
-`~/Library/Application Support/Anoncoin/`
+```
+~/Library/Application Support/Anoncoin/
+```
 
 ### For Linux users
 
 The directory is hidden in your User folder. Go to:
 
-`~/.anoncoin/`
+```
+~/.anoncoin/
+```
 
 Import the blockchain
 ---------------------

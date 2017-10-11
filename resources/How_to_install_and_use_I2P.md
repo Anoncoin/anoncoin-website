@@ -66,7 +66,9 @@ How to install and start I2P on Linux systems using CLI
 
 Precompiled binaries for many systems can be download from the [i2p web site](https://geti2p.net/en/download). After installation, it will be necessary to start the i2p router by typing
 
-`   i2prouter start`
+```
+i2prouter start
+```
 
 in a terminal window. After a few seconds, the i2p console will open in your web browser.
 
@@ -82,19 +84,25 @@ You must first add the i2p repository for your distro.
 
 With the Synaptic package manager, go to the menu *options &gt; repositories &gt; third parties &gt; add* and then type
 
-`   ppa:i2p-maintainers/i2p`
+```
+ppa:i2p-maintainers/i2p
+```
 
 To install I2P, refresh with the reload button on the top left of the window. Next type i2p in the search bar, then right click on i2p and choose “installation”. Finally execute everything you chose with the button in the main window.
 
 Alternatively, this can all be done in the command line with the following three commands
 
-`   sudo apt-add-repository ppa:i2p-maintainers/i2p`
-`   sudo apt-get update`
-`   sudo apt-get install i2p`
+```
+sudo apt-add-repository ppa:i2p-maintainers/i2p
+sudo apt-get update
+sudo apt-get install i2p
+```
 
 Finally start the i2p router
 
-`   i2prouter start`
+```
+i2prouter start
+```
 
 After a few minutes, connect to the router console at 127.0.0.1:7657
 

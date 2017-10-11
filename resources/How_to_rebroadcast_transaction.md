@@ -23,37 +23,40 @@ For the exchanges, to rebroadcast a transaction
 
 Easiest way: using the newly enabled on 0.9.6.11 “`resendwallettransactions`” command. Exchange can type it (in the debug console or with anoncoin-cli) when they are well connected and if they did not close their wallet since the failed transaction attempt.
 
-`23:56:37`
-`￼`
-`help resendwallettransactions`
-`23:56:37`
-`￼`
-`resendwallettransactions`
-`Immediately re-broadcast unconfirmed wallet transactions to all peers.`
-`Note: the wallet code periodically re-broadcasts automatically.`
-`Returns: array of transaction ids that were re-broadcast.`
+```
+23:56:37
+￼
+help resendwallettransactions
+23:56:37
+￼
+resendwallettransactions
+Immediately re-broadcast unconfirmed wallet transactions to all peers.
+Note: the wallet code periodically re-broadcasts automatically.
+Returns: array of transaction ids that were re-broadcast.
+```
 
 Another way via the RAW TX
 --------------------------
 
 This is possible when the transaction is not in a block, but the wallet was not closed (**if it is closed the transaction ID TXID is erased**). The process is safe and very simple. In the debug console type `getrawtransaction TXID` (I repeat: this will not work if the wallet was closed since the unconfirmed transaction):
 
-`07:30:38`
-`￼`
-`getrawtransaction 0235a6c2d98434c3fc72f0ea08781a9263df68cd871f94417ff719fdbe5d5516`
-`07:30:38`
-`￼`
-`01000000010000000000000000000000000000000000000000000000000000000000000000ffffffff0d03ccbd070112062f503253482fffffffff0180b2e60e000000002321032ff1d59f4d061d383ee4cfcaf8cd3fd3d3c573a2f2af9d56e1ee2b2d24c9b1a9ac00000000`
+```
+07:30:38
+￼
+getrawtransaction 0235a6c2d98434c3fc72f0ea08781a9263df68cd871f94417ff719fdbe5d5516
+07:30:38
+￼
+01000000010000000000000000000000000000000000000000000000000000000000000000ffffffff0d03ccbd070112062f503253482fffffffff0180b2e60e000000002321032ff1d59f4d061d383ee4cfcaf8cd3fd3d3c573a2f2af9d56e1ee2b2d24c9b1a9ac00000000
+```
 
-The response is the RAW TX, it is what should be broadcasted again. If the exchange do not want to give it to the user to rebroadcast the TX, the exchange has to type `sendrawtransaction RAW TX` in console to rebroadcast a RAW TX:
+The response is the RAW TX, it is what should be broadcasted again. If the exchange do not want to give it to the user to rebroadcast the TX, the exchange has to type sendrawtransaction RAW TX in console to rebroadcast a RAW TX:
 
-`10:12:14`
-`￼`
-`sendrawtransaction 01000000010000000000000000000000000000000000000000000000000000000000000000ffffffff0d03ccbd070112062f503253482fffffffff0180b2e60e000000002321032ff1d59f4d061d383ee4cfcaf8cd3fd3d3c573a2f2af9d56e1ee2b2d24c9b1a9ac00000000`
-` `
-`10:12:14`
-`￼`
-`transaction already in block chain (code -27)`
+```
+10:12:14
+sendrawtransaction 01000000010000000000000000000000000000000000000000000000000000000000000000ffffffff0d03ccbd070112062f503253482fffffffff0180b2e60e000000002321032ff1d59f4d061d383ee4cfcaf8cd3fd3d3c573a2f2af9d56e1ee2b2d24c9b1a9ac00000000
+```
+
+transaction already in block chain (code -27)
 
 If it is already in block chain the error code -27 above will be answered, otherwise the transaction will be rebroadcasted to connected peer.
 

@@ -18,15 +18,17 @@ Mining with Scrypt ASICS
 
 Change your anoncoin.conf file to include the following:
 
-`stfu=1`
-`rpcallowip=192.168.1.*`
-`rpcport=9376`
-`rpcuser=******yourusername******`
-`rpcpassword=******yoursecretpassphrase******`
-`server=1`
-`daemon=1`
-`gen=0`
-`listen=1`
+```
+stfu=1
+rpcallowip=192.168.1.*
+rpcport=9376
+rpcuser=******yourusername******
+rpcpassword=******yoursecretpassphrase******
+server=1
+daemon=1
+gen=0
+listen=1
+```
 
 `rpcuser` and `rpcpassword` can be anything of your choosing, and `rpcallowip` is the IP address of your ASIC. Open your wallet on the computer (either with `anoncoind` or `anoncoin-qt`), and point the ASIC to that computer IP address and port 9376 using your rpc username and password.
 

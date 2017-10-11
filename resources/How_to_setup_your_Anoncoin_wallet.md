@@ -42,7 +42,7 @@ Install Anoncoin following this guide [How to install Anoncoin](/How_to_install_
 
 Then download and copy the file `bootstrap.dat` in the anoncoin data directory ([How to use a bootstrap file to speed up initial synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization)).
 
-Then copy/paste the sample `anoncoin.conf` for the 9.6.12 version in your data directory. It is found in the folder anoncoin/doc or here [Anoncoin-0.9.6.12.conf](/Anoncoin-0.9.6.12.conf).
+Then copy/paste the sample `anoncoin.conf`   for the 9.6.12 version in your data directory. It is found in the folder anoncoin/doc or here [Anoncoin-0.9.6.12.conf](/Anoncoin-0.9.6.12.conf).
 
 and go at <http://127.0.0.1:7657/configclients>, activate SAM application bridge and make it run at startup, save the configuration.
 
@@ -50,11 +50,15 @@ and go at <http://127.0.0.1:7657/configclients>, activate SAM application bridge
 
 Then after 5 min, allowing time for the SAM application bridge to launch, start Anoncoin-qtc 9.6.12 with the following command (or run the “Generate I2P static privatekey” shortcut on windows):
 
-`anoncoin-qtc -i2p.options.enabled=1 -onlynet=i2p -generatei2pdestination`
+```
+anoncoin-qtc -i2p.options.enabled=1 -onlynet=i2p -generatei2pdestination
+```  
 
 To run in I2P only mode, without anoncoin.conf file, execute (or run the “Anoncoin Core I2P-only” shortcut on windows):
 
-`anoncoin-qtc -i2p.options.enabled=1 -onlynet=i2p`
+``` 
+anoncoin-qtc -i2p.options.enabled=1 -onlynet=i2p
+``` 
 
 The I2P address generated above will be used unless another one is specified in anoncoin.conf.
 
@@ -72,14 +76,16 @@ Do the same with public address and B32 address. Then change in `i2p.options` to
 
 It shall look like this:
 
-`[i2p.mydestination]      #do not comment the line with []`
-`privatekey=OqCg43bXytCJv*****AAAA****long****`
-` `
-`[i2p.options]`
-`enabled=1`
-`static=1                 #Change it to 1 to use [i2p.mydestination] addresses after they are generated and copied above `
-`samhost=127.0.0.1      #Change it to i2pd or java i2p host local IP (127.0.0.1 or 192.168.1.5 for instance) `
-`samport=7656`
+``` 
+[i2p.mydestination]      #do not comment the line with []
+privatekey=OqCg43bXytCJv*****AAAA****long****
+ 
+[i2p.options]
+enabled=1
+static=1                 #Change it to 1 to use [i2p.mydestination] addresses after they are generated and copied above 
+samhost=127.0.0.1      #Change it to i2pd or java i2p host local IP (127.0.0.1 or 192.168.1.5 for instance) 
+samport=7656
+``` 
 
 Let the wallet finish to synch (it takes two or three hours normally) then close it and restart, now you are running an I2P-only anoncoin wallet with a static address! :)
 
@@ -88,44 +94,54 @@ Using the command line to generate a random anoncoin address and run anoncoind w
 
 Install I2P from the PPA repository [1](https://geti2p.net/en/download/debian#ubuntu) and run the i2p router.
 
-`i2prouter start`
+``` 
+i2prouter start
+``` 
 
 Wait 5 minutes for initialisation of the I2P SAM bridge and in anoncoin/src type:
 
-`./anoncoind -i2p.options.enabled=1 -onlynet=i2p -generatei2pdestination`
+``` 
+./anoncoind -i2p.options.enabled=1 -onlynet=i2p -generatei2pdestination
+``` 
 
 All the data that are needed to setup the `.anoncoin/anoncoin.conf` will be printed as a result:
 
-`user@ubuntu:~/anoncoin/src$ ./anoncoind -i2p.options.enabled=1 -onlynet=i2p -generatei2pdestination`
-`Anoncoin server starting`
-`user@ubuntu:~/anoncoin/src$ Generated I2P Destination: `
-`To have a permanent I2P Destination address, you have to set options in anoncoin.conf:`
-`Your Config file is: /home/yo/.anoncoin/anoncoin.conf`
-`Your I2P Destination Private Key anoncoin.conf file settings are:`
-`[i2p.mydestination]`
-`static=1`
-`privatekey=apuLsXH2KdmTV******AAAA****long****`
-`[i2p.options]`
-`enabled=1`
-`****** Save the above text at the end of your configuration file and keep it secret.`
-`      Or start with our anoncoin.conf.sample file, which has even more settings.`
-`This is your I2P Public Key:`
-`apuLsXH2KdmTVUgY-PIJcRyVEOExQCmX4-1olVrOg1g5adVW~DQX9wfwXEMVZTPQn9FqyaU2vrvgXsJuQEECRWGewf4DIylJG9dn-ac6N9LniTbWmbSNyWDOv54qc4yO3LeHyp3Gm2UvaSpdmjXQ0PnLirWXo-HxmvTpD~UunIraX4SRZcijNzBG6jYAdjp8-sTq17kjb9S3Ar33UmJR0G9ir4UrY93zKvUojiylLpNrJKeBkp4YB2RurXkwy6zHt2mavhae7~sKa0YfXcn-ZnUIVbIp~KC~dxhEO~L6VBsbtfki-4M1xRn39~ygI0Y-Ca2nSDgRsEZ9bi8uUbBQgYzSZfsDzAgUNWcQHYZHHX39cP-S8Du~yU4Ioy3cC~pa31Inv3RcfR9ZX1qxrBsPiDEdgtfvbO1ahNxgeTVnhYg-6n--jxqLDEI1rOpzFJD0yHfNKcjeJ5nKq5cwFBRjeAlBKGNmHioILIOcz48Woq1OQdnfthA6zDGEfnwmN~eYAAAA`
-`**** You can advertise the Public Key, all I2P Routers will know how to locate it.`
-`Your personal b32.i2p Destination:`
-`5oo3enrz7fp77ojrfk7hjsniohsxqmhuxdhdx6ur7iwumsrjzkwq.b32.i2p`
-`** Anoncoin peers now have built-in name resolution, once your on I2P for a few hours,`
-`  most peers will likely be able to find you by this Base32 hash of the Public Key.`
-`  Standard I2P network Routers are not as likely to find your destination with it.`
+``` 
+user@ubuntu:~/anoncoin/src$ ./anoncoind -i2p.options.enabled=1 -onlynet=i2p -generatei2pdestination
+Anoncoin server starting
+user@ubuntu:~/anoncoin/src$ Generated I2P Destination: 
+To have a permanent I2P Destination address, you have to set options in anoncoin.conf:
+Your Config file is: /home/yo/.anoncoin/anoncoin.conf
+Your I2P Destination Private Key anoncoin.conf file settings are:
+[i2p.mydestination]
+static=1
+privatekey=apuLsXH2KdmTV******AAAA****long****
+[i2p.options]
+enabled=1
+****** Save the above text at the end of your configuration file and keep it secret.
+      Or start with our anoncoin.conf.sample file, which has even more settings.
+This is your I2P Public Key:
+apuLsXH2KdmTVUgY-PIJcRyVEOExQCmX4-1olVrOg1g5adVW~DQX9wfwXEMVZTPQn9FqyaU2vrvgXsJuQEECRWGewf4DIylJG9dn-ac6N9LniTbWmbSNyWDOv54qc4yO3LeHyp3Gm2UvaSpdmjXQ0PnLirWXo-HxmvTpD~UunIraX4SRZcijNzBG6jYAdjp8-sTq17kjb9S3Ar33UmJR0G9ir4UrY93zKvUojiylLpNrJKeBkp4YB2RurXkwy6zHt2mavhae7~sKa0YfXcn-ZnUIVbIp~KC~dxhEO~L6VBsbtfki-4M1xRn39~ygI0Y-Ca2nSDgRsEZ9bi8uUbBQgYzSZfsDzAgUNWcQHYZHHX39cP-S8Du~yU4Ioy3cC~pa31Inv3RcfR9ZX1qxrBsPiDEdgtfvbO1ahNxgeTVnhYg-6n--jxqLDEI1rOpzFJD0yHfNKcjeJ5nKq5cwFBRjeAlBKGNmHioILIOcz48Woq1OQdnfthA6zDGEfnwmN~eYAAAA
+**** You can advertise the Public Key, all I2P Routers will know how to locate it.
+Your personal b32.i2p Destination:
+5oo3enrz7fp77ojrfk7hjsniohsxqmhuxdhdx6ur7iwumsrjzkwq.b32.i2p
+** Anoncoin peers now have built-in name resolution, once your on I2P for a few hours,
+  most peers will likely be able to find you by this Base32 hash of the Public Key.
+  Standard I2P network Routers are not as likely to find your destination with it.
+``` 
 
 The generated privatekey was automatically saved in I2Pkey.dat. Now you can start anoncoin using this static I2P destination by using this command:
 
-`./anoncoind -i2p.options.enabled=1 -onlynet=i2p`
+``` 
+./anoncoind -i2p.options.enabled=1 -onlynet=i2p
+``` 
 
 Alternatively, you can edit your own `anoncoin.conf` and add the privatekey and static in \[i2p.mydestination\]
 
-`cp ../doc/anoncoin.conf.sample ~/.anoncoin/anoncoin.conf`
-`nano ~/.anoncoin/anoncoin.conf`
+``` 
+cp ../doc/anoncoin.conf.sample ~/.anoncoin/anoncoin.conf
+nano ~/.anoncoin/anoncoin.conf
+``` 
 
 See also
 --------
