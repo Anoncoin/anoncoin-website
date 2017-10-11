@@ -65,5 +65,3 @@ External links
 --------------
 
 -   [On the h4xx0ring of p4sswordZ (DansData.com)](http://dansdata.com/gz140.htm)
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink")
