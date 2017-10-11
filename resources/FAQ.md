@@ -19,7 +19,7 @@ Aren't all internet based peer to peer currencies anonymous?
 
 There is *no* internet currency that is completely anonymous at this point (June 2015). There are many coins and services that provide increased privacy (using such things as CoinJoin, SharedCoin, DarkSend, other coin mixing services and ring signatures), however, you should not confuse *privacy* with *anonymity*. Zerocoin, in contrast, does provide 100% provable anonymity using zero-knowledge proofs.
 
-How do I install [I2P](/I2P "wikilink")
+How do I install [I2P](/I2P)
 ---------------------------------------
 
 You can download and install it from [I2P website](https://geti2p.net/en/download).
@@ -32,7 +32,7 @@ Anoncoin was the first, and is currently the only coin to have built in support 
 What is the current status of the implementation of Zerocoin?
 -------------------------------------------------------------
 
-Anoncoin has finished the selection of the RSA UFOs that will be used in the trustless implementation of [Zerocoin](/Zerocoin "wikilink"). More than 8+ core years were spent factoring RSA UFO candidates, which will lead to both increased security and reduced zerocoin transaction times [1](https://bitcointalk.org/index.php?topic=227287.msg8855999#msg8855999). Our present focus is on releasing 0.9.6, which will provide increased security of the blockchain. Work on Zerocoin is expected to restart late 2015.
+Anoncoin has finished the selection of the RSA UFOs that will be used in the trustless implementation of [Zerocoin](/Zerocoin). More than 8+ core years were spent factoring RSA UFO candidates, which will lead to both increased security and reduced zerocoin transaction times [1](https://bitcointalk.org/index.php?topic=227287.msg8855999#msg8855999). Our present focus is on releasing 0.9.6, which will provide increased security of the blockchain. Work on Zerocoin is expected to restart late 2015.
 
 Are there plans to change the scrypt proof of work to something else?
 ---------------------------------------------------------------------
@@ -46,9 +46,9 @@ Anoncoin is also planning on implementing a myriad of two or more auxPoW chains.
 Where can I buy and trade ANC?
 ------------------------------
 
-See this list of [exchanges](/exchanges "wikilink").
+See this list of [exchanges](/exchanges).
 
 Where can I find a good ANC mining pool?
 ----------------------------------------
 
-See the page [Mining pools](/Mining_pools "wikilink").
+See the page [Mining pools](/Mining_pools).

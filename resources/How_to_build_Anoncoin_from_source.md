@@ -169,7 +169,7 @@ cd src/qt
 sudo cp anoncoin-qtc /usr/local/bin 
 ```
 
-Now jump to *What do do next?* section [How_to_build_Anoncoin_from_source\#What_to_do_next.3F](/How_to_build_Anoncoin_from_source#What_to_do_next.3F "wikilink")
+Now jump to *What do do next?* section [How_to_build_Anoncoin_from_source\#What_to_do_next.3F](/How_to_build_Anoncoin_from_source#What_to_do_next.3F)
 
 Ubuntu 32 bit
 -------------
@@ -391,7 +391,7 @@ strip src/anoncoin-cli
 strip src/qt/anoncoin-qtc 
 ```
 
-For the command line client, you can skip to the command line setup on the [first run](/How_to_build_Anoncoin_from_source#Anoncoind_and_anoncoin-cli_command_line_setup_first_run "wikilink"). For the qt-client GUI, check [What_to_do_next](/How_to_build_Anoncoin_from_source#What_to_do_next.3F "wikilink").
+For the command line client, you can skip to the command line setup on the [first run](/How_to_build_Anoncoin_from_source#Anoncoind_and_anoncoin-cli_command_line_setup_first_run). For the qt-client GUI, check [What_to_do_next](/How_to_build_Anoncoin_from_source#What_to_do_next.3F).
 
 ------------------------------------------------------------------------
 
@@ -434,7 +434,7 @@ For I2P-only uncomment onlynet=i2p and in i2p.options set enabled=1
 
 For I2P and clearnet (mixed mode) comment onlynet=i2p and in i2p.options set enabled=1
 
-For I2P router configuration and settings check [How_to_setup_your_Anoncoin_wallet\#Using_the_command_line_to_generate_a_random_anoncoin_address_and_run_anoncoind_with_I2P](/How_to_setup_your_Anoncoin_wallet#Using_the_command_line_to_generate_a_random_anoncoin_address_and_run_anoncoind_with_I2P "wikilink")
+For I2P router configuration and settings check [How_to_setup_your_Anoncoin_wallet\#Using_the_command_line_to_generate_a_random_anoncoin_address_and_run_anoncoind_with_I2P](/How_to_setup_your_Anoncoin_wallet#Using_the_command_line_to_generate_a_random_anoncoin_address_and_run_anoncoind_with_I2P)
 
 Execute anoncoind and anoncoin-cli
  
@@ -447,7 +447,7 @@ src/anoncoin-cli getchaintips
 What to do next?
 ----------------
 
--   [Download and install the I2P router](/I2P "wikilink").
+-   [Download and install the I2P router](/I2P).
 
 <!-- -->
 
@@ -467,7 +467,7 @@ To run in I2P only mode, without anoncoin.conf file, execute (or run the “Anon
 anoncoin-qtc -i2p.options.enabled=1 -onlynet=i2p 
 ```
 
-The I2P address generated above will be used unless another one is specified in anoncoin.conf. Please also check [How_to_setup_your_Anoncoin_wallet\#Setting_up_your_client_to_use_I2P_.289.6.9.29](/How_to_setup_your_Anoncoin_wallet#Setting_up_your_client_to_use_I2P_.289.6.9.29 "wikilink").
+The I2P address generated above will be used unless another one is specified in anoncoin.conf. Please also check [How_to_setup_your_Anoncoin_wallet\#Setting_up_your_client_to_use_I2P_.289.6.9.29](/How_to_setup_your_Anoncoin_wallet#Setting_up_your_client_to_use_I2P_.289.6.9.29).
 
 -   To use the bootstrap.dat (https://anoncoin.net/downloads/bootstrap/)
 
@@ -477,12 +477,12 @@ If there is no /home/username/.anoncoin/ or %appdata%/anoncoin, you can either:
 
 - alternatively, run anoncoin-qtc once with the I2P only mode and close it after one minute to let it create the Anoncoin data directory.
 
-Then, place the bootstrap.dat file in the appropriate Anoncoin data directory: [How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization "wikilink")
+Then, place the bootstrap.dat file in the appropriate Anoncoin data directory: [How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization)
 
 -   Create the anoncoin.conf file in the appropriate Anoncoin data directory:
 
-[Sample_anoncoin.conf](/Sample_anoncoin.conf "wikilink") using [Anoncoin-0.9.6.12.conf](/Anoncoin-0.9.6.12.conf "wikilink") or [Anoncoin-clearnet-0.9.6.12.conf](/Anoncoin-clearnet-0.9.6.12.conf "wikilink")
+[Sample_anoncoin.conf](/Sample_anoncoin.conf) using [Anoncoin-0.9.6.12.conf](/Anoncoin-0.9.6.12.conf) or [Anoncoin-clearnet-0.9.6.12.conf](/Anoncoin-clearnet-0.9.6.12.conf)
 
 -   Check the list of all anoncoin commands
 
-[Anoncoin-cli_commands](/Anoncoin-cli_commands "wikilink")
+[Anoncoin-cli_commands](/Anoncoin-cli_commands)

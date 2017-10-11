@@ -84,9 +84,9 @@ To allow anoncoin-qt to be executable from any directory, you can copy it to `us
 `cd src/qt`
 `sudo cp anoncoin-qtc /usr/local/bin`
 
-Now you can install the i2pd router in the same system as explained in [How to setup Anoncoin to use i2pd in a VM on a Windows machine](/How_to_setup_Anoncoin_to_use_i2pd_in_a_VM_on_a_Windows_machine "wikilink")
+Now you can install the i2pd router in the same system as explained in [How to setup Anoncoin to use i2pd in a VM on a Windows machine](/How_to_setup_Anoncoin_to_use_i2pd_in_a_VM_on_a_Windows_machine)
 
-Then you can continue by configuring the `/home/username/.anoncoin/anoncoin.conf` following the guide at [How to run Anoncoin](/How_to_run_Anoncoin "wikilink")
+Then you can continue by configuring the `/home/username/.anoncoin/anoncoin.conf` following the guide at [How to run Anoncoin](/How_to_run_Anoncoin)
 
 On first execution, if the directory `/home/username/.anoncoin/` contained a blockchain from a previously installed version, execute
 
@@ -221,6 +221,6 @@ See also
 What to do next?
 ----------------
 
-Place the `bootstrap.dat` file in the appropriate Anoncoin data directory: [How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization "wikilink")
+Place the `bootstrap.dat` file in the appropriate Anoncoin data directory: [How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization)
 
-Create the `anoncoin.conf` file in the appropriate Anoncoin data directory: [Sample_anoncoin.conf](/Sample_anoncoin.conf "wikilink")
+Create the `anoncoin.conf` file in the appropriate Anoncoin data directory: [Sample_anoncoin.conf](/Sample_anoncoin.conf)

@@ -23,7 +23,7 @@ This is an exchange operated in Sweden which catched up with BTC38 in Volume and
 This exchange is accessible only over the I2P network.
 
 -   API access: [<http://exchanged.xyz/en/api>](http://exchanged.xyz/en/api)
--   [How to use ExchangeD.i2p](/How_to_use_ExchangeD.i2p "wikilink")
+-   [How to use ExchangeD.i2p](/How_to_use_ExchangeD.i2p)
 
 ### [TOR hidden service ExchangeD.i2p](http://i2pexb2jcflvix52.onion/)
 
