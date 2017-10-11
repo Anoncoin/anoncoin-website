@@ -74,5 +74,3 @@ Cryptsy went offline with an exit scam performed by the CEO Paul Vernon.
 
 -   Lawsuit: [<http://silverlaw.com/media/news-releases/silver-law-group-files-class-action-lawsuit-cryptsy-principal-paul-big-vern-vernon/>](http://silverlaw.com/media/news-releases/silver-law-group-files-class-action-lawsuit-cryptsy-principal-paul-big-vern-vernon/)
 -   ANC/BTC trading: [cryptsy.com/markets/view/66](https://www.cryptsy.com/markets/view/66)
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink")

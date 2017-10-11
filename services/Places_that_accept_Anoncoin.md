@@ -50,5 +50,3 @@ Uncategorized
 -------------
 
 -   **[Aboveallhouseplans (www.aboveallhouseplans.com)](http://www.aboveallhouseplans.com/)** - House Plans with A Point of View
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink")

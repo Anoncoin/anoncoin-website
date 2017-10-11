@@ -18,5 +18,3 @@ See also
 --------
 
 -   [How to mine Anoncoin](/How_to_mine_Anoncoin "wikilink")
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink")
