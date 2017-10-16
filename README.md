@@ -13,6 +13,6 @@ Some guide here on how to contribute so that everyone writes nice articles for u
 
 ## For Designers
 
-![So pretty](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Screenshot")
+![So pretty](https://raw.githubusercontent.com/oyvkva/Anoncoin-website/master/website-screenshot.png "Screenshot")
 
 This is a screenshot of the website.
