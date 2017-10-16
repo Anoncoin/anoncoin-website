@@ -10,3 +10,9 @@
 6. Go to: http://127.0.0.1:4000/
 
 Some guide here on how to contribute so that everyone writes nice articles for us.
+
+## For Designers
+
+![So pretty](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Screenshot")
+
+This is a screenshot of the website.
