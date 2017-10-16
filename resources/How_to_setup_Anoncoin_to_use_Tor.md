@@ -162,5 +162,4 @@ See also
 --------
 
 -   [How to setup your Anoncoin wallet](/How_to_setup_your_Anoncoin_wallet)
--   [Tor](/Tor)
 -   [I2P](/I2P)
