@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Development schedule
-permalink: /Development_schedule/
+title: Roadmap
+permalink: /Roadmap/
 ---
 
 Last official release
@@ -11,11 +11,19 @@ Last official release
 -   Release date: 12 Oct 2016
 -   [Github source download](https://github.com/Anoncoin/anoncoin/tree/master)
 
-------------------------------------------------------------------------
+This is our roadmap
+-----------------------------------
 
--   ANCI2Pd Portable (win32) <https://github.com/Anoncoin/anoncoin/releases/tag/1.0.12.0>
+### December 2017 - Release 0.9.Whatever
 
-Tentative Anoncoin release schedule
+Anoncoin 0.9.6.12 is complete <https://github.com/Anoncoin/anoncoin/releases/tag/v0.9.6.12>
+
+-   Improve i2pd compatibility to match java router → **DONE**
+
+Anoncoin I2Pd ANCI2Pd portable was released for windows <https://github.com/Anoncoin/anoncoin/releases/tag/1.0.12.0>
+
+
+History
 -----------------------------------
 
 ### Release A
