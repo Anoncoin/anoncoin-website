@@ -1,0 +1,26 @@
+---
+layout: page
+title: Blog
+permalink: /Blog/
+---
+
+<!-- This loops through the paginated posts -->
+Here are the blog posts, they are nice...<br>
+
+
+<h3>Posts here</h3>
+<ul>
+  {% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
+<br>
+
+Remember to add some pagination too, pagination is nice...
+<div>
+  Also maybe some excerpts of the blog posts?
+</div>
+
+</div>
