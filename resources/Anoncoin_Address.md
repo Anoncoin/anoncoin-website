@@ -4,7 +4,7 @@ title: Anoncoin address
 permalink: /Anoncoin_address/
 ---
 
-An **[Anoncoin](/Anoncoin) address** is an identifier of 27-34 alphanumeric characters, beginning with the letter **A**, that represents a possible destination for an anoncoin payment. Addresses can be generated at no cost by any user, and the user can have as many addresses as desired. An example of an Anoncoin address is [Acoin7tkEib9d8BfomQYUK66z5fhwN3DgV](/Donate).
+An **[Anoncoin](/About_Anoncoin) address** is an identifier of 27-34 alphanumeric characters, beginning with the letter **A**, that represents a possible destination for an anoncoin payment. Addresses can be generated at no cost by any user, and the user can have as many addresses as desired. An example of an Anoncoin address is [Acoin7tkEib9d8BfomQYUK66z5fhwN3DgV](/Donate).
 
 An Anoncoin address is like an e-mail address
 ---------------------------------------------
@@ -42,5 +42,5 @@ Several of the characters inside an Anoncoin address are used as a checksum so t
 See also
 --------
 
--   [Anoncoin](/Anoncoin)
+-   [Anoncoin](/About_Anoncoin)
 -   [How to generate an Anoncoin vanity address](/How_to_generate_an_Anoncoin_vanity_address)

@@ -44,5 +44,4 @@ Differences between I2P and Tor
 See also
 --------
 
--   [Tor](/Tor)
 -   [How to install and use I2P](/How_to_install_and_use_I2P)

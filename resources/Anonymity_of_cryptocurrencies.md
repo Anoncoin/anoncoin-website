@@ -29,7 +29,7 @@ Note that Internet Service Providers and any other entity capable of monitoring 
 
 ### Proxies
 
-It is possible to hide your home IP address by using some kind of proxy. Simple proxies will only hide it, while the use of more complex routing networks such as [Tor](/Tor) or [I2P](/I2P) will also encrypt the connexion between your computer and the nodes that can see your IP. Anoncoin can be set up to use Tor using [these instructions](/How_to_setup_Anoncoin_to_use_Tor).
+It is possible to hide your home IP address by using some kind of proxy. Simple proxies will only hide it, while the use of more complex routing networks such as Tor or [I2P](/I2P) will also encrypt the connexion between your computer and the nodes that can see your IP. Anoncoin can be set up to use Tor using [these instructions](/How_to_setup_Anoncoin_to_use_Tor).
 
 I2P is another routing network that hides your IP address, and for now, Anoncoin is the only cryptocurrency that is configured to use it. I2P is not an outbound proxy like Tor. Anoncoin can be easily configured to use I2P by following these [these instructions](/How_to_setup_your_Anoncoin_wallet).
 
@@ -187,7 +187,7 @@ More complex cryptographic approaches
 
 <!-- -->
 
--   Zerocoin is now being developped by [Anoncoin](/Anoncoin). Though many other coins claim to be implementing Zerocoin as well, none besides Anoncoin have given proof of such activity.
+-   Zerocoin is now being developped by [Anoncoin](/About_Anoncoin). Though many other coins claim to be implementing Zerocoin as well, none besides Anoncoin have given proof of such activity.
 
 <!-- -->
 

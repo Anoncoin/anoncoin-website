@@ -4,7 +4,7 @@ title: How to setup Anoncoin to use Tor
 permalink: /How_to_setup_Anoncoin_to_use_Tor/
 ---
 
-Running Anoncoin behind a [Tor](/Tor) proxy will attempt to anonymize all incoming and outgoing traffic, and also allow you to connect to Tor hidden services. The following directions assume you have a Tor proxy running on port 9050. Many distributions default to having a SOCKS proxy listening on port 9050, but others may not. In particular, the [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) defaults to listening on port 9150. See [this link](https://www.torproject.org/docs/faq.html.en#TBBSocksPort) for how to properly configure Tor.
+Running Anoncoin behind a Tor proxy will attempt to anonymize all incoming and outgoing traffic, and also allow you to connect to Tor hidden services. The following directions assume you have a Tor proxy running on port 9050. Many distributions default to having a SOCKS proxy listening on port 9050, but others may not. In particular, the [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) defaults to listening on port 9150. See [this link](https://www.torproject.org/docs/faq.html.en#TBBSocksPort) for how to properly configure Tor.
 
 First, a warning
 ----------------
