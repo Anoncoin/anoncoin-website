@@ -4,6 +4,34 @@ title: Anoncoin in the news
 permalink: /Anoncoin_in_the_news/
 ---
 
+
+
+
+
+2017
+----
+
+-   [**Fake bank transfer emails found to be stealing bitcoins and passwords**](https://www.scmagazineuk.com/fake-bank-transfer-emails-found-to-be-stealing-bitcoins-and-passwords/article/634838/)
+    SC Magazine - January 31, 2017
+-   [**Malware Discovered Sending Fake Emails**](https://www.cryptocoinsnews.com/malware-discovered-sending-fake-emails-to-steal-bitcoin-and-passwords/)
+    Cryptocoin News - January 28, 2017
+
+2016
+----
+
+-   [**Lifeboat foundation accepts Anoncoin**](https://lifeboat.com/ex/university.outreach)
+    Lifeboat Foundation - Nov 20, 2016
+-   [**EU IP Office: Pirates Are Accepting Bitcoin**](https://www.cryptocoinsnews.com/eu-ip-office-bitcoin-tor-used-pirates-hide-criminal-proceeds/)
+    Cryptocoin News - July 18, 2016
+
+    
+
+2015
+----
+
+-   [**Silk Road Reloaded to Add New Altcoins as Payment Option**](http://www.newsbtc.com/2015/01/19/silk-road-reloaded-add-new-altcoins-payment-options/)
+    News BTC -  January 19, 2015
+    
 2014
 ----
 

@@ -4,8 +4,6 @@ title: Mining pools
 permalink: /Mining_pools/
 ---
 
-**Mining pools that support Anoncoin.**
-
 -   [Multipool.us (https://www.multipool.us)](https://www.multipool.us)
 -   [iSpace mining pools (http://ispace.co.uk)](http://ispace.co.uk/)
 -   [Tompool](http://tompool.org/)
