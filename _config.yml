@@ -22,6 +22,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+excerpt_separator: "\n\n"
+
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary:  173232

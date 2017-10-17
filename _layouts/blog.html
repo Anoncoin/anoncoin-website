@@ -4,7 +4,9 @@
     <body id="page-top" class="index">
     {% include nav.html %}
     {% include page_top.html %}
+    <p class="post-date"><i>Somewhere, {{ page.date | date: "%b %-d, %Y" }}</i></p>
     {{ content }}
+    <i>By Anoncoin Developers</i>
     <p class="spacer"></p>
     {% include footer.html %}
     {% include js.html %}

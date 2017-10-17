@@ -4,23 +4,35 @@ title: Blog
 permalink: /Blog/
 ---
 
-<!-- This loops through the paginated posts -->
-Here are the blog posts, they are nice...<br>
-
-
-<h3>Posts here</h3>
-<ul>
-  {% for post in site.posts %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-  {% endfor %}
-</ul>
-<br>
-
-Remember to add some pagination too, pagination is nice...
-<div>
-  Also maybe some excerpts of the blog posts?
+{% for post in site.posts %}
+<div class="panel panel-default">
+  <div class="panel-body">
+    <h3 class="media-heading"><a class="text-dblue" href="{{ post.url }}">{{ post.title }}</a></h3>
+    <time class="media-meta text-muted" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+    {{ post.excerpt }} 
+    {% capture content_words %} 
+      {{ post.content | number_of_words }} 
+    {% endcapture %} 
+    {% capture excerpt_words %} 
+      {{ post.excerpt | number_of_words }} 
+    {% endcapture %} 
+    {% if excerpt_words != content_words %}
+    <p><a class="btn btn-sm btn-primary" href="{{ post.url }}/#read-more" role="button">Read more <i class="fa fa-arrow-circle-right"></i></a>
+    </p>
+    {% endif %}
+  </div>
 </div>
+{% endfor %} {% if paginator.total_pages > 1 %}
+<ul class="pager">
+  {% if paginator.previous_page %}
+  <li class="previous"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Previous page</a>
+  </li>
+  {% endif %} 
+  {% if paginator.next_page %}
+  <li class="next"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next page &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
 
 </div>
