@@ -4,7 +4,7 @@ title: How to import and export private keys from the Anoncoin client
 permalink: /How_to_import_and_export_private_keys_from_the_Anoncoin_client/
 ---
 
-Be extremely careful when importing or transferring private keys. You could loose all your coins if this is done improperly. Private keys should be imported only from self-generated addresses.�
+Be extremely careful when importing or transferring private keys. You could loose all your coins if this is done improperly. Private keys should be imported only from self-generated addresses.
 
 How to import a private key
 ---------------------------

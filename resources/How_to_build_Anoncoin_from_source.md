@@ -479,9 +479,7 @@ If there is no /home/username/.anoncoin/ or %appdata%/anoncoin, you can either:
 
 Then, place the bootstrap.dat file in the appropriate Anoncoin data directory: [How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization)
 
--   Create the anoncoin.conf file in the appropriate Anoncoin data directory:
-
-[Sample_anoncoin.conf](/Sample_anoncoin.conf) using [Anoncoin-0.9.6.12.conf](/Anoncoin-0.9.6.12.conf) or [Anoncoin-clearnet-0.9.6.12.conf](/Anoncoin-clearnet-0.9.6.12.conf)
+-   Create the anoncoin.conf file in the appropriate Anoncoin data directory.
 
 -   Check the list of all anoncoin commands
 
