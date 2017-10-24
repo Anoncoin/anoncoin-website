@@ -7,28 +7,89 @@ permalink: /Download/
 Last official release
 ---------------------
 
--   Version 0.9.6.12
--   Release date: October 12, 2016
--   [Github source download](https://github.com/Anoncoin/anoncoin/releases/tag/v0.9.6.12)
+-   Version 0.9.6.13
+-   Release date: June 24, 2016
+-   [Github release](https://github.com/Anoncoin/anoncoin/releases)
 
-Download the Anoncoin client
-----------------------------
+--------
+## Windows
 
-Choose one of the the following options below.
+Downloads for Windows:
 
-### Windows
+- [64 bit - anoncoin-0.9.6.13-win64-setup.exe](https://github.com/Anoncoin/anoncoin/releases/download/5e441d8/anoncoin-0.9.6.13-win64-setup.exe)
+- [32 bit - anoncoin-0.9.6.13-win32-setup.exe](https://github.com/Anoncoin/anoncoin/releases/download/5e441d8/anoncoin-0.9.6.13-win32-setup.exe)
 
-You can choose execute the setup.exe from the [extractable zip file](https://anoncoin.net/downloads/0.9.6.11/) to be run from the directory, or just run the included [anoncoind daemon](https://anoncoin.net/downloads/0.9.6.11/) if you won't be using the QT graphic user interface.
+You can just execute the setup.exe and Anoncoin Core will be installed. If you don't want to use the graphic user interface you can use one of the following downloads.
 
-### Mac OS X
+- [64 bit - anoncoin-9.6.13.win64.zip](https://github.com/Anoncoin/anoncoin/releases/download/5e441d8/anoncoin-9.6.13.win64.zip)
+- [32 bit - anoncoin-9.6.13.win32.zip](https://github.com/Anoncoin/anoncoin/releases/download/5e441d8/anoncoin-9.6.13.win32.zip)
 
-This only comes in one flavor. The [disk volume (dmg) file](https://anoncoin.net/downloads/0.9.6.11/) contains all the files needed to run Anoncoin in a single package.
+You can then use anoncoind.exe and anoncoin-cli.exe instead of the QT GUI.
 
-### Linux
+### Speed up synchronization with Bootstrap.
+
+Before importing the bootstrap.dat file, you will need to copy it to the correct location on your computer. If you have never used the Anoncoin software before, please start it once and then exit to create the required data directories. If the data directories already exist, please ensure that the Anoncoin software is not running.
+
+Download the [Anoncoin bootstrap file here.](http://hemmelig.selfhosted.greyhat.no/bootstrap.dat)
+
+Open explorer, and type into the address bar:
+
+```
+%APPDATA%\Anoncoin
+```
+
+Copy bootstrap.dat to this directory.
+
+Start Anoncoin and you should see "Importing blocks from disk...".
+
+
+--------
+## Mac OS X
+
+New release coming soon. You can also build from source.
+
+### Speed up synchronization with Bootstrap.
+
+Before importing the bootstrap.dat file, you will need to copy it to the correct location on your computer. If you have never used the Anoncoin software before, please start it once and then exit to create the required data directories. If the data directories already exist, please ensure that the Anoncoin software is not running.
+
+Download the [Anoncoin bootstrap file here.](http://hemmelig.selfhosted.greyhat.no/bootstrap.dat)
+
+Open the Finder.
+Open "Go to Folder..." ([shift] + [cmd] + [g])
+Enter:
+```
+~/.anoncoin
+```
+
+Copy bootstrap.dat to this directory.
+
+Start Anoncoin and you should see "Importing blocks from disk...".
+
+
+--------
+## Linux
 
 Clone the master from [the git repository](https://github.com/Anoncoin/anoncoin), it contains all the source files needed to compile your own binaries. How to guide is here [How_to_build_Anoncoin_from_source](/How_to_build_Anoncoin_from_source). Binaries are in the works for multiple Linux distributions.
 
-### Source Code
+### Speed up synchronization with Bootstrap.
+
+Before importing the bootstrap.dat file, you will need to copy it to the correct location on your computer. If you have never used the Anoncoin software before, please start it once and then exit to create the required data directories. If the data directories already exist, please ensure that the Anoncoin software is not running.
+
+Download the [Anoncoin bootstrap file here.](http://hemmelig.selfhosted.greyhat.no/bootstrap.dat)
+
+Go to:
+
+```
+~/.anoncoin
+```
+
+Copy bootstrap.dat to this directory.
+
+Start Anoncoin and you should see "Importing blocks from disk...".
+
+--------
+
+## Source Code
 
 Obtain the Anoncoin source code by [cloning the git repository](https://github.com/Anoncoin/anoncoin).
 
