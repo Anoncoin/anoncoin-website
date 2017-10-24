@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Anoncoin(ANC) is a unique decentralized peer to peer internet cryptocurrency that provides for its users. I2P and Tor compatible, it is resistant to crackdowns from hostile authorities.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: anoncoinproject
+github_username:  anoncoin
 
 excerpt_separator: "\n\n"
 
