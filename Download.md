@@ -6,14 +6,13 @@ permalink: /Download/
 
 Last official release
 ---------------------
-
+<a name="windowsdownload"></a>
 -   Version 0.9.6.13
 -   Release date: June 24, 2016
 -   [Github release](https://github.com/Anoncoin/anoncoin/releases)
 
 --------
 ## Windows
-
 Downloads for Windows:
 
 - [64 bit - anoncoin-0.9.6.13-win64-setup.exe](https://github.com/Anoncoin/anoncoin/releases/download/5e441d8/anoncoin-0.9.6.13-win64-setup.exe)
@@ -37,6 +36,7 @@ Open explorer, and type into the address bar:
 ```
 %APPDATA%\Anoncoin
 ```
+<a name="macdownload"></a>
 
 Copy bootstrap.dat to this directory.
 
@@ -57,10 +57,11 @@ Download the [Anoncoin bootstrap file here.](http://hemmelig.selfhosted.greyhat.
 Open the Finder.
 Open "Go to Folder..." ([shift] + [cmd] + [g])
 Enter:
+
 ```
 ~/.anoncoin
 ```
-
+<a name="linuxdownload"></a>
 Copy bootstrap.dat to this directory.
 
 Start Anoncoin and you should see "Importing blocks from disk...".
@@ -78,7 +79,7 @@ Before importing the bootstrap.dat file, you will need to copy it to the correct
 Download the [Anoncoin bootstrap file here.](http://hemmelig.selfhosted.greyhat.no/bootstrap.dat)
 
 Go to:
-
+<a name="mobiledownload"></a>
 ```
 ~/.anoncoin
 ```
@@ -86,6 +87,12 @@ Go to:
 Copy bootstrap.dat to this directory.
 
 Start Anoncoin and you should see "Importing blocks from disk...".
+
+--------
+
+## Mobile
+
+Coming soon.
 
 --------
 

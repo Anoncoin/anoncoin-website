@@ -14,14 +14,14 @@
 - title: Downloads
   url: /Download
   sublinks:
-  - title: Mac
-    url: /Download#mac-os-x
   - title: Windows
-    url: /Download#windows
+    url: /Download#windowsdownload
+  - title: Mac
+    url: /Download#macdownload
   - title: Linux
-    url: /Download#linux
+    url: /Download#linuxdownload
   - title: Mobile
-    url: /Download#mobile 
+    url: /Download#mobiledownload 
 - title: Resources
   url: /Resources
   sublinks:
