@@ -48,5 +48,3 @@ References
 Benaloh, J., and M. de Mare (1994). [One-way accumulators: a decentralized alternative to digital signatures](http://www.cs.stevens.edu/~mdemare/pubs/owa.pdf), in EUROCRYPT ’93, vol. 765 of LNCS, pp. 274–285.
 
 Camenisch, J., and A. Lysyanskaya (2002). [Dynamic Accumulators and Application to Efficient Revocation of Anonymous Credentials](http://cs.brown.edu/people/anna/papers/camlys02.pdf), CRYPTO 2002, LNCS 2442, pp. 61–76.
-
-[Category: Anoncoin](/Category:_Anoncoin "wikilink") [Category: Zerocoin](/Category:_Zerocoin "wikilink")

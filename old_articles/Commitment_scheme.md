@@ -28,5 +28,3 @@ See also
 
 -   [Cryptographic accumulator](/Cryptographic_accumulator "wikilink")
 -   [Zero-knowledge proof](/Zero-knowledge_proof "wikilink")
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink") [Category:Zerocoin](/Category:Zerocoin "wikilink")

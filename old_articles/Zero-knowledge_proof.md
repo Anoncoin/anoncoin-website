@@ -87,5 +87,3 @@ Goldreich, O., Micali, S., Wigderson, A.: Proofs that yield nothing but their va
 Goldwasser, S, S. Micali, and C. Rackoff (1985). The knowledge complexity of interactive proof-systems (extended abstract). In 17th Annual ACM Symposium on Theory of Computing (STOC'85), pages 291-304.
 
 Miers, I., C. Garman, M. Green, A. D. Rubin (2013). \[<http://spar.isi.jhu.edu/~mgreen/ZerocoinOakland.pdf>| Zerocoin: Anonymous Distributed E-Cash from Bitcoin\], 2013 IEEE Symposium on Security and Privacy, IEEE Computer Society Conference Publishing Services, pp. 397-411, <doi:10.1109/SP.2013.34>.
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink") [Category:Zerocoin](/Category:Zerocoin "wikilink")

@@ -52,5 +52,3 @@ To install npm use the following command :
 9. Running with the generated configuration file (after your nick has been added to database):
 
 `node index.js ~/ufo_config.yml`
-
-[Category:Anoncoin](/Category:Anoncoin "wikilink") [Category:Zerocoin](/Category:Zerocoin "wikilink")
