@@ -48,7 +48,9 @@
 - title: Community
   url: /Community
   sublinks:
-  - title: Forum
+  - title: Slack
+    url: https://join.slack.com/t/anoncoin/shared_invite/enQtMjU3Njk3MjE3MjM1LTAwZjU5ZmEzYTc0ZTg3ZDkxMGYyY2NlNWFkZGVmOTg1MGJlNTIzOTIxZDQ1YjI4NjFkM2NkZjU5Zjg1YzQ2OTQ
+  - title: Crowdfunding
     url: https://forum.anoncoin.net
   - title: Bitcointalk
     url: https://bitcointalk.org/index.php?topic=227287.0

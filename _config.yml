@@ -48,6 +48,8 @@ social:
     url: https://www.reddit.com/r/Anoncoin/
   - title: github
     url: https://github.com/Anoncoin/anoncoin
+  - title: slack
+    url: https://join.slack.com/t/anoncoin/shared_invite/enQtMjU3Njk3MjE3MjM1LTAwZjU5ZmEzYTc0ZTg3ZDkxMGYyY2NlNWFkZGVmOTg1MGJlNTIzOTIxZDQ1YjI4NjFkM2NkZjU5Zjg1YzQ2OTQ
 
 # Postal address (add as many lines as necessary)
 address:
@@ -55,8 +57,6 @@ address:
 
 # Credits content
 credits: 
-- line: '#anoncoin-dev @ IRC2P'
-- line: '#anoncoin-dev @ Freenode'
 
 # Build settings
 markdown: kramdown
