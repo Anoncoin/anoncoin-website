@@ -8,26 +8,23 @@ Exchanges can be used to buy or sell Anoncoin for other coins or fiat currency. 
 
 ### [NovaExchange](https://novaexchange.com/)
 
-This is an exchange operated in Sweden which has the highest volume corrently.
+This is an exchange operated in Sweden.
 
--   ANC/BTC trading: [novaexchange.com/market/BTC_ANC/](https://novaexchange.com/market/BTC_ANC/)
+- [ANC/BTC trading.](https://novaexchange.com/market/BTC_ANC/)
+- [ANC/ETH trading.](https://novaexchange.com/market/ETH_ANC/)
+- [ANC/LTC trading.](https://novaexchange.com/market/LTC_ANC/)
 
 ### [ExchangeD.i2p](http://exchanged.i2p/)
 
-This exchange is accessible only over the I2P network.
+This exchange over the I2P network.
 
+- [ExchangeD.i2p Clearnet](http://exchangem6mcinyo.onion.link/en/home)
+- [ExchangeD.i2p I2P](http://exchanged.i2p/en/home)
+- [ExchangeD.i2p Tor](http://exchangem6mcinyo.onion/en/home)
 -   API access: [<http://exchanged.xyz/en/api>](http://exchanged.xyz/en/api)
--   [How to use ExchangeD.i2p](/How_to_use_ExchangeD.i2p)
 
-### [TOR hidden service ExchangeD.i2p](http://i2pexb2jcflvix52.onion/)
 
-Is Online (status: July. 06, 2017)
+### [FreieExchange](https://freiexchange.com)
 
--   TOR hidden service: <http://exchangem6mcinyo.onion>
--   Bitcointalk thread: <https://bitcointalk.org/index.php?topic=1092682.0>
-
-### [Cryptocurrency exchanger](http://n33uthzyqsbozl2qh5zii2bq2nnvbz6g6c4ew3mwp6uukk6u7wva.b32.i2p/)
-
-Cryptocoin exchanger like Shapeshift on I2P network only.
-
--   Support ANC, GST, SIB
+FreieExchange added ANC/BTC to their exchange 26. July 2017.
+- [ANC/BTC trading.](https://freiexchange.com)
