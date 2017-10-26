@@ -1,5 +1,7 @@
 # Anoncoin website
 
+This is a work in progress. Website content is markdown served with Jekyll. Jekyll is a blog-aware, static site generator in Ruby.
+
 ## Get started
 
 1. Install Ruby
@@ -9,10 +11,8 @@
 5. `jekyll serve`
 6. Go to: http://127.0.0.1:4000/
 
-Some guide here on how to contribute so that everyone writes nice articles for us.
+## How to contribute.
 
-## For Designers
+We are looking for help with articles, design, transation, etc. Join us in #design [on Slack.](https://join.slack.com/t/anoncoin/shared_invite/enQtMjU3Njk3MjE3MjM1LTAwZjU5ZmEzYTc0ZTg3ZDkxMGYyY2NlNWFkZGVmOTg1MGJlNTIzOTIxZDQ1YjI4NjFkM2NkZjU5Zjg1YzQ2OTQ)
 
-![So pretty](https://raw.githubusercontent.com/oyvkva/Anoncoin-website/master/website-screenshot.png?token=APna44Gtv3s60q3FU98LOTwftDcA_3yvks5Z7jiywA%3D%3D "Screenshot")
-
-This is a screenshot of the website.
+There will be a guide on how to contribute here soon.
