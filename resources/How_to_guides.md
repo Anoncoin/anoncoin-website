@@ -5,6 +5,7 @@ permalink: /How_to_guides/
 ---
 ## How to:
 * [Build Anoncoin from source](/How_to_build_Anoncoin_from_source "How to build Anoncoin")
+* [Create an Anoncoin configuration file](/Sample_anoncoin.conf "How to create an Anoncoin configuration file")
 * [Install and use I2P](/How_to_install_and_use_I2P "How to install and use I2P")
 * [Setup your Anoncoin wallet](/How_to_setup_your_Anoncoin_wallet "How to setup your Anoncoin wallet")
 * [Use a bootstrap file to speed up initial synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization "How to use a bootstrap file to speed up initial synchronization")

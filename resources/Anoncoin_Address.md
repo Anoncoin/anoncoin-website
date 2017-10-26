@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anoncoin address
-permalink: /Anoncoin_address/
+permalink: /Sample_anoncoin.conf/
 ---
 
 An **[Anoncoin](/About_Anoncoin) address** is an identifier of 27-34 alphanumeric characters, beginning with the letter **A**, that represents a possible destination for an anoncoin payment. Addresses can be generated at no cost by any user, and the user can have as many addresses as desired. An example of an Anoncoin address is [Acoin7tkEib9d8BfomQYUK66z5fhwN3DgV](/Donate).
