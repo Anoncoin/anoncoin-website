@@ -2,6 +2,7 @@
 layout: page
 title: Anoncoin testnet configuration.
 permalink: /Anoncoin_testnet_conf/
+date: 2017-10-28
 ---
 
 Name this file anoncoin.conf and saved it in:

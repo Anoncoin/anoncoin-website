@@ -2,6 +2,7 @@
 layout: page
 title: How to create an Anoncoin configuration file
 permalink: /Sample_anoncoin.conf/
+date: 2017-10-28
 ---
 
 

@@ -2,6 +2,7 @@
 layout: page
 title: Anoncoin clearnet configuration.
 permalink: /Anoncoin_clearnet_conf/
+date: 2017-10-28
 ---
 
 Name this file anoncoin.conf and saved it in:
