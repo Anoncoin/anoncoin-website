@@ -2,6 +2,7 @@
 layout: page
 title: Anoncoin I2P configuration.
 permalink: /Anoncoin_I2P_conf/
+date: 2017-10-13 13:14:35 +0200
 ---
 
 Name this file anoncoin.conf and saved it in:
