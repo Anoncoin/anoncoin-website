@@ -2,6 +2,7 @@
 layout: page
 title: How to create an Anoncoin configuration file
 permalink: /Sample_anoncoin.conf/
+date: 2017-10-28
 ---
 
 
@@ -38,9 +39,9 @@ The directory is hidden in your User folder. Go to:
 Sample configuration files
 --------
 Updated files here coming soon.
-- Preconfigured for I2P only
-- Preconfigured for clearnet only
-- Preconfigured TESTNET only
+- [Preconfigured for I2P only.](/Anoncoin_I2P_conf/)
+- [Preconfigured for clearnet only.](/Anoncoin_clearnet_conf/)
+- [Preconfigured TESTNET only.](/Anoncoin_testnet_conf/)
 
 See also
 --------

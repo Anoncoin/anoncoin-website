@@ -4,6 +4,11 @@
     <body id="page-top" class="index">
     {% include nav.html %}
     {% include page_top.html %}
+
+    {% if page.date %}
+    <p class="post-date"><i>Updated: {{ page.date | date: "%b %-d, %Y" }}</i></p>
+    {% endif %}
+
     {{ content }}
     <p class="spacer"></p>
     {% include footer.html %}
