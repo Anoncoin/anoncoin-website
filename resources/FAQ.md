@@ -21,7 +21,7 @@ Aren't all internet based peer to peer currencies anonymous?
 
 There are many coins and services that provide increased privacy (using such things as CoinJoin, SharedCoin, DarkSend, other coin mixing services and ring signatures), however, you should not confuse *privacy* with *anonymity*.
 
-How do I install [I2P](/I2P)
+How do I install [I2P?](/I2P)
 ---------------------------------------
 
 You can download and install it from [I2P website](https://geti2p.net/en/download).
