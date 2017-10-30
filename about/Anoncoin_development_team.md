@@ -2,11 +2,12 @@
 layout: page
 title: Anoncoin development team
 permalink: /Anoncoin_development_team/
+date:   2017-10-30 21:14:35 +0200
 ---
 
-The [Anoncoin](/About_Anoncoin/) team is composed of a set of core developers and active community members. We are always looking for new members, and we encourage all people who are concerned about anonymity and online privacy to get involved. Anoncoin will only be as good as the community that is supporting it.
+The Anoncoin team is composed of a set of core developers and active community members. We are always looking for new members, and we encourage all people who are concerned about anonymity and online privacy to get involved. Anoncoin will only be as good as the community that is supporting it.
 
-For the sake of transparency we are also showing here a monthly updated list of the active and inactive Anoncoin developers and what they are currently doing. If the developers are inactive it means we have not heard of them at all in the last month (no news, no mail, no chat in IRC, no Github or Gitlab commit). Warning: some of our inactive devs may be dead or may have quit the project without telling the others members (MIA).
+For the sake of transparency, we are showing here of the active and inactive Anoncoin developers. Some of the developers have been with the project since the beginning, some just joined us. October 2017 the original founder of the project, Meeh, returned to the project. 3 new developers decided to join the project at the same time.
 
 Development team
 ----------------
@@ -59,6 +60,27 @@ Lunokhod is responsible for overseeing the project, documentation, website and w
 
 Cryptoslave keeps track of development and is making sure issues reported are filled for further review. He dedicates his time to better the coin by communicating with the other members of the team and listening to the community.
 
+### Atlas
+
+*Infrastructure Architect*
+
+Atlas joined the team in October 2017.
+
+
+### Frankh4x
+
+*Infrastructure Architect*
+
+Frankh4x joined the team in October 2017.
+
+
+### Oyvkva
+
+*Developer*
+
+Oyvkva joined the team in October 2017.
+
+
 Community members
 -----------------
 
@@ -68,7 +90,7 @@ Creator of [ExchangeD.i2p](https://bitcointalk.org/index.php?topic=1092682.0), t
 
 ### Alacast
 
-I'm just an enthusiast helping Anoncoin on my spare time...
+I'm just an enthusiast helping Anoncoin on my spare time.
 
 ### BroTroxer
 
@@ -81,3 +103,6 @@ Geekz is the web designer who is in charge of [Ancblockchain](http://ancblockcha
 ### N00n
 
 N00n is the graphic designer responsible for the Anoncoin brand identity.
+
+<br>
+*Are we missing someone? Just email info@anoncoin.net and let us know.*
