@@ -2,6 +2,7 @@
 layout: page
 title: Donate
 permalink: /Donate/
+date:   2017-10-30 22:44:35 +0200
 ---
 
 **Help support Anoncoin by donating ANC to the following address:**
@@ -14,7 +15,8 @@ Acoin7tkEib9d8BfomQYUK66z5fhwN3DgV
 
 
 
-Most of your donations will be used for [bounties](/Bounties), including public relations work, web site development, and specific code-related tasks. You can check the balance of the ANC donation address [here](http://ancblockchain.com/address/Acoin7tkEib9d8BfomQYUK66z5fhwN3DgV).
+Most of your donations will be used for bounties, including public relations work, web site development, and specific code-related tasks. You can check the balance of the ANC donation address [here](http://abe.darkgamex.ch:2751/address/Acoin7tkEib9d8BfomQYUK66z5fhwN3DgV).
+
 
 Authenticity of donation address - Message from Meeh
 ----------------------------------------------------

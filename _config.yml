@@ -40,16 +40,16 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: slack
+    url: https://join.slack.com/t/anoncoin/shared_invite/enQtMjU3Njk3MjE3MjM1LTAwZjU5ZmEzYTc0ZTg3ZDkxMGYyY2NlNWFkZGVmOTg1MGJlNTIzOTIxZDQ1YjI4NjFkM2NkZjU5Zjg1YzQ2OTQ
   - title: twitter
     url: https://twitter.com/anoncoinproject
   - title: facebook
-    url: https://www.facebook.com/groups/Anoncoin/
+    url: https://www.facebook.com/Anoncoin/
   - title: reddit
     url: https://www.reddit.com/r/Anoncoin/
   - title: github
     url: https://github.com/Anoncoin/anoncoin
-  - title: slack
-    url: https://join.slack.com/t/anoncoin/shared_invite/enQtMjU3Njk3MjE3MjM1LTAwZjU5ZmEzYTc0ZTg3ZDkxMGYyY2NlNWFkZGVmOTg1MGJlNTIzOTIxZDQ1YjI4NjFkM2NkZjU5Zjg1YzQ2OTQ
 
 # Postal address (add as many lines as necessary)
 address:
