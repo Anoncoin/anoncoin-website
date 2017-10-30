@@ -80,6 +80,8 @@ Frankh4x joined the team in October 2017.
 
 Oyvkva joined the team in October 2017.
 
+<br>
+
 
 Community members
 -----------------
@@ -98,7 +100,7 @@ BroTroxer has extensive knowledge of the cryptocurrency markets, he shares the s
 
 ### Geekz
 
-Geekz is the web designer who is in charge of [Ancblockchain](http://ancblockchain.com/), Anoncoin block explorer.
+Geekz is the web designer who is in charge of Ancblockchain.com, an Anoncoin block explorer.
 
 ### N00n
 
