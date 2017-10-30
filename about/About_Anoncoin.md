@@ -2,6 +2,7 @@
 layout: page
 title: About Anoncoin
 permalink: /About_Anoncoin/
+date:   2017-10-30 21:44:35 +0200
 ---
 
 <div class='pull-right' markdown="1">
