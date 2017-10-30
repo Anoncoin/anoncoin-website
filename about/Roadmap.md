@@ -4,23 +4,16 @@ title: Roadmap
 permalink: /Roadmap/
 ---
 
+Roadmap coming soon.
+
+
+
 Last official release
 ---------------------
 
 -   Anoncoin Core Version 0.9.6.12
 -   Release date: 12 Oct 2016
 -   [Github source download](https://github.com/Anoncoin/anoncoin/tree/master)
-
-This is our roadmap
------------------------------------
-
-### December 2017 - Release 0.9.Whatever
-
-Anoncoin 0.9.6.12 is complete <https://github.com/Anoncoin/anoncoin/releases/tag/v0.9.6.12>
-
--   Improve i2pd compatibility to match java router → **DONE**
-
-Anoncoin I2Pd ANCI2Pd portable was released for windows <https://github.com/Anoncoin/anoncoin/releases/tag/1.0.12.0>
 
 
 History
@@ -117,20 +110,3 @@ GUI → **Ssuag**
 debugging
 
 testnet-6
-
--   **Hard fork required**
-
-To-do list
-----------
-
-*Looking for volunteers to help...*
-
--   Open new ANC forum (at forum.anoncoin.net?)
--   Add language-translation functionality to the wiki (current implementation is not good).
--   Mirror the wiki to I2P
--   Make a guide on how to clone the I2P git repo (to direct git to go over I2P tunnel to build Anoncoin).
--   Finish the translations on Transifex
--   Port a block explorer on I2P (ABE)?
--   Implement [Hierarchical Deterministic Wallets](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)
--   Port [PyWallet](https://github.com/jackjack-jj/pywallet) to Anoncoin?
--   Add multisig support to the Qt client.
