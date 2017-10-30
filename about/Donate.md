@@ -2,6 +2,7 @@
 layout: page
 title: Donate
 permalink: /Donate/
+date:   2017-10-30 22:44:35 +0200
 ---
 
 **Help support Anoncoin by donating ANC to the following address:**

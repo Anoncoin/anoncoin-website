@@ -2,6 +2,7 @@
 layout: page
 title: Anoncoin in the news
 permalink: /Anoncoin_in_the_news/
+date:   2017-10-26 21:44:35 +0200
 ---
 
 
