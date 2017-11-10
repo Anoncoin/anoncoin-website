@@ -4,7 +4,7 @@ title: Zero-knowledge proof
 permalink: /Zero-knowledge_proof/
 ---
 
-A **zero-knowledge proof** is a method by which one party can prove to another that a given statement is true, without conveying any additional information apart from the fact that the statement is indeed true. In the [Zerocoin](/Zerocoin "wikilink") protocol, zero-knowledge proofs are used in the process of redeeming previously minted zerocoins for anoncoins. The proof shows that the party previously minted a zerocoin, without making known which zerocoin was minted.
+A **zero-knowledge proof** is a method by which one party can prove to another that a given statement is true, without conveying any additional information apart from the fact that the statement is indeed true. In the Zerocoin protocol, zero-knowledge proofs are used in the process of redeeming previously minted zerocoins for anoncoins. The proof shows that the party previously minted a zerocoin, without making known which zerocoin was minted.
 
 Non Interactive Zero Knowledge Proof of Knowledge
 -------------------------------------------------
@@ -42,9 +42,9 @@ A zerocoin *c* is defined by the equation
 
 *c* = *g*<sup>*S*</sup> *h*<sup>*r*</sup> mod *p*
 
-where the integers *g*, *h*, and *p* are setup parameters known to all, and where the serial number *S* and random number *r* are known only to the owner of the coin. The coin *c* is a [Pedersen commitment](/Commitment_scheme "wikilink") that must be a prime number.
+where the integers *g*, *h*, and *p* are setup parameters known to all, and where the serial number *S* and random number *r* are known only to the owner of the coin. The coin *c* is a [Pedersen commitment](/Commitment_scheme/ "wikilink") that must be a prime number.
 
-As part of the Zerocoin protocol, all of the coins are ['accumulated'](/Cryptographic_accumulator "wikilink") into the value *A* by an equation of the form
+As part of the Zerocoin protocol, all of the coins are ['accumulated'](/Cryptographic_accumulator/ "wikilink") into the value *A* by an equation of the form
 
 
 *A* = *u*<sup>c<sub>1</sub>\ c<sub>2</sub>\ c<sub>3</sub>\ ...\ c\ ...\ c<sub>n</sub></sup> (mod N)
@@ -66,14 +66,13 @@ To prove ownership of a Zerocoin, one must provide the serial number *S*, and pr
 
 NIZKPoK{(*c*, *w*, *r*), AccVerify((N,u),A,c,w) = 1, and *c* = *g*<sup>*S*</sup>*h*<sup>*r*</sup>}.
 
-A [zero-knowledge proof](/Zero-Knowledge_Proofs "wikilink") for knowledge of the coin *c* and witnesss *w* is given by Camenisch and Lysyanskaya (2002). The zero-knowledge proof for knowledge of *c* and *r* is given by Miers et al. (2013).
+A [zero-knowledge proof](/Zero-Knowledge_Proof/ "wikilink") for knowledge of the coin *c* and witnesss *w* is given by Camenisch and Lysyanskaya (2002). The zero-knowledge proof for knowledge of *c* and *r* is given by Miers et al. (2013).
 
 See also
 --------
 
--   [Commitment scheme](/Commitment_scheme "wikilink")
--   [Cryptographic accumulator](/Cryptographic_accumulator "wikilink")
--   [Zerocoin](/Zerocoin "wikilink")
+-   [Commitment scheme](/Commitment_scheme/ "wikilink")
+-   [Cryptographic accumulator](/Cryptographic_accumulator/ "wikilink")
 
 References
 ----------

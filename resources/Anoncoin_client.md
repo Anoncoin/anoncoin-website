@@ -8,10 +8,10 @@ permalink: /Anoncoin_client/
 ![Logo](/img/Wallet2.jpg)
 </div>
 
-**Anoncoin-Qt** is the Anoncoin client that is maintained by the Anoncoin developers. It is based on the Litecoin-Qt and Bitcoin-Qt clients. It supports the [I2P](/I2P) darknet and notifies you at startup if you are running on clearnet.
+**Anoncoin-Qt** is the Anoncoin client that is maintained by the Anoncoin developers. It is based on the Litecoin-Qt and Bitcoin-Qt clients. It supports the [I2P](/I2P/) darknet and notifies you at startup if you are running on clearnet.
 
 External Links
 --------------
 
--   [Download the Anoncoin-Qt Wallet](/download)
+-   [Download the Anoncoin-Qt Wallet](/Download/)
 -   [The Anoncoin source code](https://github.com/Anoncoin/anoncoin)

@@ -29,9 +29,9 @@ Note that Internet Service Providers and any other entity capable of monitoring 
 
 ### Proxies
 
-It is possible to hide your home IP address by using some kind of proxy. Simple proxies will only hide it, while the use of more complex routing networks such as Tor or [I2P](/I2P) will also encrypt the connexion between your computer and the nodes that can see your IP. Anoncoin can be set up to use Tor using [these instructions](/How_to_setup_Anoncoin_to_use_Tor).
+It is possible to hide your home IP address by using some kind of proxy. Simple proxies will only hide it, while the use of more complex routing networks such as Tor or [I2P](/I2P/) will also encrypt the connexion between your computer and the nodes that can see your IP. Anoncoin can be set up to use Tor using [these instructions](/How_to_setup_Anoncoin_to_use_Tor/).
 
-I2P is another routing network that hides your IP address, and for now, Anoncoin is the only cryptocurrency that is configured to use it. I2P is not an outbound proxy like Tor. Anoncoin can be easily configured to use I2P by following these [these instructions](/How_to_setup_your_Anoncoin_wallet).
+I2P is another routing network that hides your IP address, and for now, Anoncoin is the only cryptocurrency that is configured to use it. I2P is not an outbound proxy like Tor. Anoncoin can be easily configured to use I2P by following these [these instructions](/How_to_setup_your_Anoncoin_wallet/).
 
 For an explanation of the differences between Tor and I2P, see this link: <https://geti2p.net/en/comparison/tor>
 
@@ -50,7 +50,7 @@ In conclusion, the public nature of the block chain is, paradoxically, a great t
 Privacy-centric cryptocurrencies: methods and issues
 ====================================================
 
-Many coins or services now claim to have special features that provide “anonymity”, and it can be hard to find what is really cryptographically strong and what is not. In most cases, these services provide only increased privacy, by making it really hard (but not impossible) to trace the origin of a given transactions. Only two methods ([Zerocoin](/Zerocoin) and [Zerocash](/Zerocash) provide cryptographically proven anonymity. Below, we provide a review of these services.
+Many coins or services now claim to have special features that provide “anonymity”, and it can be hard to find what is really cryptographically strong and what is not. In most cases, these services provide only increased privacy, by making it really hard (but not impossible) to trace the origin of a given transactions. Only two methods Zerocoin Zerocash provide cryptographically proven anonymity. Below, we provide a review of these services.
 
 Embedded tools or online services
 ---------------------------------
@@ -144,7 +144,7 @@ Specific cryptocurrencies with simple approach
 
 <!-- -->
 
--   One has to get 1000 DarkCoins and stake them in order to set up a MasterNode. The developpers' philosophy is to set a high cost to run Masternodes, so they're more difficult to compromise [<https://darkcointalk.org/threads/development-update-august-19-2014.2086>](/https://darkcointalk.org/threads/development-update-august-19-2014.2086).
+-   One has to get 1000 DarkCoins and stake them in order to set up a MasterNode. The developpers' philosophy is to set a high cost to run Masternodes, so they're more difficult to compromise.
 
 <!-- -->
 
@@ -152,7 +152,7 @@ Specific cryptocurrencies with simple approach
 
 <!-- -->
 
--   The code has just been open sourced, many months after its launch. [8](https://darkcointalk.org/threads/rc5-launching-september-22nd.2382/). Yet, code flaws in “darksend” were found shortly after that: [9](https://bitcointalk.org/index.php?topic=816141.0)
+-   The code has just been open sourced, many months after its launch.
 
 <!-- -->
 
@@ -183,11 +183,11 @@ More complex cryptographic approaches
 
 ### Zerocoin, using RSA UFOs
 
--   [Zerocoin](/Zerocoin) was originally developed by a team of academic cryptographers who wanted to add true cryptographic anonymity to Bitcoin. In part because the Bitcoin community was not interested in incorporating zerocoin capabilities, these academics moved on to a different project, called called [Zerocash](/Zerocash) [12](http://zerocoin.org/people)
+-   Zerocoin was originally developed by a team of academic cryptographers who wanted to add true cryptographic anonymity to Bitcoin. In part because the Bitcoin community was not interested in incorporating zerocoin capabilities, these academics moved on to a different project, called called Zerocash. [12](http://zerocoin.org/people)
 
 <!-- -->
 
--   Zerocoin is now being developped by [Anoncoin](/About_Anoncoin). Though many other coins claim to be implementing Zerocoin as well, none besides Anoncoin have given proof of such activity.
+-   Zerocoin is now being developped by [Anoncoin](/About_Anoncoin/). Though many other coins claim to be implementing Zerocoin as well, none besides Anoncoin have given proof of such activity.
 
 <!-- -->
 
@@ -195,11 +195,11 @@ More complex cryptographic approaches
 
 <!-- -->
 
--   By analyzing the block chain, you can see when someone buys zerocoins, and you can also see when zerocoins are redeemed to a public address. However, by the use of [Zero-knowledge proofs](/Zero-knowledge_proof), it is not possible to link the original address that bought the zerocoins to the address where they are eventually redeemed.
+-   By analyzing the block chain, you can see when someone buys zerocoins, and you can also see when zerocoins are redeemed to a public address. However, by the use of [Zero-knowledge proofs](/Zero-knowledge_proof/), it is not possible to link the original address that bought the zerocoins to the address where they are eventually redeemed.
 
 <!-- -->
 
--   In order to set up zerocoin, several security parameters need to be chosen which are simply products of two large prime numbers. Anoncoin uses [RSA UFOs](/RSA_UFO) for these numbers, whose factorization is unknown, even to the person who generated the number. The use of RSA UFOs makes Anoncoin's implementation of Zerocoin entirely trustless.
+-   In order to set up zerocoin, several security parameters need to be chosen which are simply products of two large prime numbers. Anoncoin uses [RSA UFOs](/RSA_UFO/) for these numbers, whose factorization is unknown, even to the person who generated the number. The use of RSA UFOs makes Anoncoin's implementation of Zerocoin entirely trustless.
 
 <!-- -->
 
@@ -209,7 +209,7 @@ More complex cryptographic approaches
 
 ### Zerocash
 
--   [Zerocash](/Zerocash) was developed by some of the same authors as Zerocoin. This will be a coin of its own, but it has not yet been released.
+-   Zerocash was developed by some of the same authors as Zerocoin. This will be a coin of its own, but it has not yet been released.
 
 <!-- -->
 
@@ -229,4 +229,4 @@ Any anonymity process requiring that you “trust” such a service is weak comp
 See also
 --------
 
--   [How anonymous are you](/How_anonymous_are_you)
+-   [How anonymous are you](/How_anonymous_are_you/)

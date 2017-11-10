@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Anoncoin address
-permalink: /Sample_anoncoin.conf/
+permalink: /Anoncoin_address/
+date: 2017-11-10 5:44:35 +0200
 ---
 
-An **[Anoncoin](/About_Anoncoin) address** is an identifier of 27-34 alphanumeric characters, beginning with the letter **A**, that represents a possible destination for an anoncoin payment. Addresses can be generated at no cost by any user, and the user can have as many addresses as desired. An example of an Anoncoin address is [Acoin7tkEib9d8BfomQYUK66z5fhwN3DgV](/Donate).
+An **[Anoncoin](/About_Anoncoin/) address** is an identifier of 27-34 alphanumeric characters, beginning with the letter **A**, that represents a possible destination for an anoncoin payment. Addresses can be generated at no cost by any user, and the user can have as many addresses as desired. An example of an Anoncoin address is [Acoin7tkEib9d8BfomQYUK66z5fhwN3DgV](/Donate/).
 
 An Anoncoin address is like an e-mail address
 ---------------------------------------------
@@ -30,7 +31,7 @@ Addresses have a “private key”
 
 For most properly-generated addresses, there is at least one secret number known as a private key which is required for access to the funds assigned to that address.
 
-When using the Anoncoin client, private keys are typically stored in the wallet file. For security (see [Securing your wallet](/Securing_your_wallet)), the wallet should be encrypted. The private key has a special purpose - it is mathematically needed to create valid transactions that spend the funds originally sent to the address. If the private key to an address is lost (for example, in a hard drive crash, fire or other natural disaster), any associated coins are effectively lost forever.
+When using the Anoncoin client, private keys are typically stored in the wallet file. For security (see [Securing your wallet](/Securing_your_wallet/)), the wallet should be encrypted. The private key has a special purpose - it is mathematically needed to create valid transactions that spend the funds originally sent to the address. If the private key to an address is lost (for example, in a hard drive crash, fire or other natural disaster), any associated coins are effectively lost forever.
 
 What's in an address
 --------------------
@@ -42,5 +43,5 @@ Several of the characters inside an Anoncoin address are used as a checksum so t
 See also
 --------
 
--   [Anoncoin](/About_Anoncoin)
--   [How to generate an Anoncoin vanity address](/How_to_generate_an_Anoncoin_vanity_address)
+-   [Anoncoin](/About_Anoncoin/)
+-   [How to generate an Anoncoin vanity address](/How_to_generate_an_Anoncoin_vanity_address/)

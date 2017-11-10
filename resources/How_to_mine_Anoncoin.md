@@ -4,7 +4,7 @@ title: How to mine Anoncoin
 permalink: /How_to_mine_Anoncoin/
 ---
 
-You can mine [Anoncoin](/About_Anoncoin) on your computer by using [scrypt](/scrypt) ASICs. It is no longer profitable to mine with either a GPU or CPU.
+You can mine [Anoncoin](/About_Anoncoin/) on your computer by using [scrypt](/Scrypt/) ASICs. It is no longer profitable to mine with either a GPU or CPU.
 
 Mining at a P2Pool pool
 -----------------------
@@ -35,4 +35,4 @@ listen=1
 See also
 --------
 
--   [Mining pools](/Mining_pools)
+-   [Mining pools](/Mining_pools/)

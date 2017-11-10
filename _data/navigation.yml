@@ -1,52 +1,52 @@
 - title: About
-  url: /About_Anoncoin
+  url: /About_Anoncoin/
   sublinks:
   - title: About Anoncoin
-    url: /About_Anoncoin
+    url: /About_Anoncoin/
   - title: Anoncoin in the news
-    url: /Anoncoin_in_the_news
+    url: /Anoncoin_in_the_news/
   - title: Anoncoin development team
-    url: /Anoncoin_development_team
+    url: /Anoncoin_development_team/
   - title: Roadmap
-    url: /Roadmap
+    url: /Roadmap/
   - title: Donate
-    url: /Donate
+    url: /Donate/
 - title: Downloads
-  url: /Download
+  url: /Download/
   sublinks:
   - title: Windows
-    url: /Download#windowsdownload
+    url: /Download/#windowsdownload
   - title: Mac
-    url: /Download#macdownload
+    url: /Download/#macdownload
   - title: Linux
-    url: /Download#linuxdownload
+    url: /Download/#linuxdownload
   - title: Mobile
-    url: /Download#mobiledownload 
+    url: /Download/#mobiledownload 
 - title: Resources
-  url: /Resources
+  url: /Blog/
   sublinks:
   - title: Blog
-    url: /Blog
+    url: /Blog/
   - title: FAQ
-    url: /FAQ
+    url: /FAQ/
   - title: Wiki
     url: /Wiki/
   - title: How to guides
-    url: /How_to_guides
+    url: /How_to_guides/
 - title: Services
-  url: /Services
+  url: /Exchanges/
   sublinks:
-  - title: Block chain explorers
-    url: /Block_chain_explorers
   - title: Exchanges
-    url: /Exchanges
+    url: /Exchanges/
+  - title: Block chain explorers
+    url: /Block_chain_explorers/
   - title: Mining pools
-    url: /Mining_pools
+    url: /Mining_pools/
   - title: separator
   - title: Places that accept Anoncoin
-    url: /Places_that_accept_Anoncoin
+    url: /Places_that_accept_Anoncoin/
 - title: Community
-  url: /Community
+  url: /Community/
   sublinks:
   - title: Slack
     url: https://join.slack.com/t/anoncoin/shared_invite/enQtMjU3Njk3MjE3MjM1LTAwZjU5ZmEzYTc0ZTg3ZDkxMGYyY2NlNWFkZGVmOTg1MGJlNTIzOTIxZDQ1YjI4NjFkM2NkZjU5Zjg1YzQ2OTQ

@@ -15,4 +15,4 @@ permalink: /Mining_pools/
 See also
 --------
 
--   [How to mine Anoncoin](/How_to_mine_Anoncoin)
+-   [How to mine Anoncoin](/How_to_mine_Anoncoin/)
