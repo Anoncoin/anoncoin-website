@@ -9,7 +9,7 @@ date:   2017-10-30 21:44:35 +0200
 ![Logo](/img/anoncoin_logo.png)
 </div>
 
-Anoncoin, trading symbol ANC, is a digital cryptocurrency that focuses on privacy and anonymity for its users. Created in June 2013, it was the first coin that provided built-in support for the [I2P](/I2P) darknet that makes it impossible to determine the IP address of the user. Anoncoin also has built in support of Tor, which can help conceal your location and keep your internet traffic private. 
+Anoncoin, trading symbol ANC, is a digital cryptocurrency that focuses on privacy and anonymity for its users. Created in June 2013, it was the first coin that provided built-in support for the [I2P](/I2P/) darknet that makes it impossible to determine the IP address of the user. Anoncoin also has built in support of Tor, which can help conceal your location and keep your internet traffic private. 
 
 The Anoncoin network is maintained by decentralized miners who process transactions into blocks that are added to the public blockchain. With the creation of each block, a specific amount of Anoncoin is created that is rewarded to the miner. 
 
@@ -22,7 +22,7 @@ Anoncoin was created not only for the purpose of strong user privacy, which was 
 
 As opposed to many alternative cryptocurrencies that serve only to enrich financially the developers, Anoncoin was released in an entirely transparent manner and with a fair initial coin distribution. Though there was a small pre-mine of 4200 ANC for technical reasons, these coins were returned to the community by a public faucet, bounties, and give-a-ways. 
 
-The coin is being actively developed, with a team of 4 active developers working on the project daily. The developers have a long history of working on internet privacy issues, as is attested by the creation of the non-profit organization Privacy Solutions and their work with [I2P](/I2P).
+The coin is being actively developed, with a team of 4 active developers working on the project daily. The developers have a long history of working on internet privacy issues, as is attested by the creation of the non-profit organization Privacy Solutions and their work with [I2P](/I2P/).
 
 But aren’t other cryptocurrencies anonymous?
 -------------------------------------------
@@ -49,7 +49,7 @@ The defining features of the Anoncoin cryptocurrency are:
 -   **Premine:** 1000 blocks (4200 ANC) that were returned to the community by community donations and a public faucet.
 -   **Anonymity:** Built-in support of I2P and Tor.
 
-Anoncoin was originally a fork of the Litecoin source code and it now includes most aspects of Bitcoin Core 0.10. The creation of new coins is by the reward to miners for processing transactions into blocks that are added to the blockchain. Mining is performed by proof-of-work using the [scrypt](/scrypt) hashing function. 
+Anoncoin was originally a fork of the Litecoin source code and it now includes most aspects of Bitcoin Core 0.10. The creation of new coins is by the reward to miners for processing transactions into blocks that are added to the blockchain. Mining is performed by proof-of-work using the [scrypt](/Scrypt/) hashing function. 
 
 A total of 3.1 million coins can be mined into existence, which is 7 times less than the maximum supply of Bitcoin, and transactions are processed, on average, every 3 minutes. The current block reward is 1.25 ANC.
 
@@ -62,6 +62,6 @@ Though Anoncoin transactions can still be tracked by the public blockchain ledge
 See also
 --------
 
--   [Anonymity of cryptocurrencies](/Anonymity_of_cryptocurrencies)
--   [How to setup Anoncoin to use Tor](/How_to_setup_Anoncoin_to_use_Tor)
--   [I2P](/I2P)
+-   [Anonymity of cryptocurrencies](/Anonymity_of_cryptocurrencies/)
+-   [How to setup Anoncoin to use Tor](/How_to_setup_Anoncoin_to_use_Tor/)
+-   [I2P](/I2P/)

@@ -21,7 +21,7 @@ This only comes in one flavor. The \[ disk volume (dmg) file\] contains all the 
 
 ### Linux
 
-Clone the master from [the git repository](https://github.com/Anoncoin/anoncoin), it contains all the source files needed to compile your own binaries. How to guide is here [How_to_build_Anoncoin_from_source](/How_to_build_Anoncoin_from_source). Binaries are in the works for multiple Linux distributions.
+Clone the master from [the git repository](https://github.com/Anoncoin/anoncoin), it contains all the source files needed to compile your own binaries. How to guide is here [How_to_build_Anoncoin_from_source](/How_to_build_Anoncoin_from_source/). Binaries are in the works for multiple Linux distributions.
 
 ### Source Code
 
@@ -30,17 +30,17 @@ Obtain the Anoncoin source code by [cloning the git repository](https://github.c
 Setting up your client to use I2P (9.6.13)
 ------------------------------------------
 
-Build the Anoncoin master 9.6.13 from source ([How_to_build_Anoncoin_from_source](/How_to_build_Anoncoin_from_source)).
+Build the Anoncoin master 9.6.13 from source ([How_to_build_Anoncoin_from_source](/How_to_build_Anoncoin_from_source/)).
 
 Alternatively, you can download the master version (19/06/2017) here: <https://github.com/Anoncoin/anoncoin/releases/tag/5e441d8>
 
 If there was a previous installation of Anoncoin 8.5.6, delete everything in anoncoin data directory **BUT KEEP WALLET.DAT** (the data directory is exemplified in the next link about bootstrap).
 
-Download and install java [I2P](/I2P) following [How_to_install_and_use_I2P](/How_to_install_and_use_I2P)
+Download and install java [I2P](/I2P/) following [How_to_install_and_use_I2P](/How_to_install_and_use_I2P/)
 
-Install Anoncoin following this guide [How to install Anoncoin](/How_to_install_Anoncoin).
+Install Anoncoin following this guide [How to install Anoncoin](/How_to_install_Anoncoin/).
 
-Then download and copy the file `bootstrap.dat` in the anoncoin data directory ([How to use a bootstrap file to speed up initial synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization)).
+Then download and copy the file `bootstrap.dat` in the anoncoin data directory ([How to use a bootstrap file to speed up initial synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization/)).
 
 Then copy/paste the sample `anoncoin.conf` for the 9.6.12 version in your data directory. It is found in the folder anoncoin/doc.
 
@@ -146,6 +146,6 @@ nano ~/.anoncoin/anoncoin.conf
 See also
 --------
 
--   [How to setup Anoncoin to use Tor](/How_to_setup_Anoncoin_to_use_Tor)
--   [Securing your wallet](/Securing_your_wallet)
--   [How to use a bootstrap file to speed up initial synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization)
+-   [How to setup Anoncoin to use Tor](/How_to_setup_Anoncoin_to_use_Tor/)
+-   [Securing your wallet](/Securing_your_wallet/)
+-   [How to use a bootstrap file to speed up initial synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization/)

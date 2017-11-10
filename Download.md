@@ -70,7 +70,7 @@ Start Anoncoin and you should see "Importing blocks from disk...".
 --------
 ## Linux
 
-Clone the master from [the git repository](https://github.com/Anoncoin/anoncoin), it contains all the source files needed to compile your own binaries. How to guide is here [How_to_build_Anoncoin_from_source](/How_to_build_Anoncoin_from_source). Binaries are in the works for multiple Linux distributions.
+Clone the master from [the git repository](https://github.com/Anoncoin/anoncoin), it contains all the source files needed to compile your own binaries. How to guide is here [How_to_build_Anoncoin_from_source](/How_to_build_Anoncoin_from_source/). Binaries are in the works for multiple Linux distributions.
 
 ### Speed up synchronization with Bootstrap.
 

@@ -29,9 +29,9 @@ Note that Internet Service Providers and any other entity capable of monitoring 
 
 ### Proxies
 
-It is possible to hide your home IP address by using some kind of proxy. Simple proxies will only hide it, while the use of more complex routing networks such as Tor or [I2P](/I2P) will also encrypt the connexion between your computer and the nodes that can see your IP. Anoncoin can be set up to use Tor using [these instructions](/How_to_setup_Anoncoin_to_use_Tor).
+It is possible to hide your home IP address by using some kind of proxy. Simple proxies will only hide it, while the use of more complex routing networks such as Tor or [I2P](/I2P/) will also encrypt the connexion between your computer and the nodes that can see your IP. Anoncoin can be set up to use Tor using [these instructions](/How_to_setup_Anoncoin_to_use_Tor/).
 
-I2P is another routing network that hides your IP address, and for now, Anoncoin is the only cryptocurrency that is configured to use it. I2P is not an outbound proxy like Tor. Anoncoin can be easily configured to use I2P by following these [these instructions](/How_to_setup_your_Anoncoin_wallet).
+I2P is another routing network that hides your IP address, and for now, Anoncoin is the only cryptocurrency that is configured to use it. I2P is not an outbound proxy like Tor. Anoncoin can be easily configured to use I2P by following these [these instructions](/How_to_setup_your_Anoncoin_wallet/).
 
 For an explanation of the differences between Tor and I2P, see this link: <https://geti2p.net/en/comparison/tor>
 
@@ -187,7 +187,7 @@ More complex cryptographic approaches
 
 <!-- -->
 
--   Zerocoin is now being developped by [Anoncoin](/About_Anoncoin). Though many other coins claim to be implementing Zerocoin as well, none besides Anoncoin have given proof of such activity.
+-   Zerocoin is now being developped by [Anoncoin](/About_Anoncoin/). Though many other coins claim to be implementing Zerocoin as well, none besides Anoncoin have given proof of such activity.
 
 <!-- -->
 
@@ -195,11 +195,11 @@ More complex cryptographic approaches
 
 <!-- -->
 
--   By analyzing the block chain, you can see when someone buys zerocoins, and you can also see when zerocoins are redeemed to a public address. However, by the use of [Zero-knowledge proofs](/Zero-knowledge_proof), it is not possible to link the original address that bought the zerocoins to the address where they are eventually redeemed.
+-   By analyzing the block chain, you can see when someone buys zerocoins, and you can also see when zerocoins are redeemed to a public address. However, by the use of [Zero-knowledge proofs](/Zero-knowledge_proof/), it is not possible to link the original address that bought the zerocoins to the address where they are eventually redeemed.
 
 <!-- -->
 
--   In order to set up zerocoin, several security parameters need to be chosen which are simply products of two large prime numbers. Anoncoin uses [RSA UFOs](/RSA_UFO) for these numbers, whose factorization is unknown, even to the person who generated the number. The use of RSA UFOs makes Anoncoin's implementation of Zerocoin entirely trustless.
+-   In order to set up zerocoin, several security parameters need to be chosen which are simply products of two large prime numbers. Anoncoin uses [RSA UFOs](/RSA_UFO/) for these numbers, whose factorization is unknown, even to the person who generated the number. The use of RSA UFOs makes Anoncoin's implementation of Zerocoin entirely trustless.
 
 <!-- -->
 
@@ -229,4 +229,4 @@ Any anonymity process requiring that you “trust” such a service is weak comp
 See also
 --------
 
--   [How anonymous are you](/How_anonymous_are_you)
+-   [How anonymous are you](/How_anonymous_are_you/)

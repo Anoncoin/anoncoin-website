@@ -7,9 +7,9 @@ permalink: /GroundRod_PID/
 Presentation of GroundRod PID
 -----------------------------
 
-EDIT2: those settings were changed in the 0.9.6.12 version of Anoncoin at block 585555 due to the not good retargeting of ver1 (see link EDIT1 below). Result of 11000 blocks mined (585555-596555) on mainet after hardfork2 [GroundRod_PID_main_ver2](/GroundRod_PID_main_ver2 "wikilink")
+EDIT2: those settings were changed in the 0.9.6.12 version of Anoncoin at block 585555 due to the not good retargeting of ver1 (see link EDIT1 below). Result of 11000 blocks mined (585555-596555) on mainet after hardfork2 [GroundRod_PID_main_ver2](/GroundRod_PID_main_ver2/ "wikilink")
 
-EDIT1: Result (not good) on mainet after 5000 blocks mined (555555-556555) on mainet after hardfork1 [GroundRod_PID_main_ver1](/GroundRod_PID_main_ver1 "wikilink")
+EDIT1: Result (not good) on mainet after 5000 blocks mined (555555-556555) on mainet after hardfork1 [GroundRod_PID_main_ver1](/GroundRod_PID_main_ver1/ "wikilink")
 
 ------------------------------------------------------------------------
 

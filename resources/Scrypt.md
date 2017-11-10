@@ -4,7 +4,7 @@ title: Scrypt
 permalink: /Scrypt/
 ---
 
-*Scrypt* is a password-based key derivation function and the algorithm was specifically designed to make it costly to perform large-scale custom hardware attacks by requiring large amounts of memory. In [Anoncoin](/About_Anoncoin), scrypt is the proof-of-work algorithm that miners use to compete to add blocks to the block chain.
+*Scrypt* is a password-based key derivation function and the algorithm was specifically designed to make it costly to perform large-scale custom hardware attacks by requiring large amounts of memory. In [Anoncoin](/About_Anoncoin/), scrypt is the proof-of-work algorithm that miners use to compete to add blocks to the block chain.
 
 Anoncoin parameters to call scrypt
 ----------------------------------

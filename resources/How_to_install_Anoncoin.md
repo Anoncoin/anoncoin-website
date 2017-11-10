@@ -7,7 +7,7 @@ permalink: /How_to_install_Anoncoin/
 Installation on Windows
 -----------------------
 
-After having downloaded the extractable zip file ([Download](/Download)), execute the included anoncoin setup. 
+After having downloaded the extractable zip file ([Download](/Download/)), execute the included anoncoin setup. 
 
 ![Image](/img/Welcome_setup.PNG) 
 
@@ -23,7 +23,7 @@ Complete the installation.
 
 ![Image](/img/Install4.PNG) 
 
-If you have the [I2P](/I2P) router already configured ([How_to_install_and_use_I2P](/How_to_install_and_use_I2P)), this is excellent and you shall generate an I2P static key by checking the box.  
+If you have the [I2P](/I2P/) router already configured ([How_to_install_and_use_I2P](/How_to_install_and_use_I2P/)), this is excellent and you shall generate an I2P static key by checking the box.  
 
 ![Image](/img/Install5.PNG) 
 
@@ -55,7 +55,7 @@ Now that it is properly configured, Anoncoin is now ready to be run in the class
 
 ![Image](/img/Install9e.png) 
 
-On first launch, because of the way the Header-First synchronization is going, the block download can seems to stop. If you want to check what is going on, you can type `getchaintips` in the debug console. The Block headers are first downloaded and verified (status:“headers-only”), which takes almost two hours, then the blocks are downloaded from all the connected peers in parallel, increasing the status:“active” chain. If you use the `bootstrap.dat` ([How to use a bootstrap file to speed up initial synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization)) then you will at first only see one chain because using this linearized bootstrap both block headers and block data are verified simultaneously, then it will catch-on the current tip using the Header-First synchronization.  
+On first launch, because of the way the Header-First synchronization is going, the block download can seems to stop. If you want to check what is going on, you can type `getchaintips` in the debug console. The Block headers are first downloaded and verified (status:“headers-only”), which takes almost two hours, then the blocks are downloaded from all the connected peers in parallel, increasing the status:“active” chain. If you use the `bootstrap.dat` ([How to use a bootstrap file to speed up initial synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization/)) then you will at first only see one chain because using this linearized bootstrap both block headers and block data are verified simultaneously, then it will catch-on the current tip using the Header-First synchronization.  
 
 
 ![Image](/img/Install9f.png)

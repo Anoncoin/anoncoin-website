@@ -20,7 +20,7 @@ The Zerocoin accumulator is defined as
 
 A = u<sup>c<sub>1</sub>\ c<sub>2</sub>\ c<sub>3</sub>\ ...\ c\ ...\ c<sub>n</sub></sup> (mod N)
 
-where the integers *A*, *u* and *N* are known to everyone. The coin *c* is a prime number that is a [Pedersen commitment](/Commitment_scheme "wikilink") of a coin serial number *S* and random number *r*. The witness *w* of a coin *c* is defined as the accumulation of all coins with the exception of *c*
+where the integers *A*, *u* and *N* are known to everyone. The coin *c* is a prime number that is a [Pedersen commitment](/Commitment_scheme/ "wikilink") of a coin serial number *S* and random number *r*. The witness *w* of a coin *c* is defined as the accumulation of all coins with the exception of *c*
 
 
 w = u<sup>c<sub>1</sub>\ c<sub>2</sub>\ c<sub>3</sub>\ ...\ c<sub>n</sub></sup> (mod N).
@@ -35,12 +35,12 @@ Given *A*, *w*, and *v*, it can be verified that the coin *v* was accumulated in
 
 A' = w<sup>v</sup> mod N = A.
 
-A [zero-knowledge proof](/Zero-Knowledge_Proof "wikilink") for knowledge of the coin *c* and witnesss *w* is given by Camenisch and Lysyanskaya (2002).
+A [zero-knowledge proof](/Zero-Knowledge_Proof/ "wikilink") for knowledge of the coin *c* and witnesss *w* is given by Camenisch and Lysyanskaya (2002).
 
 See also
 --------
 
--   [Zero-knowledge proof](/Zero-knowledge_proof "wikilink")
+-   [Zero-knowledge proof](/Zero-knowledge_proof/ "wikilink")
 
 References
 ----------
