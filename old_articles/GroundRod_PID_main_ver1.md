@@ -6,7 +6,7 @@ permalink: /GroundRod_PID_main_ver1/
 
 Here we show the result of 5000+ blocks mining after the hardfork on block 555555 using the GroundRod PID Retarget Difficulty Algo featured in the obsolete 0.9.6.11 version of Anoncoin.
 
-EDIT2: those settings were changed in the 0.9.6.12 version of Anoncoin at block 585555 due to the not good retargeting of ver1. Result of 11000 blocks mined (585555-596555) on mainet after hardfork2 [GroundRod_PID_main_ver2](/GroundRod_PID_main_ver2 "wikilink")
+EDIT2: those settings were changed in the 0.9.6.12 version of Anoncoin at block 585555 due to the not good retargeting of ver1. Result of 11000 blocks mined (585555-596555) on mainet after hardfork2 [GroundRod_PID_main_ver2](/GroundRod_PID_main_ver2/ "wikilink")
 
 ------------------------------------------------------------------------
 

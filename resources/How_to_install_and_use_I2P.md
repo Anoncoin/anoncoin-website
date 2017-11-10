@@ -41,7 +41,7 @@ When you see “Shared Client” in green, it means the I2P router is ready!
 
 ![Image](/img/I2P8.png)
 
-Go in the Anoncoin folder ([How_to_install_Anoncoin](/How_to_install_Anoncoin)) in the Start menu and click on “Generate I2P static privatekey”. Alternatively, execute `anoncoin-qtc -i2p.options.enabled=1 -onlynet=i2p -generatei2pdestination`
+Go in the Anoncoin folder ([How_to_install_Anoncoin](/How_to_install_Anoncoin/)) in the Start menu and click on “Generate I2P static privatekey”. Alternatively, execute `anoncoin-qtc -i2p.options.enabled=1 -onlynet=i2p -generatei2pdestination`
 
 ![Image](/img/I2P9.png)
 
@@ -55,7 +55,7 @@ When the “Anoncoin - Generated I2P Destination” box has opened, it means the
 
 Abort will close the client, Apply will launch it and open the “Private I2P Destination Details” windows. Any choice done will keep the previously generated I2P destination.
 
-On next launch using the “Anoncoin Core (64-bit) I2P-only” link, it will automatically use the same previously generated I2P destination in a static manner. Alternatively, execute `anoncoin-qtc -i2p.options.enabled=1 -onlynet=i2p` You can also set this as a permanent setting via `anoncoin.conf` (see [How_to_install_Anoncoin](/How_to_install_Anoncoin) and [Anoncoin-0.9.6.12.conf](/Anoncoin-0.9.6.12.conf)).
+On next launch using the “Anoncoin Core (64-bit) I2P-only” link, it will automatically use the same previously generated I2P destination in a static manner. Alternatively, execute `anoncoin-qtc -i2p.options.enabled=1 -onlynet=i2p` You can also set this as a permanent setting via `anoncoin.conf` (see [How_to_install_Anoncoin](/How_to_install_Anoncoin/).
 
 ![Image](/img/Install8.png)
 
@@ -108,7 +108,7 @@ After a few minutes, connect to the router console at 127.0.0.1:7657
 
 Enable the I2P SAM bridge, allow it to run at restart and save the configuration (as explained above in the graphical guide)
 
-After five minutes try to connect to your I2P router from anoncoin (see [How_to_build_Anoncoin_from_source\#What_to_do_next.3F](/How_to_build_Anoncoin_from_source#What_to_do_next.3F))
+After five minutes try to connect to your I2P router from anoncoin (see [How_to_build_Anoncoin_from_source/#What_to_do_next.3F](/How_to_build_Anoncoin_from_source/#What_to_do_next.3F))
 
 Setup your browser to use I2P via a proxy
 -----------------------------------------
@@ -122,4 +122,4 @@ Note that all http addresses will be sent through this proxy, and you will no lo
 See also
 --------
 
--   [I2P](/I2P)
+-   [I2P](/I2P/)

@@ -29,7 +29,7 @@ This should take only a few seconds. Longer strings will take considerably longe
 See also
 --------
 
--   [Anoncoin address](/Anoncoin_address)
+-   [Anoncoin address](/Anoncoin_address/)
 
 External links
 --------------
