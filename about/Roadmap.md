@@ -21,7 +21,7 @@ Last official release
 ---------------------
 
 -   Anoncoin Core Version 0.9.6.13
--   Release date: 19. June 2017
+-   Release date: 24. June 2017
 -   [Github source download](https://github.com/Anoncoin/anoncoin/archive/5e441d8.zip)
 
 -----------------------------------
