@@ -50,7 +50,7 @@ In conclusion, the public nature of the block chain is, paradoxically, a great t
 Privacy-centric cryptocurrencies: methods and issues
 ====================================================
 
-Many coins or services now claim to have special features that provide “anonymity”, and it can be hard to find what is really cryptographically strong and what is not. In most cases, these services provide only increased privacy, by making it really hard (but not impossible) to trace the origin of a given transactions. Only two methods ([Zerocoin](/Zerocoin) and [Zerocash](/Zerocash) provide cryptographically proven anonymity. Below, we provide a review of these services.
+Many coins or services now claim to have special features that provide “anonymity”, and it can be hard to find what is really cryptographically strong and what is not. In most cases, these services provide only increased privacy, by making it really hard (but not impossible) to trace the origin of a given transactions. Only two methods Zerocoin Zerocash provide cryptographically proven anonymity. Below, we provide a review of these services.
 
 Embedded tools or online services
 ---------------------------------
@@ -144,7 +144,7 @@ Specific cryptocurrencies with simple approach
 
 <!-- -->
 
--   One has to get 1000 DarkCoins and stake them in order to set up a MasterNode. The developpers' philosophy is to set a high cost to run Masternodes, so they're more difficult to compromise [<https://darkcointalk.org/threads/development-update-august-19-2014.2086>](/https://darkcointalk.org/threads/development-update-august-19-2014.2086).
+-   One has to get 1000 DarkCoins and stake them in order to set up a MasterNode. The developpers' philosophy is to set a high cost to run Masternodes, so they're more difficult to compromise.
 
 <!-- -->
 
@@ -152,7 +152,7 @@ Specific cryptocurrencies with simple approach
 
 <!-- -->
 
--   The code has just been open sourced, many months after its launch. [8](https://darkcointalk.org/threads/rc5-launching-september-22nd.2382/). Yet, code flaws in “darksend” were found shortly after that: [9](https://bitcointalk.org/index.php?topic=816141.0)
+-   The code has just been open sourced, many months after its launch.
 
 <!-- -->
 
@@ -183,7 +183,7 @@ More complex cryptographic approaches
 
 ### Zerocoin, using RSA UFOs
 
--   [Zerocoin](/Zerocoin) was originally developed by a team of academic cryptographers who wanted to add true cryptographic anonymity to Bitcoin. In part because the Bitcoin community was not interested in incorporating zerocoin capabilities, these academics moved on to a different project, called called [Zerocash](/Zerocash) [12](http://zerocoin.org/people)
+-   Zerocoin was originally developed by a team of academic cryptographers who wanted to add true cryptographic anonymity to Bitcoin. In part because the Bitcoin community was not interested in incorporating zerocoin capabilities, these academics moved on to a different project, called called Zerocash. [12](http://zerocoin.org/people)
 
 <!-- -->
 
@@ -209,7 +209,7 @@ More complex cryptographic approaches
 
 ### Zerocash
 
--   [Zerocash](/Zerocash) was developed by some of the same authors as Zerocoin. This will be a coin of its own, but it has not yet been released.
+-   Zerocash was developed by some of the same authors as Zerocoin. This will be a coin of its own, but it has not yet been released.
 
 <!-- -->
 

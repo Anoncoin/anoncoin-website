@@ -4,7 +4,7 @@ title: Cryptographic accumulator
 permalink: /Cryptographic_accumulator/
 ---
 
-**One-way cryptographic accumulators** allow parties to combine many elements into a constant-sized data structure. This structure allows one to prove efficiently that a specific value is contained within the set, without disclosing the value of the member. In [Zerocoin](/Zerocoin "wikilink"), the network computes an accumulator *A* over all coin commitments (c<sub>1</sub>, ...., c<sub>n</sub>), along with the appropriate membership witnesses for each item in the set. The witness is simply the accumulator of all coins with the exception of one, and during a zerocoin spend transaction, the user needs to prove knowledge of one such witness.
+**One-way cryptographic accumulators** allow parties to combine many elements into a constant-sized data structure. This structure allows one to prove efficiently that a specific value is contained within the set, without disclosing the value of the member. In Zerocoin, the network computes an accumulator *A* over all coin commitments (c<sub>1</sub>, ...., c<sub>n</sub>), along with the appropriate membership witnesses for each item in the set. The witness is simply the accumulator of all coins with the exception of one, and during a zerocoin spend transaction, the user needs to prove knowledge of one such witness.
 
 Zerocoin accumulator
 --------------------
@@ -35,7 +35,7 @@ Given *A*, *w*, and *v*, it can be verified that the coin *v* was accumulated in
 
 A' = w<sup>v</sup> mod N = A.
 
-A [zero-knowledge proof](/Zero-Knowledge_Proofs "wikilink") for knowledge of the coin *c* and witnesss *w* is given by Camenisch and Lysyanskaya (2002).
+A [zero-knowledge proof](/Zero-Knowledge_Proof "wikilink") for knowledge of the coin *c* and witnesss *w* is given by Camenisch and Lysyanskaya (2002).
 
 See also
 --------

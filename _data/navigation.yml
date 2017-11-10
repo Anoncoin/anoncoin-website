@@ -23,7 +23,7 @@
   - title: Mobile
     url: /Download#mobiledownload 
 - title: Resources
-  url: /Resources
+  url: /Blog
   sublinks:
   - title: Blog
     url: /Blog
@@ -34,12 +34,12 @@
   - title: How to guides
     url: /How_to_guides
 - title: Services
-  url: /Services
+  url: /Exchanges
   sublinks:
-  - title: Block chain explorers
-    url: /Block_chain_explorers
   - title: Exchanges
     url: /Exchanges
+  - title: Block chain explorers
+    url: /Block_chain_explorers
   - title: Mining pools
     url: /Mining_pools
   - title: separator

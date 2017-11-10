@@ -46,7 +46,7 @@ The defining features of the Anoncoin cryptocurrency are:
 -   **Block target speed:** 3 minutes (before block 87777 it was every 3.42 minutes)
 -   **Block speed retargeting:** Every block, using Kimoto Gravity Well (before block 87777, it was ~1680 blocks using classic BTC algorithm)
 -   **Current block reward:** 1.25 ANC per block.
--   **[Premine](/Premine):** 1000 blocks (4200 ANC) that were returned to the community by community donations and a public faucet.
+-   **Premine:** 1000 blocks (4200 ANC) that were returned to the community by community donations and a public faucet.
 -   **Anonymity:** Built-in support of I2P and Tor.
 
 Anoncoin was originally a fork of the Litecoin source code and it now includes most aspects of Bitcoin Core 0.10. The creation of new coins is by the reward to miners for processing transactions into blocks that are added to the blockchain. Mining is performed by proof-of-work using the [scrypt](/scrypt) hashing function. 

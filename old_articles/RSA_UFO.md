@@ -4,7 +4,7 @@ title: RSA UFO
 permalink: /RSA_UFO/
 ---
 
-When a [zerocoin](/zerocoin "wikilink") is minted, the coin is added as a member to the set of all zerocoins by way of a one-way [cryptographic accumulator](/cryptographic_accumulator "wikilink"). In order to prove later that a given zerocoin belongs to this set, during the initial setup of the accumulator, it is necessary to define a number N (or a set of such numbers) that is the product of at least two distinct prime numbers; this number becomes the accumulator modulus for the Zerocoin implementation. If the prime numbers are large enough, it would be infeasible for any party to factor N. However, any entity that knows all the factors would be able to bypass the security of the system and forge zerocoin membership proofs; it is impossible to verify that the factors were not saved by the generating party after multiplying together to form N. Anoncoin solves this setup problem by using RSA UFOs (generalized **RSA** moduli of **u**nknown complete **f**act**o**rization) for the accumulator moduli which can be generated in a trustless manner, meaning there is never a time when the factors are known to any party; the setup does not require any trusted third parties.
+When a zerocoin is minted, the coin is added as a member to the set of all zerocoins by way of a one-way [cryptographic accumulator](/cryptographic_accumulator "wikilink"). In order to prove later that a given zerocoin belongs to this set, during the initial setup of the accumulator, it is necessary to define a number N (or a set of such numbers) that is the product of at least two distinct prime numbers; this number becomes the accumulator modulus for the Zerocoin implementation. If the prime numbers are large enough, it would be infeasible for any party to factor N. However, any entity that knows all the factors would be able to bypass the security of the system and forge zerocoin membership proofs; it is impossible to verify that the factors were not saved by the generating party after multiplying together to form N. Anoncoin solves this setup problem by using RSA UFOs (generalized **RSA** moduli of **u**nknown complete **f**act**o**rization) for the accumulator moduli which can be generated in a trustless manner, meaning there is never a time when the factors are known to any party; the setup does not require any trusted third parties.
 
 Sander's RSA UFO idea, and proof of security
 --------------------------------------------
@@ -45,7 +45,6 @@ See also
 
 -   [How to install UFO client to generate RSA UFOs](/How_to_install_UFO_client_to_generate_RSA_UFOs "wikilink")
 -   [Cryptographic accumulator](/Cryptographic_accumulator "wikilink")
--   [Zerocoin](/Zerocoin "wikilink")
 
 References
 ----------

@@ -55,7 +55,7 @@ When the “Anoncoin - Generated I2P Destination” box has opened, it means the
 
 Abort will close the client, Apply will launch it and open the “Private I2P Destination Details” windows. Any choice done will keep the previously generated I2P destination.
 
-On next launch using the “Anoncoin Core (64-bit) I2P-only” link, it will automatically use the same previously generated I2P destination in a static manner. Alternatively, execute `anoncoin-qtc -i2p.options.enabled=1 -onlynet=i2p` You can also set this as a permanent setting via `anoncoin.conf` (see [How_to_install_Anoncoin](/How_to_install_Anoncoin) and [Anoncoin-0.9.6.12.conf](/Anoncoin-0.9.6.12.conf)).
+On next launch using the “Anoncoin Core (64-bit) I2P-only” link, it will automatically use the same previously generated I2P destination in a static manner. Alternatively, execute `anoncoin-qtc -i2p.options.enabled=1 -onlynet=i2p` You can also set this as a permanent setting via `anoncoin.conf` (see [How_to_install_Anoncoin](/How_to_install_Anoncoin).
 
 ![Image](/img/Install8.png)
 

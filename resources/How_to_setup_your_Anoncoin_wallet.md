@@ -30,7 +30,7 @@ Obtain the Anoncoin source code by [cloning the git repository](https://github.c
 Setting up your client to use I2P (9.6.13)
 ------------------------------------------
 
-Build the Anoncoin master 9.6.13 from source ([How to build Anoncoin](/How_to_build_Anoncoin)).
+Build the Anoncoin master 9.6.13 from source ([How_to_build_Anoncoin_from_source](/How_to_build_Anoncoin_from_source)).
 
 Alternatively, you can download the master version (19/06/2017) here: <https://github.com/Anoncoin/anoncoin/releases/tag/5e441d8>
 
@@ -42,7 +42,7 @@ Install Anoncoin following this guide [How to install Anoncoin](/How_to_install_
 
 Then download and copy the file `bootstrap.dat` in the anoncoin data directory ([How to use a bootstrap file to speed up initial synchronization](/How_to_use_a_bootstrap_file_to_speed_up_initial_synchronization)).
 
-Then copy/paste the sample `anoncoin.conf`   for the 9.6.12 version in your data directory. It is found in the folder anoncoin/doc or here [Anoncoin-0.9.6.12.conf](/Anoncoin-0.9.6.12.conf).
+Then copy/paste the sample `anoncoin.conf` for the 9.6.12 version in your data directory. It is found in the folder anoncoin/doc.
 
 and go at <http://127.0.0.1:7657/configclients>, activate SAM application bridge and make it run at startup, save the configuration.
 

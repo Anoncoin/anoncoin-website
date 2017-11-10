@@ -4,7 +4,7 @@ title: Commitment scheme
 permalink: /Commitment_scheme/
 ---
 
-A **commitment scheme** allows one to commit to a chosen value while keeping it hidden to others, with the ability to reveal the committed value later. Commitment schemes are designed so that a party cannot change the value after they have committed to it: that is, commitment schemes are binding. In [Zerocoin](/Zerocoin "wikilink"), commitment schemes are used to bind a serial number to a zerocoin.
+A **commitment scheme** allows one to commit to a chosen value while keeping it hidden to others, with the ability to reveal the committed value later. Commitment schemes are designed so that a party cannot change the value after they have committed to it: that is, commitment schemes are binding. In Zerocoin commitment schemes are used to bind a serial number to a zerocoin.
 
 Zerocoin coin commitments
 -------------------------
