@@ -14,3 +14,5 @@ permalink: /Wiki/
 * [Network ID](/Network_ID/ "Network id")
 * [Private key](/Private_key/ "Private key")
 * [Scrypt](/Scrypt/ "Scrypt")
+
+_[Archived articles](/Old_pages "Archived articles")_
