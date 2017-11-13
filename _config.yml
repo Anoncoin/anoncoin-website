@@ -43,9 +43,9 @@ footer:
   credits: Chat with us
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
+social: 
   - title: slack
-    url: https://join.slack.com/t/anoncoin/shared_invite/enQtMjU3Njk3MjE3MjM1LTAwZjU5ZmEzYTc0ZTg3ZDkxMGYyY2NlNWFkZGVmOTg1MGJlNTIzOTIxZDQ1YjI4NjFkM2NkZjU5Zjg1YzQ2OTQ
+    url: https://join.slack.com/t/anoncoin/shared_invite/enQtMjcxMzUxMjk5ODYwLTU0OTJhNmIxNzYyY2JiMzUxOGZhMjYzNmQ3YmViNWM1OWIxZGNlMGY0Zjg1NzdhMDAyZmRiYTFhNTM1OWZiYTU 
   - title: twitter
     url: https://twitter.com/anoncoinproject
   - title: facebook

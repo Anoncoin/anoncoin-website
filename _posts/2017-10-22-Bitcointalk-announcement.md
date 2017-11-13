@@ -10,7 +10,7 @@ We are posting this here as well, but it can be found on [Bitcoin talk here.](ht
 This is a short announcement on behalf of me, Meeh and a couple of friends who would like to work on the AnonCoin project.
 
 ### TLDR;
-Meeh and some other developers have started active development on Anoncoin. A new release expected in December. We have a Slack, [talk with us here.](https://join.slack.com/t/anoncoin/shared_invite/enQtMjU3Njk3MjE3MjM1LTAwZjU5ZmEzYTc0ZTg3ZDkxMGYyY2NlNWFkZGVmOTg1MGJlNTIzOTIxZDQ1YjI4NjFkM2NkZjU5Zjg1YzQ2OTQ) 
+Meeh and some other developers have started active development on Anoncoin. A new release expected in December. We have a Slack, [talk with us here.](https://join.slack.com/t/anoncoin/shared_invite/enQtMjcxMzUxMjk5ODYwLTU0OTJhNmIxNzYyY2JiMzUxOGZhMjYzNmQ3YmViNWM1OWIxZGNlMGY0Zjg1NzdhMDAyZmRiYTFhNTM1OWZiYTU) 
 
 ### Intro.
 Meeh started the project years ago, I've been around and following crypto for a few years. We've been talking about it for a while, but recently we decided to get together with a few more developers to work on Anoncoin again.
@@ -29,6 +29,6 @@ In the coming 2 months, we would like to update the current codebase. We are pla
 
 For 2018 we have big plans that we would like to discuss with the community. We would like a new codebase, possibly based on CryptoNote instead of ZeroCoin. We would also like a more egalitarian PoW mining algorithm.
 
-We will write in more detail about development goals in a roadmap soon, but it would be really good to hear what people think first. [Talk with us on Slack here.](https://join.slack.com/t/anoncoin/shared_invite/enQtMjU3Njk3MjE3MjM1LTAwZjU5ZmEzYTc0ZTg3ZDkxMGYyY2NlNWFkZGVmOTg1MGJlNTIzOTIxZDQ1YjI4NjFkM2NkZjU5Zjg1YzQ2OTQ) 
+We will write in more detail about development goals in a roadmap soon, but it would be really good to hear what people think first. [Talk with us on Slack here.](https://join.slack.com/t/anoncoin/shared_invite/enQtMjcxMzUxMjk5ODYwLTU0OTJhNmIxNzYyY2JiMzUxOGZhMjYzNmQ3YmViNWM1OWIxZGNlMGY0Zjg1NzdhMDAyZmRiYTFhNTM1OWZiYTU) 
 
 We are also at #anoncoin-dev on IRC2P.
