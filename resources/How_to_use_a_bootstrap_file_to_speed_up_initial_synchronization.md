@@ -11,7 +11,7 @@ To use a bootstrap file to speed up initial network synchronization, follow thes
 Download the bootstrap file
 ---------------------------
 
-The official Anoncoin bootstrap file can be downloaded either from the [Anoncoin web site](https://anoncoin.net/downloads/bootstrap/) or from the i2p BitTorrent port i2psnark (filename: `anoncoin.bootstrap.tar.xz`). The compressed file is currently about 100 Mb in size. After uncompressing the file, locate the file `bootstrap.dat` and verify its SHA1 and MD5 checksums and GPG detached signature.
+The official Anoncoin bootstrap file can be downloaded either from the [Anoncoin web site](https://mega.nz/#!IqACmRhL!2Ti8rUlsnWoD4d5q3boMHQwaEbbqmxZqYq6FmWevVxI) or from the i2p BitTorrent port i2psnark (filename: `anoncoin.bootstrap.tar.xz`). The compressed file is currently about 100 Mb in size. After uncompressing the file, locate the file `bootstrap.dat` and verify its SHA1 and MD5 checksums and GPG detached signature.
 
 Copy the bootstrap file to the Anoncoin data directory
 ------------------------------------------------------

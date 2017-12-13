@@ -29,9 +29,7 @@ Shopping
 --------
 
 -   **[Cheveux (www.cheveux-naturels.com)](https://www.cheveux-naturels.com/)** - Natural human hair extensions
--   **[Meplus1 (www.meplus1.com)](http://www.meplus1.com/)** - Digital music downloads
 -   **[Usepnd (usepnd.com)](http://usepnd.com/)** - Cryptocurrency shopping
--   **[Whipstergear (www.whipstergear.com)](http://www.whipstergear.com/)** - Smart phone cases
 
 Health
 ------

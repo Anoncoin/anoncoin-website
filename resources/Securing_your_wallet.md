@@ -7,7 +7,7 @@ permalink: /Securing_your_wallet/
 Encrypting your Anoncoin wallet
 -------------------------------
 
-All of the private keys for your Anoncoin [public addresses](/Anoncoin_Address/) are stored in a single file on your computer called `wallet.dat`. By default, your wallet file is not initially encrypted when you open the Anoncoin client for the first time. If anyone could access this unencrypted file on your computer, they could easily steal all of your coins. For this reason alone, it is strongly recommended that you encrypt *immediately* your wallet with a password. For increased protection, when your wallet is encrypted, you will be required to enter the password before making any transactions.
+All of the private keys for your Anoncoin [public addresses](/Anoncoin_address/) are stored in a single file on your computer called `wallet.dat`. By default, your wallet file is not initially encrypted when you open the Anoncoin client for the first time. If anyone could access this unencrypted file on your computer, they could easily steal all of your coins. For this reason alone, it is strongly recommended that you encrypt *immediately* your wallet with a password. For increased protection, when your wallet is encrypted, you will be required to enter the password before making any transactions.
 
 To encrypt your wallet, from the Anoncoin client menu “Settings”, choose “Encrypt wallet” and enter a **strong password**. Before you continue, verify that the wallet is in fact encrypted by looking for the closed-lock symbol in the bottom-right corner of the client window.
 

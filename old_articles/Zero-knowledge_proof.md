@@ -66,7 +66,7 @@ To prove ownership of a Zerocoin, one must provide the serial number *S*, and pr
 
 NIZKPoK{(*c*, *w*, *r*), AccVerify((N,u),A,c,w) = 1, and *c* = *g*<sup>*S*</sup>*h*<sup>*r*</sup>}.
 
-A [zero-knowledge proof](/Zero-Knowledge_Proof/ "wikilink") for knowledge of the coin *c* and witnesss *w* is given by Camenisch and Lysyanskaya (2002). The zero-knowledge proof for knowledge of *c* and *r* is given by Miers et al. (2013).
+A [zero-knowledge proof](/Zero-knowledge_proof/ "wikilink") for knowledge of the coin *c* and witnesss *w* is given by Camenisch and Lysyanskaya (2002). The zero-knowledge proof for knowledge of *c* and *r* is given by Miers et al. (2013).
 
 See also
 --------
