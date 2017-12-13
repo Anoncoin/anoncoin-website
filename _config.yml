@@ -44,14 +44,14 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social: 
-  - title: slack
-    url: https://join.slack.com/t/anoncoin/shared_invite/enQtMjcxMzUxMjk5ODYwLTU0OTJhNmIxNzYyY2JiMzUxOGZhMjYzNmQ3YmViNWM1OWIxZGNlMGY0Zjg1NzdhMDAyZmRiYTFhNTM1OWZiYTU 
   - title: twitter
     url: https://twitter.com/anoncoinproject
   - title: facebook
     url: https://www.facebook.com/Anoncoin/
   - title: reddit
     url: https://www.reddit.com/r/Anoncoin/
+  - title: youtube
+    url: https://www.youtube.com/channel/UCwKSmUNcoRrBwm-kdsl1n2w
   - title: github
     url: https://github.com/Anoncoin/anoncoin
 
