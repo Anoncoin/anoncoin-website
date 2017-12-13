@@ -6,7 +6,6 @@ permalink: /Mining_pools/
 
 -   [Multipool.us (https://www.multipool.us)](https://www.multipool.us)
 -   [iSpace mining pools (http://ispace.co.uk)](http://ispace.co.uk/)
--   [Tompool](http://tompool.org/)
 -   [Prohashing](https://prohashing.com/explorer/Anoncoin/)
 -   [P2Pool ANC (http://k1773r.darkgamex.ch:8851/static/)](http://k1773r.darkgamex.ch:8851/static/), stratum+tcp://k1773r.darkgamex.ch:8851/, [src](https://github.com/K1773R/p2pool) DOWN
 -   [P2Pool - Xpool (http://xpool.net:8850/)](http://xpool.net:8850/)

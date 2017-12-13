@@ -35,7 +35,7 @@ Given *A*, *w*, and *v*, it can be verified that the coin *v* was accumulated in
 
 A' = w<sup>v</sup> mod N = A.
 
-A [zero-knowledge proof](/Zero-Knowledge_Proof/ "wikilink") for knowledge of the coin *c* and witnesss *w* is given by Camenisch and Lysyanskaya (2002).
+A [zero-knowledge proof](/Zero-knowledge_proof/ "wikilink") for knowledge of the coin *c* and witnesss *w* is given by Camenisch and Lysyanskaya (2002).
 
 See also
 --------

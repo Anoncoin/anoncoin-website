@@ -469,7 +469,7 @@ anoncoin-qtc -i2p.options.enabled=1 -onlynet=i2p
 
 The I2P address generated above will be used unless another one is specified in anoncoin.conf. Please also check [How_to_setup_your_Anoncoin_wallet\#Setting_up_your_client_to_use_I2P_.289.6.9.29](/How_to_setup_your_Anoncoin_wallet/#Setting_up_your_client_to_use_I2P_.289.6.9.29).
 
--   To use the bootstrap.dat (https://anoncoin.net/downloads/bootstrap/)
+-   To use the bootstrap.dat (https://mega.nz/#!IqACmRhL!2Ti8rUlsnWoD4d5q3boMHQwaEbbqmxZqYq6FmWevVxI)
 
 If there is no /home/username/.anoncoin/ or %appdata%/anoncoin, you can either:
 

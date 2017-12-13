@@ -13,7 +13,7 @@ Choose one of the the following options below.
 
 ### MS Windows
 
-You can choose execute the setup.exe from the [extractable zip file](https://anoncoin.net/downloads/0.9.6.11/) to be run from the directory, or just run the included [anoncoind daemon](https://anoncoin.net/downloads/0.9.6.11/) if you won't be using the QT graphic user interface.
+You can choose execute the setup.exe from the [extractable zip file](https://github.com/Anoncoin/anoncoin/releases/download/5e441d8/anoncoin-9.6.13.win64.zip) to be run from the directory, or just run the included [anoncoind daemon](https://github.com/Anoncoin/anoncoin/releases/download/5e441d8/anoncoin-9.6.13.win64.zip) if you won't be using the QT graphic user interface.
 
 ### Mac OS X
 

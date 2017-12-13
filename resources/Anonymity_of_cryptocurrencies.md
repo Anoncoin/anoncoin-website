@@ -73,8 +73,6 @@ Embedded tools or online services
 
 <!-- -->
 
--   Further information can be found here : [2](https://wiki.unsystem.net/en/index.php/DarkWallet/CoinMixing)
-
 ### CoinJoin (and derivatives, such as Sharedcoin used in blockchain.info)
 
 -   This is simply a decentralized mixing pool the joins multiple transaction inputs in a single block and mixes them into different outputs in the same block.
