@@ -29,7 +29,7 @@ You can then use anoncoind.exe and anoncoin-cli.exe instead of the QT GUI.
 
 Before importing the bootstrap.dat file, you will need to copy it to the correct location on your computer. If you have never used the Anoncoin software before, please start it once and then exit to create the required data directories. If the data directories already exist, please ensure that the Anoncoin software is not running.
 
-Download the [Anoncoin bootstrap file here.](http://hemmelig.selfhosted.greyhat.no/bootstrap.dat)
+Download the [Anoncoin bootstrap file here.](https://mega.nz/#!IqACmRhL!2Ti8rUlsnWoD4d5q3boMHQwaEbbqmxZqYq6FmWevVxI)
 
 Open explorer, and type into the address bar:
 
@@ -52,7 +52,7 @@ New release coming soon. You can also build from source.
 
 Before importing the bootstrap.dat file, you will need to copy it to the correct location on your computer. If you have never used the Anoncoin software before, please start it once and then exit to create the required data directories. If the data directories already exist, please ensure that the Anoncoin software is not running.
 
-Download the [Anoncoin bootstrap file here.](http://hemmelig.selfhosted.greyhat.no/bootstrap.dat)
+Download the [Anoncoin bootstrap file here.](https://mega.nz/#!IqACmRhL!2Ti8rUlsnWoD4d5q3boMHQwaEbbqmxZqYq6FmWevVxI)
 
 Open the Finder.
 Open "Go to Folder..." ([shift] + [cmd] + [g])
@@ -76,7 +76,7 @@ Clone the master from [the git repository](https://github.com/Anoncoin/anoncoin)
 
 Before importing the bootstrap.dat file, you will need to copy it to the correct location on your computer. If you have never used the Anoncoin software before, please start it once and then exit to create the required data directories. If the data directories already exist, please ensure that the Anoncoin software is not running.
 
-Download the [Anoncoin bootstrap file here.](http://hemmelig.selfhosted.greyhat.no/bootstrap.dat)
+Download the [Anoncoin bootstrap file here.](https://mega.nz/#!IqACmRhL!2Ti8rUlsnWoD4d5q3boMHQwaEbbqmxZqYq6FmWevVxI)
 
 Go to:
 <a name="mobiledownload"></a>
