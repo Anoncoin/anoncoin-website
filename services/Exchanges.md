@@ -2,24 +2,25 @@
 layout: page
 title: Exchanges
 permalink: /Exchanges/
+date: 2018-01-12 9:44:35 +0200
 ---
 
-Exchanges can be used to buy or sell Anoncoin for other coins or fiat currency. Here is a list of exchanges that support Anoncoin.
+Exchanges can be used to buy or sell Anoncoin for other coins or fiat currency. Here is a list of exchanges that support Anoncoin ordered by last month's volume.
 
-### [FreieExchange](https://freiexchange.com)
+### [FreiExchange](https://freiexchange.com)
 
 FreieExchange added ANC/BTC to their exchange October 27, 2017.
 - [ANC/BTC trading.](https://freiexchange.com/market/ANC/BTC)
+
+### [Mirai Exchange](https://miraiex.com)
+
+Mirai Exchange is a new exchange launched January 2018. The exchange is owned and operated by Anoncoin developers.
+- [ANC/BTC trading.](https://miraiex.com/client/#trade/ANCBTC)
 
 ### [CoinsMarkets](https://coinsmarkets.com)
 
 Coinsmarkets added ANC on December 14, 2017.
 - [ANC/BTC trading.](http://coinsmarkets.com/trade-BTC-ANC.htm)
-
-### [OutletBit](https://www.outletbit.com)
-
-OutletBit is a new exchange that added ANC on December 9, 2017.
-- [ANC/BTC trading.](https://www.outletbit.com/market/61)
 
 ### [ExchangeD.i2p](http://exchanged.i2p/)
 

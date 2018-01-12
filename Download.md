@@ -13,8 +13,14 @@ Last official release
 
 --------
 ## Windows
-Downloads for Windows:
+Download for Windows: __[ANCI2Pd 1.0.13.0 - Anoncoin & I2Pd bundle.](https://github.com/Anoncoin/anoncoin/releases/tag/1.0.13.0)__
+- The first stand-alone cryptocurrency and C++ I2Pd router bundle! 
+- Easy to install, easy to use, completely anonymous by IP obfuscation. 
+- Featuring the latest version of Anoncoin 0.9.6.13 & i2pd 2.14.0. 
 
+
+
+Other downloads for Windows:
 - [64 bit - anoncoin-0.9.6.13-win64-setup.exe](https://github.com/Anoncoin/anoncoin/releases/download/5e441d8/anoncoin-0.9.6.13-win64-setup.exe)
 - [32 bit - anoncoin-0.9.6.13-win32-setup.exe](https://github.com/Anoncoin/anoncoin/releases/download/5e441d8/anoncoin-0.9.6.13-win32-setup.exe)
 
