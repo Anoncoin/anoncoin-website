@@ -16,11 +16,6 @@ FreieExchange added ANC/BTC to their exchange October 27, 2017.
 Coinsmarkets added ANC on December 14, 2017.
 - [ANC/BTC trading.](http://coinsmarkets.com/trade-BTC-ANC.htm)
 
-### [OutletBit](https://www.outletbit.com)
-
-OutletBit is a new exchange that added ANC on December 9, 2017.
-- [ANC/BTC trading.](https://www.outletbit.com/market/61)
-
 ### [ExchangeD.i2p](http://exchanged.i2p/)
 
 This is an exchange made for I2P and Tor. ANC has been trading on this exchange for years.
