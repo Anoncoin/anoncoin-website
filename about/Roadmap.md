@@ -2,8 +2,17 @@
 layout: page
 title: Roadmap
 permalink: /Roadmap/
-date:   2017-10-30 22:44:35 +0200
+date:   2018-01-12 10:44:35 +0200
 ---
+
+Roadmap is updated on Github:
+[https://github.com/Anoncoin/project/tree/master/roadmap](https://github.com/Anoncoin/project/tree/master/roadmap)
+
+The roadmap below is old.
+
+
+---------------------
+
 
 0.9.7 release - December 2017
 ---------------------
