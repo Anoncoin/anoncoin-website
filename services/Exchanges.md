@@ -14,13 +14,8 @@ FreieExchange added ANC/BTC to their exchange October 27, 2017.
 
 ### [Mirai Exchange](https://miraiex.com)
 
-Mirai Exchange is a new exchange launched January 2018. The exchange is owned and operated by Anoncoin developers.
+Mirai Exchange is a new exchange launched January 2018. The exchange is owned and operated by Anoncoin developers. [Visit our Slack](https://join.slack.com/t/anoncoin/shared_invite/enQtMjcxMzUxMjk5ODYwLTU0OTJhNmIxNzYyY2JiMzUxOGZhMjYzNmQ3YmViNWM1OWIxZGNlMGY0Zjg1NzdhMDAyZmRiYTFhNTM1OWZiYTU) for invite codes.
 - [ANC/BTC trading.](https://miraiex.com/client/#trade/ANCBTC)
-
-### [CoinsMarkets](https://coinsmarkets.com)
-
-Coinsmarkets added ANC on December 14, 2017.
-- [ANC/BTC trading.](http://coinsmarkets.com/trade-BTC-ANC.htm)
 
 ### [ExchangeD.i2p](http://exchanged.i2p/)
 
@@ -31,4 +26,8 @@ This is an exchange made for I2P and Tor. ANC has been trading on this exchange 
 
 ### NovaExchange
 
-NovaExchange is closing, not open for deposits or signups.
+NovaExchange will open up again soon for deposits.
+
+### CoinsMarkets
+
+Coinsmarkets is currently offline.
