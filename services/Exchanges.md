@@ -27,7 +27,3 @@ This is an exchange made for I2P and Tor. ANC has been trading on this exchange 
 ### NovaExchange
 
 NovaExchange will open up again soon for deposits.
-
-### CoinsMarkets
-
-Coinsmarkets is currently offline.
