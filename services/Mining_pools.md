@@ -4,12 +4,7 @@ title: Mining pools
 permalink: /Mining_pools/
 ---
 
--   [Multipool.us (https://www.multipool.us)](https://www.multipool.us)
--   [iSpace mining pools (http://ispace.co.uk)](http://ispace.co.uk/)
--   [Prohashing](https://prohashing.com/explorer/Anoncoin/)
--   [P2Pool ANC (http://k1773r.darkgamex.ch:8851/static/)](http://k1773r.darkgamex.ch:8851/static/), stratum+tcp://k1773r.darkgamex.ch:8851/, [src](https://github.com/K1773R/p2pool) DOWN
--   [P2Pool - Xpool (http://xpool.net:8850/)](http://xpool.net:8850/)
--   [hash-to-coins (http://hash-to-coins.com)](http://hash-to-coins.com)
+If you have a Anoncoin mining pool, contact us at Slack or at info@anoncoin.net to be added here. At block 871111 PoW changed to GOST R 34.11-2012 hashing algorithm, we currently do not have any confirmed minining pools that supports the new PoW but solo mining works well.
 
 See also
 --------

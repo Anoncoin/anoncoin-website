@@ -20,8 +20,6 @@
     url: /Download/#macdownload
   - title: Linux
     url: /Download/#linuxdownload
-  - title: Mobile
-    url: /Download/#mobiledownload 
 - title: Resources
   url: /Blog/
   sublinks:
@@ -38,8 +36,8 @@
   sublinks:
   - title: Exchanges
     url: /Exchanges/
-  - title: Block chain explorers
-    url: /Block_chain_explorers/
+  - title: Blockchain explorer
+    url: http://anoncash.net/chain/Anoncoin
   - title: Mining pools
     url: /Mining_pools/
   - title: separator
