@@ -60,13 +60,6 @@ Lunokhod is responsible for overseeing the project, documentation, website and w
 
 Cryptoslave keeps track of development and is making sure issues reported are filled for further review. He dedicates his time to better the coin by communicating with the other members of the team and listening to the community.
 
-### Atlas
-
-*Infrastructure Architect*
-
-Atlas joined the team in October 2017.
-
-
 ### Frankh4x
 
 *Infrastructure Architect*
@@ -76,9 +69,21 @@ Frankh4x joined the team in October 2017.
 
 ### Oyvkva
 
-*Developer*
+*Community manager, developer*
 
 Oyvkva joined the team in October 2017.
+
+### Killertaco
+
+*Developer, tester*
+
+Killertaco joined the team in April 2018.
+
+### JSX
+
+*Community manager, project management*
+
+JSX joined the team in April 2018.
 
 <br>
 
