@@ -2,12 +2,14 @@
 layout: page
 title: Anoncoin development team
 permalink: /Anoncoin_development_team/
-date:   2017-10-30 21:14:35 +0200
+date:   2018-07-14 11:14:35 +0200
 ---
 
 The Anoncoin team is composed of a set of core developers and active community members. We are always looking for new members, and we encourage all people who are concerned about anonymity and online privacy to get involved. Anoncoin will only be as good as the community that is supporting it.
 
 For the sake of transparency, we are showing here of the active and inactive Anoncoin developers. Some of the developers have been with the project since the beginning, some just joined us. October 2017 the original founder of the project, Meeh, returned to the project. 3 new developers decided to join the project at the same time.
+
+The best way to get in touch with us is to join Slack, [click here to join.](https://join.slack.com/t/anoncoin/shared_invite/enQtMjcxMzUxMjk5ODYwLTU0OTJhNmIxNzYyY2JiMzUxOGZhMjYzNmQ3YmViNWM1OWIxZGNlMGY0Zjg1NzdhMDAyZmRiYTFhNTM1OWZiYTU)
 
 Development team
 ----------------
