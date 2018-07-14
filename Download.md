@@ -4,101 +4,63 @@ title: Downloads
 permalink: /Download/
 ---
 
-Last official release
+Last official release July 13, 2018
 ---------------------
 <a name="windowsdownload"></a>
--   Version 0.9.6.13
--   Release date: June 24, 2016
+-   Version 0.9.7
+-   Release date: July 13, 2018
 -   [Github release](https://github.com/Anoncoin/anoncoin/releases)
 
 --------
 ## Windows
-Download for Windows: __[ANCI2Pd 1.0.13.0 - Anoncoin & I2Pd bundle.](https://github.com/Anoncoin/anoncoin/releases/tag/1.0.13.0)__
-- The first stand-alone cryptocurrency and C++ I2Pd router bundle! 
-- Easy to install, easy to use, completely anonymous by IP obfuscation. 
-- Featuring the latest version of Anoncoin 0.9.6.13 & i2pd 2.14.0. 
-
-
-
-Other downloads for Windows:
-- [64 bit - anoncoin-0.9.6.13-win64-setup.exe](https://github.com/Anoncoin/anoncoin/releases/download/5e441d8/anoncoin-0.9.6.13-win64-setup.exe)
-- [32 bit - anoncoin-0.9.6.13-win32-setup.exe](https://github.com/Anoncoin/anoncoin/releases/download/5e441d8/anoncoin-0.9.6.13-win32-setup.exe)
-
-You can just execute the setup.exe and Anoncoin Core will be installed. If you don't want to use the graphic user interface you can use one of the following downloads.
-
-- [64 bit - anoncoin-9.6.13.win64.zip](https://github.com/Anoncoin/anoncoin/releases/download/5e441d8/anoncoin-9.6.13.win64.zip)
-- [32 bit - anoncoin-9.6.13.win32.zip](https://github.com/Anoncoin/anoncoin/releases/download/5e441d8/anoncoin-9.6.13.win32.zip)
-
-You can then use anoncoind.exe and anoncoin-cli.exe instead of the QT GUI.
-
-### Speed up synchronization with Bootstrap.
-
-Before importing the bootstrap.dat file, you will need to copy it to the correct location on your computer. If you have never used the Anoncoin software before, please start it once and then exit to create the required data directories. If the data directories already exist, please ensure that the Anoncoin software is not running.
-
-Download the [Anoncoin bootstrap file here.](https://mega.nz/#!IqACmRhL!2Ti8rUlsnWoD4d5q3boMHQwaEbbqmxZqYq6FmWevVxI)
-
-Open explorer, and type into the address bar:
-
-```
-%APPDATA%\Anoncoin
-```
+__[Download Anoncoin Core 0.9.7 for Windows.](https://github.com/Anoncoin/anoncoin/releases/download/v0.9.7-gost/anoncoin-0.9.7.0-win64.zip)__
+- Save and unzip the archive, chose "keep file" if asked.
+- Double-click / open the archive.
+- Click "More info" if asked and chose "Run anyway" and click "Yes".
+- Install and then open "Anoncoin Core (64-bit) Classic to run on clearnet.
 <a name="macdownload"></a>
-
-Copy bootstrap.dat to this directory.
-
-Start Anoncoin and you should see "Importing blocks from disk...".
+If you want to use I2p you can run "Generate I2P static privatekey" and [follow the instructions here.](/How_to_setup_your_Anoncoin_wallet)
 
 
 --------
-## Mac OS X
-
-New release coming soon. You can also build from source.
-
-### Speed up synchronization with Bootstrap.
-
-Before importing the bootstrap.dat file, you will need to copy it to the correct location on your computer. If you have never used the Anoncoin software before, please start it once and then exit to create the required data directories. If the data directories already exist, please ensure that the Anoncoin software is not running.
-
-Download the [Anoncoin bootstrap file here.](https://mega.nz/#!IqACmRhL!2Ti8rUlsnWoD4d5q3boMHQwaEbbqmxZqYq6FmWevVxI)
-
-Open the Finder.
-Open "Go to Folder..." ([shift] + [cmd] + [g])
-Enter:
-
-```
-~/.anoncoin
-```
+## MacOS
+__[Download Anoncoin Core 0.9.7 for MacOS.](https://github.com/Anoncoin/anoncoin/releases/download/v0.9.7-gost/anoncoin-0.9.7.0-macOS.dmg)__
+- Double-click the downloaded file.
+- Drag "Anoncoin" into "Applications".
+- Right-click the "Anoncoin" application and chose "open".
 <a name="linuxdownload"></a>
-Copy bootstrap.dat to this directory.
-
-Start Anoncoin and you should see "Importing blocks from disk...".
+If you want to use I2p you can generate I2P static privatekey and [follow the instructions here.](/How_to_setup_your_Anoncoin_wallet)
 
 
 --------
 ## Linux
 
-Clone the master from [the git repository](https://github.com/Anoncoin/anoncoin), it contains all the source files needed to compile your own binaries. How to guide is here [How_to_build_Anoncoin_from_source](/How_to_build_Anoncoin_from_source/). Binaries are in the works for multiple Linux distributions.
+Clone the master from [the git repository](https://github.com/Anoncoin/anoncoin), it contains all the source files needed to compile your own binaries. 
 
-### Speed up synchronization with Bootstrap.
+### Quick howto for Ubuntu
 
-Before importing the bootstrap.dat file, you will need to copy it to the correct location on your computer. If you have never used the Anoncoin software before, please start it once and then exit to create the required data directories. If the data directories already exist, please ensure that the Anoncoin software is not running.
-
-Download the [Anoncoin bootstrap file here.](https://mega.nz/#!IqACmRhL!2Ti8rUlsnWoD4d5q3boMHQwaEbbqmxZqYq6FmWevVxI)
-
-Go to:
-<a name="mobiledownload"></a>
 ```
-~/.anoncoin
+sudo apt-get update
+sudo apt-get upgrade 
+sudo apt-get install g++ git automake autoconf make libtool pkg-config libqt4-network libqtgui4 libboost-all-dev
+git clone https://github.com/Anoncoin/anoncoin.git
+cd anoncoin
+./autogen.sh
+cd depends
+make -j`nproc`
+cd ..
+./configure --prefix=`pwd`/depends/x86_64-unknown-linux-gnu
+make -j`nproc`
 ```
 
-Copy bootstrap.dat to this directory.
+For more information you can read the guide on [how to build Anoncoin from source](/How_to_build_Anoncoin_from_source/). Binaries are in the works for multiple Linux distributions.
 
-Start Anoncoin and you should see "Importing blocks from disk...".
 
 --------
 
 ## Mobile
 
-Coming soon.
+Mobile wallet support will come with the release of Anoncash 
 
 --------
 

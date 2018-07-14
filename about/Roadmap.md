@@ -8,25 +8,10 @@ date:   2018-01-12 10:44:35 +0200
 Roadmap is updated on Github:
 [https://github.com/Anoncoin/project/tree/master/roadmap](https://github.com/Anoncoin/project/tree/master/roadmap)
 
-The roadmap below is old.
+## History
 
 
----------------------
-
-
-0.9.7 release - December 2017
----------------------
-
--   New DNS Seeds.
--   CMake build system (finally trashing autotools).
--   Bugfixes and improvements.
--   Add new alert key?
-
-[Discuss the roadmap on Github](https://github.com/Anoncoin/anoncoin/issues/3)
-
-
-
-Last official release
+Anoncoin 0.9.6.13
 ---------------------
 
 -   Anoncoin Core Version 0.9.6.13
@@ -34,11 +19,6 @@ Last official release
 -   [Github source download](https://github.com/Anoncoin/anoncoin/archive/5e441d8.zip)
 
 -----------------------------------
-
-## History
-
-
-### Release A
 
 Anoncoin 0.9.6.12 is complete <https://github.com/Anoncoin/anoncoin/releases/tag/v0.9.6.12>
 
