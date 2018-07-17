@@ -2,7 +2,7 @@
 layout: page
 title: About Anoncoin
 permalink: /About_Anoncoin/
-date:   2017-10-30 21:44:35 +0200
+date:   2018-07-17 11:44:35 +0200
 ---
 
 <div class='pull-right' markdown="1">
@@ -14,6 +14,15 @@ Anoncoin, trading symbol ANC, is a digital cryptocurrency that focuses on privac
 The Anoncoin network is maintained by decentralized miners who process transactions into blocks that are added to the public blockchain. With the creation of each block, a specific amount of Anoncoin is created that is rewarded to the miner. 
 
 There will be only about 3.1 million coins created, which is approximately 7 times less than the Bitcoin cryptocurrency. The difficulty of the Scrypt proof-of-work algorithm is adjusted to ensure that a block is created about every 3 minutes.
+
+Latest news, change of PoW and Anoncash.
+-------------------------
+
+The Anoncoin team released Anoncoin 0.9.7 on 13. July, 2018. This release set a hardfork at block 871111, changing PoW from Scrypt to GOST R 34.11-2012. This is a first step on the way for the release of Anoncash later this year.
+
+This released fixed issues with some mined blocks not being accepted, and in the process we moved to double GOST R 34.11-2012 hashing algorithm, mined with CPU/GPU. Now everyone in the Anoncoin community can mine, rather than those few who have an ASIC miner.
+
+After this release the Anoncoin team switches focus to Anoncash. The goal of Anoncash is to be the digital analogue of cash, a next generation cryptocurrency. Join our Slack and follow as we work on the project.
 
 Why was Anoncoin created?
 -------------------------
@@ -41,7 +50,7 @@ Coin details
 The defining features of the Anoncoin cryptocurrency are:
 
 -   **Launch date:** June 6, 2013.
--   **Type:** Scrypt proof-of-work hashing algorithm.
+-   **Type:** GOST R 34.11-2012 proof-of-work hashing algorithm now, previous Scrypt.
 -   **Total coin supply:** 3,103,954 ANC.
 -   **Block target speed:** 3 minutes (before block 87777 it was every 3.42 minutes)
 -   **Block speed retargeting:** Every block, using Kimoto Gravity Well (before block 87777, it was ~1680 blocks using classic BTC algorithm)
