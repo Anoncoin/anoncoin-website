@@ -91,11 +91,7 @@ Embedded tools or online services
 
 <!-- -->
 
--   About coinjoin issues see here : [4](https://blog.blockchain.com/2014/06/10/sharedcoin-and-other-coinjoin-implementations-uses-and-limitations)
-
-<!-- -->
-
--   Coinjoin white paper here : [5](http://www0.cs.ucl.ac.uk/staff/G.Danezis/papers/DanezisFournetKohlweissParno13.pdf)
+-   Coinjoin white paper here : [4](http://www0.cs.ucl.ac.uk/staff/G.Danezis/papers/DanezisFournetKohlweissParno13.pdf)
 
 Specific cryptocurrencies with simple approach
 ----------------------------------------------
