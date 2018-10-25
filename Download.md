@@ -4,17 +4,16 @@ title: Downloads
 permalink: /Download/
 ---
 
-Last official release July 13, 2018
+Last official release October 23, 2018
 ---------------------
 <a name="windowsdownload"></a>
--   Version 0.9.7
--   Release date: July 13, 2018
--   [Github release](https://github.com/Anoncoin/anoncoin/releases)
+-   Version 0.9.7.1
+-   Release date: October 23, 2018
+-   [Github release](https://github.com/Anoncoin/anoncoin/releases/tag/v0.9.7.1)
 
 --------
 ## Windows
-__[Download Anoncoin Core 0.9.7 for Windows.](https://github.com/Anoncoin/anoncoin/releases/download/v0.9.7-gost/anoncoin-0.9.7.0-win64.zip)__
-- Save and unzip the archive, chose "keep file" if asked.
+__[Download Anoncoin Core 0.9.7.1 for Windows.](https://github.com/Anoncoin/anoncoin/releases/download/v0.9.7.1/anoncoin-win64-0.9.7.1-setup.exe)__
 - Double-click / open the archive.
 - Click "More info" if asked and chose "Run anyway" and click "Yes".
 - Install and then open "Anoncoin Core (64-bit) Classic to run on clearnet.
@@ -24,7 +23,7 @@ If you want to use I2p you can run "Generate I2P static privatekey" and [follow 
 
 --------
 ## MacOS
-__[Download Anoncoin Core 0.9.7 for MacOS.](https://github.com/Anoncoin/anoncoin/releases/download/v0.9.7-gost/anoncoin-0.9.7.0-macOS.dmg)__
+__[Download Anoncoin Core 0.9.7.1 for MacOS.](https://github.com/Anoncoin/anoncoin/releases/download/v0.9.7.1/anoncoin-mac-0.9.7.1.dmg)__
 - Double-click the downloaded file.
 - Drag "Anoncoin" into "Applications".
 - Right-click the "Anoncoin" application and chose "open".
@@ -34,8 +33,9 @@ If you want to use I2p you can generate I2P static privatekey and [follow the in
 
 --------
 ## Linux
+__[Download Anoncoin Core 0.9.7.1 for Linux.](https://github.com/Anoncoin/anoncoin/releases/download/v0.9.7.1/anoncoin-linux-0.9.7.1.zip)__
 
-Clone the master from [the git repository](https://github.com/Anoncoin/anoncoin), it contains all the source files needed to compile your own binaries. 
+You can also build it from source. Clone the master from [the git repository](https://github.com/Anoncoin/anoncoin), it contains all the source files needed to compile your own binaries. 
 
 ### Quick howto for Ubuntu
 

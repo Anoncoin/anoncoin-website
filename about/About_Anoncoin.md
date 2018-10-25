@@ -18,7 +18,7 @@ There will be only about 3.1 million coins created, which is approximately 7 tim
 Latest news, change of PoW and Anoncash.
 -------------------------
 
-The Anoncoin team released Anoncoin 0.9.7 on 13. July, 2018. This release set a hardfork at block 871111, changing PoW from Scrypt to GOST R 34.11-2012. This is a first step on the way for the release of Anoncash later this year.
+October 23, 2018, Anoncoin Core 0.9.7.1 was released. This was mainly released to fix a bug in the previous version. The Anoncoin team released Anoncoin 0.9.7 on 13. July, 2018. This release set a hardfork at block 871111, changing PoW from Scrypt to GOST R 34.11-2012.
 
 This released fixed issues with some mined blocks not being accepted, and in the process we moved to double GOST R 34.11-2012 hashing algorithm, mined with CPU/GPU. Now everyone in the Anoncoin community can mine, rather than those few who have an ASIC miner.
 
